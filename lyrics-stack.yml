@@ -1,7 +1,7 @@
 version: '3.7'
 
 services:
-  paulweb:
+  webapp:
     image: serverlein/lyrics-analytics:latest
     restart: always
     networks:
