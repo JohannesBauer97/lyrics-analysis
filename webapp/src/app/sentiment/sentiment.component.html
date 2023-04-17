@@ -2,30 +2,45 @@
   <h1>Sentiment Analysis</h1>
   <p>Sentiment analysis is a way to understand the emotional tone in text, whether it's positive, negative, or
     neutral.</p>
-  <h2>{{model.value ?? ""}}</h2>
 
   <div id="wrapper-form">
     <div>
-      <form [formGroup]="sentimentForm" class="form">
+      <form (ngSubmit)="submit()" [formGroup]="sentimentForm" class="form">
         <mat-form-field class="formfield">
           <mat-label>Model</mat-label>
-          <mat-select #model formControlName="model">
-            <mat-option *ngFor="let model of models" [value]="model.value">
-              {{model.viewValue}}
+          <mat-select formControlName="model">
+            <mat-option *ngFor="let model of models" [value]="model.id">
+              {{model.displayName}}
             </mat-option>
           </mat-select>
+          <button (click)="openModelPage()" mat-icon-button
+                  matSuffix>
+            <mat-icon>link</mat-icon>
+          </button>
         </mat-form-field>
+
 
         <mat-form-field class="formfield">
           <mat-label>Text to classify</mat-label>
-          <textarea #text class="formfield-text" matInput placeholder="Ex. I like dogs more than cats..."></textarea>
+          <textarea class="formfield-text" formControlName="text" matInput
+                    placeholder="Ex. I like dogs more than cats..."></textarea>
         </mat-form-field>
 
-        <button color="primary" mat-raised-button>Classify</button>
+        <mat-spinner *ngIf="loadingResults" diameter="40"></mat-spinner>
+        <p *ngIf="errorMessage">{{errorMessage}}</p>
+
+        <app-text-classification-result
+          *ngFor="let classification of textClassificationReturn"
+          [label]="classification.label"
+          [score]="classification.score"></app-text-classification-result>
+
+
+        <button [disabled]="!sentimentForm.valid" color="primary" id="submit" mat-raised-button type="submit">Classify
+        </button>
       </form>
     </div>
     <div>
-      <app-example-list (songSelected)="text.value = $event.lyrics"></app-example-list>
+      <app-example-list (songSelected)="setText($event.lyrics)"></app-example-list>
     </div>
   </div>
 
