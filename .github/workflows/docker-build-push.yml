@@ -33,3 +33,20 @@ jobs:
           context: ./webapp
           push: true
           tags: serverlein/lyrics-analytics:latest
+      -
+        name: Get Portainer Token
+        id: portainerTokenRequest
+        uses: fjogeleit/http-request-action@v1
+        with:
+          url: '${{ secrets.PORTAINER_DOMAIN }}/api/auth'
+          method: 'POST'
+          data: '{"password":"${{ secrets.PORTAINER_PASS }}","username":"${{ secrets.PORTAINER_USER }}"}'
+      -
+        name: Portainer Redeploy
+        uses: fjogeleit/http-request-action@v1
+        with:
+          url: '${{ secrets.PORTAINER_DOMAIN }}/api/stacks/${{ secrets.PORTAINER_STACKID }}/git/redeploy?endpointId=2'
+          method: 'PUT'
+          timeout: 25000
+          bearerToken: '${{ fromJson(steps.portainerTokenRequest.outputs.response).jwt }}'
+          data: '{"env":[],"prune":false,"pullImage":true,"repositoryAuthentication":true,"repositoryPassword":"${{ secrets.PORTAINER_REPOPASS }}","repositoryReferenceName":"refs/heads/main","repositoryUsername":"JohannesBauer97"}'  
