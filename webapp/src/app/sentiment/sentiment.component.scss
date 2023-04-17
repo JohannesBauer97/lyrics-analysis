@@ -5,3 +5,28 @@
   justify-content: center;
   width: 100%;
 }
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 500px;
+
+  .formfield {
+    width: 100%;
+  }
+
+  .formfield-text {
+    height: 500px;
+  }
+
+}
+
+#wrapper-form {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  width: 100%;
+}

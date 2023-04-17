@@ -1,0 +1,7 @@
+<mat-selection-list>
+  <mat-list-item (click)="songSelected.emit(song)" *ngFor="let song of songs">
+    <mat-icon matListItemIcon>lyrics</mat-icon>
+    <div matListItemTitle>{{song.title}}</div>
+    <div matListItemLine>{{song.artist}}</div>
+  </mat-list-item>
+</mat-selection-list>
