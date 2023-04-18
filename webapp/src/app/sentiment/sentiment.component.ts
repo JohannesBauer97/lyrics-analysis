@@ -54,8 +54,10 @@ export class SentimentComponent {
     const text = this.sentimentForm.value.text;
 
     try {
+      this.errorMessage = undefined;
       this.loadingResults = true;
       this.sentimentForm.disable();
+      this.textClassificationReturn = [];
       this.textClassificationReturn = await this.hf.textClassification({
         model: modelName,
         inputs: text
