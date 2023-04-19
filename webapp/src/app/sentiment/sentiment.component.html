@@ -40,7 +40,7 @@
       </form>
     </div>
     <div>
-      <app-example-list (songSelected)="setText($event.lyrics)"></app-example-list>
+      <app-example-list (songSelected)="setText($event.lyrics)" [disabled]="sentimentForm.disabled"></app-example-list>
     </div>
   </div>
 

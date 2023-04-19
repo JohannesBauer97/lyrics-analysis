@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { FormControl, FormGroup, Validators } from "@angular/forms";
 import { HfInference, TextClassificationReturn } from '@huggingface/inference';
+import { ApiKeyService } from '../services/api-key.service';
 
 @Component({
   selector: 'app-sentiment',
@@ -43,6 +44,13 @@ export class SentimentComponent {
   textClassificationReturn: TextClassificationReturn = [];
   loadingResults = false;
   errorMessage?: string;
+
+  constructor(private apiKeyService: ApiKeyService) {
+    const apiKey = this.apiKeyService.getApiKey();
+    if (apiKey) {
+      this.hf = new HfInference(apiKey, {use_cache: true});
+    }
+  }
 
   setText(text: string) {
     this.sentimentForm.controls['text'].setValue(text);

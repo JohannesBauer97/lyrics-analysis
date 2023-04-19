@@ -1,5 +1,5 @@
-<mat-selection-list>
-  <mat-list-item (click)="songSelected.emit(song)" *ngFor="let song of songs">
+<mat-selection-list [disabled]="disabled">
+  <mat-list-item (click)="!disabled?songSelected.emit(song):undefined" *ngFor="let song of songs">
     <mat-icon matListItemIcon>lyrics</mat-icon>
     <div matListItemTitle>{{song.title}}</div>
     <div matListItemLine>{{song.artist}}</div>

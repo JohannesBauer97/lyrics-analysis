@@ -5,6 +5,10 @@
   <a mat-button routerLink="/summarization" routerLinkActive="link-active">Text Summarization</a>
   <a mat-button routerLink="/artists" routerLinkActive="link-active">Artist Analysis</a>
   <div class="toolbar-spacer"></div>
+  <button (click)="openApiKeyForm()" mat-icon-button>
+    <mat-icon
+      [class]="apiKeyService.getApiKey() ? 'key-available' : 'key-unavailable'">{{apiKeyService.getApiKey() ? 'key' : 'key_off'}}</mat-icon>
+  </button>
 </mat-toolbar>
 <router-outlet></router-outlet>
 

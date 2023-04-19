@@ -23,6 +23,8 @@ import {
   TextClassificationResultComponent
 } from './sentiment/text-classification-result/text-classification-result.component';
 import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
+import { MatBottomSheetModule } from '@angular/material/bottom-sheet';
+import { ApiKeyFormComponent } from './api-key-form/api-key-form.component';
 
 @NgModule({
   declarations: [
@@ -31,7 +33,8 @@ import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
     SummarizationComponent,
     ArtistComponent,
     ExampleListComponent,
-    TextClassificationResultComponent
+    TextClassificationResultComponent,
+    ApiKeyFormComponent
   ],
   imports: [
     BrowserModule,
@@ -49,7 +52,8 @@ import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
     MatSelectModule,
     HttpClientModule,
     MatProgressBarModule,
-    MatProgressSpinnerModule
+    MatProgressSpinnerModule,
+    MatBottomSheetModule
   ],
   providers: [],
   bootstrap: [AppComponent]
