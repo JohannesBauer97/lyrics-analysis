@@ -1,0 +1,1065 @@
+{
+    "artist": "Von Wegen Lisbeth",
+    "songs": [
+        {
+            "title": "Wenn du tanzt",
+            "language": "de",
+            "release_date": "2016-07-15",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "Grande",
+            "lyrics": "Latte art, slowly hand-brewed, flat, white coffee Ist einfach Kaffee, wenn du tanzt Fiese Heuschrecken, reudige Immobilienhaie Alles Tiere, wenn du tanzt Lutherstadt Wittenberg, Cloppenburg, Haldensleben Alles Kreuzberg, wenn du tanzt Linkin Park, Timmy Bendzko, Robin Schulz, Revolverheld Alles Kunst, wenn du tanzt  Schließt die Schulen dieser Stadt Weil es keinen Sinn mehr hat Noch ein Weltbild zu vermitteln Das schon durch das kleinste Schütteln Deines linken Schulterblatts Einfach so zusammenkracht Und nur Schutt und Asche ist Wenn du dann am Tanzen bist  Denn, dass diese Welt nicht zusammenfällt Liegt nur allein an deinen Beinen Dass diese Welt nicht zusammenfällt Liegt nur allein an deinen Beinen Dass diese Welt nicht zusammenfällt Liegt nur allein an deinen Beinen Dass diese Welt nicht zusammenfällt Liegt nur an deinen Beinen, wenn du tanzt  Ackermann, Merkel, Jan Fleischhauer, Voldemort Nette Menschen, wenn du tanzt Schicker Mac-Tower, fett Power, Doppel-Octacore Rechenschieber, wenn du tanzt Doppel 6, Tiki-Taka gegen Pressing, falsche Neun Hochhinein, wenn du tanzt Dumme Ex-Freunde, Sex-Buddies, Herzschmerz, Drama Alles Liebe, wenn du tanzt  Schließt die Schulen dieser Stadt Weil es keinen Sinn mehr hat Noch ein Weltbild zu vermitteln Das schon durch das kleinste Schütteln Deines linken Schulterblatts Einfach so zusammenkracht Und nur Schutt und Asche ist Wenn du dann am Tanzen bist  Denn, dass diese Welt nicht zusammenfällt Liegt nur allein an deinen Beinen Dass diese Welt nicht zusammenfällt Liegt nur allein an deinen Beinen Dass diese Welt nicht zusammenfällt Liegt nur allein an deinen Beinen Dass diese Welt nicht zusammenfällt Liegt nur an deinen Beinen, wenn du tanzt",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9949730932712555,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.7817229479551315,
+                    "label": "neutral"
+                }
+            }
+        },
+        {
+            "title": "Bitch",
+            "language": "de",
+            "release_date": "2016-07-12",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "Grande",
+            "lyrics": "Was ist heute so passiert? Meine Virendatenbank wurde aktualisiert Bitteschön und vielen Dank Das ist nice, das ist nice Und was ist sonst noch so passiert? Richtung Dreieck Havelland Draußen kurz vor Rathenow Zehn Minuten Stop and Go Das ist nice, das ist nice Und was ist sonst noch so passiert? Tod von Taube durch U6 Ich hab eh nie ganz gecheckt Warum die eigentlich hier wohnt Bei all den Nägeln und so  Und was ist sonst noch so passiert? Als ich in die Küche ging Um drei Minuten vor halb acht Hab' ich kurz nicht an dich gedacht  Bitch, ich bin für dich Den ganzen Weg gerannt Den ganzen Weg alleine Den ganzen Weg alleine Bitch, ich bin für dich Den ganzen Weg gerannt Den ganzen Weg alleine Den ganzen Weg alleine Alleine bis zu dir  Was ist heute so passiert? Aus Nord-Nord-West kommt heut der Wind Beckham plant sein fünftes Kind Wie schön, dass die geboren sind Das ist nice, das ist nice Und was ist sonst noch so passiert? Fünfzig Grad im ICE Unverschämt, echt nicht okay Killerwels im Schlachtensee Das ist nice, das ist nice Und was ist sonst noch so passiert? Im Doppeldecker 104 Hatt' ich oben zufällig Die erste Reihe nur für mich Das ist nice, das ist nice Und was ist sonst noch so passiert? Als ich in die Küche ging Um drei Minuten vor halb acht Hab' ich kurz nicht an dich gedacht  Bitch, ich bin für dich Den ganzen Weg gerannt Den ganzen Weg alleine Den ganzen Weg alleine Bitch, ich bin für dich Den ganzen Weg gerannt Den ganzen Weg alleine Den ganzen Weg alleine Alleine bis zu dir  Um kurz vor acht hab ich nicht an dich gedacht Um kurz vor acht hab ich nicht an dich gedacht Gelegentlich denk ich gar nicht mehr an dich Gelegentlich nicht  Bitch, ich bin für dich Den ganzen Weg gerannt Den ganzen Weg alleine Den ganzen Weg alleine Bitch, ich bin für dich Den ganzen Weg gerannt Den ganzen Weg alleine Den ganzen Weg alleine Alleine bis zu dir",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9932383149862289,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.925362691283226,
+                    "label": "positive"
+                }
+            }
+        },
+        {
+            "title": "Chérie",
+            "language": "de",
+            "release_date": "2016-07-15",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "Grande",
+            "lyrics": "Du bist nicht super-selbstbewusst Nur weil du zur Begrüßung meine Hand zerquetschst Gut ist der, der schon von Anfang an Auf einen sehr breit aufgestellten Abschluss setzt Ja, ich weiß, trinkst du dein Bier noch aus Wie macht sich sowas eigentlich auf deinem Lebenslauf Sexy Blick, wenn du den Rauch ausstößt Ich gucke neidisch zu, wie er sich in Luft auflöst  Und du siehst mich nachts um Vier Ich schleich' auf Socken aus der Tür  Mach es gut, Chérie Als dein iPhone so grazil In den Landwehrkanal fiel, wusste ich Schöner wird es nie Tut mir Leid, doch ich bin raus Sag Bescheid, wenn du mich brauchst Mach es gut, Chérie Als dein iPhone so grazil In den Landwehrkanal fiel, wusste ich Schöner wird es nie Tut mir Leid, doch ich bin raus Sag Bescheid, wenn du mich brauchst  Lass doch einfach mal den Weizen weg Das ist gar nicht gut mit dem Gluten und so Ja, ich weiß, ich find dein' Leberfleck Eigentlich interessanter als dein Telefon Ach, Chérie, es ist mir echt egal Was du wo und wann gerne für Drogen frisst Doch erzähl mir nichts von diesem Regenwald Honey, wenn du selbst gerade am Koksen bist  Und du siehst mich nachts um Vier Ich schleich' auf Socken aus der Tür  Mach es gut, Chérie Als dein iPhone so grazil In den Landwehrkanal fiel, wusste ich Schöner wird es nie Tut mir Leid, doch ich bin raus Sag Bescheid, wenn du mich brauchst Mach es gut, Chérie Als dein iPhone so grazil In den Landwehrkanal fiel, wusste ich Schöner wird es nie Sag Bescheid, wenn du mich brauchst Tut mir Leid, doch ich bin raus",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9928055206934611,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9474571347236633,
+                    "label": "neutral"
+                }
+            }
+        },
+        {
+            "title": "Meine Kneipe",
+            "language": "de",
+            "release_date": "2016-04-29",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "Grande",
+            "lyrics": "Schneid dir die Haare, mach jetzt Ballett Schmeiß' doch dein Studium oder werd' plötzlich fett Hass deinen Bruder, lieb die AfD Zieh doch nach Brooklyn oder Fürstenwalde-Spree  Ist mir egal, mit wem du chillst Schlaf' auf jedem Klo mit jedem Typen, den du willst Mach mal dein ding mit Herz und Blut Mach dich glücklich, mach dich traurig mach - mach - mach es gut Mach was du willst, aber bring nie wieder Deine neuen Freunde in meine Kneipe  Kauf dir ein Auto, mach deinen Leberfleck weg Geh in die Kirche, verkauf Aktien, verkauf Crack Fang an zu boxen, schreib einen Roman Sprüh an jede Hauswand meiner Straße deinen Namen  Ist mir egal, mit wem du chillst Schlaf' auf jedem Klo mit jedem Typen, den du willst Mach mal dein ding mit Herz und Blut Mach dich glücklich, mach dich traurig mach - mach - mach es gut Mach was du willst, aber bring nie wieder Deine neuen Freunde in meine Kneipe Ist mir egal, mit wem du chillst Schlaf' auf jedem Klo mit jedem Typen, den du willst Mach mal dein ding mit Herz und Blut Mach dich glücklich, mach dich traurig mach - mach - mach es gut Mach was du willst, mach was du willst, aber bring nie wieder Deine neuen Freunde in meine Kneipe",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9925649960835775,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9034698009490967,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Sushi",
+            "language": "de",
+            "release_date": "2014-10-20",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "Grande",
+            "lyrics": "Komm beweis' mir, wie viel du lachst Und dann zeig mir dein Essen, was du machst Deine Füße sind am Meer Du bist in love mit dein' neuen Nike Air Komm erzähl' mir von New Yorker Taxis Oder mach Mädelsabend mit den Schatzis Bei dir zu Hause, um 20 Uhr Ich geh mal eben von der Küche in'n Flur  Lina, ich will dein Sushi gar nicht seh'n Warum ist dein Leben so prima Und du immer so wunder-wunderschön Lina, ich will dein Sushi gar nicht seh'n Warum ist dein Leben so prima Und du immer so wunder-wunderschön  Du in Rom und du vor weißem Kalkstein Baby, du weißt, eines Tages werden wir alt sein Woher ich dich kenne, ich hab keinen blassen Schimmer Aber deine neue Handynummer Gut zu wissen, dass dein Apfelschäler rot ist Und dass du traurig bist, weil jetzt Mandela tot ist Doch stell dir vor, ich kann's kaum fassen Ich hab' heut' Nudelwasser überlaufen lassen  Lina, ich will dein Sushi gar nicht seh'n Warum ist dein Leben so prima Und du immer so wunder-wunderschön Lina, ich will dein Sushi gar nicht seh'n Warum ist dein Leben so prima Und du immer so wunder-wunderschön  Kein neuer Bart, kein Latte Art Kein 4 von 6, kein Haufen Kecks Keine bunten Farben in Deinen Haaren Kein Café Creme, ich muss gesteh'n  Lina, ich will dein Sushi gar nicht seh'n Warum ist dein Leben so prima Und du immer so wunder-wunderschön Lina, ich will dein Sushi gar nicht seh'n Warum ist dein Leben so prima Und du immer so wunder-wunderschön Lina, ich will dein Sushi gar nicht seh'n Warum ist dein Leben so prima Und du immer so wunder-wunderschön Lina, ich will dein Sushi gar nicht seh'n Warum ist dein Leben so prima Und du immer so wunder-wunderschön Lina, ich will dein Sushi gar nicht",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9957607537508011,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.8028894364833832,
+                    "label": "neutral"
+                }
+            }
+        },
+        {
+            "title": "Westkreuz",
+            "language": "de",
+            "release_date": "2019-04-12",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "sweetlilly93@hotmail.com",
+            "lyrics": "Wenn meine neue App recht hat Rauch ich heute zehn Kippen weniger Da spar ich zwei Euro dreißig Da krieg ich vier Bier bei Edeka Es wird sich einiges ändern Der Döner ist jetzt ein Friseursalon Und du weißt nichts davon  Doch der Fahrstuhl am Westkreuz Riecht noch immer nach Pisse Und du weißt nicht Wie doll ich dich vermisse Und der Fahrstuhl am Westkreuz Riecht noch immer nach Pisse Und du weißt nicht Wie doll ich dich vermisse Jaja  Hier ist jetzt einiges anders Guck mal der Bäcker an der Ecke da Der ist jetzt wesentlich teurer Aber früher war er leckerer Es sind jetzt andere Orte Wo dein WLAN sich von selbst verbindet Und wo dich keiner findet  Doch der Fahrstuhl am Westkreuz Riecht noch immer nach Pisse Und du weißt nicht Wie doll ich dich vermisse Und der Fahrstuhl am Westkreuz Riecht noch immer nach Pisse Und du weißt nicht Wie doll ich dich vermisse Jaja  Und der Fahrstuhl am Westkreuz Riecht noch immer nach Pisse Und du weißt nicht Wie doll ich dich vermisse Und der Fahrstuhl am Westkreuz Riecht noch immer nach Pisse Und du weißt nicht Wie doll ich dich vermisse Und der Fahrstuhl am Westkreuz Riecht noch immer nach Pisse Und du weißt nicht Wie doll ich dich vermisse Jaja",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9947932163874308,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9704851110776266,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Lisa",
+            "language": "de",
+            "release_date": "2016-07-15",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "Grande",
+            "lyrics": "Lisa, hör' mir zu, dir kann ich es sagen Ich trag' alle meine Träume zum Bestattungsinstitut Doch immer, wenn ich kotzen muss, geht Liebe durch den Magen Und dann weiß ich, mir geht's gut Lisa, guck, ich probier schon seit zwei Stunden Mit dem Rauchen aufzuhören, aber ich weiß, es hat keinen Sinn Denn immer, wenn mich Grenzallee die Kippenschmuggler grüßen Weiß ich, hier gehör' ich hin  Ich werd' jede meiner Niederlagen feierlich auf Händen tragen  So kaputt kriegst du mich nie Das schaff' ich nur ganz alleine So kaputt kriegst du mich nie Das schaff' ich nur ganz alleine So viel Stolz muss sein  Lisa, hör' mir zu, dir kann ich es sagen Ich werd' Tage lang von meinem eigenen Spiegel ausgebuht Rote Augen sind gefährlich, aber in der Liebe ehrlich Also weiß ich, mir geht's gut Lisa guck, ich hab viele neue Freunde Aus dem Apothekenumfeld und Gastronomiebereich Denn nachts sind alle Katzen grau und keiner ist alleine Ich weiß, wir sind alle gleich  Ich werd' jede meiner Niederlagen feierlich auf Händen tragen  So kaputt kriegst du mich nie Das schaff' ich nur ganz alleine So kaputt kriegst du mich nie Das schaff' ich nur ganz alleine So viel Stolz muss sein  Nimm, nimm, nimm mich auseinander Nimm, nimm, nimm nimm mich nicht ernst Das nimm-nimmst du mir nicht weg Nimm, nimm, nimm mich auseinander Nimm, nimm, nimm nimm mich nicht ernst Das nimm-nimmst du mir nicht weg  So kaputt kriegst du mich nie Das schaff' ich nur ganz alleine So kaputt kriegst du mich nie Das schaff' ich nur ganz alleine So viel Stolz muss sein",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.993486762046814,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9681397875150045,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Drüben bei Penny",
+            "language": "de",
+            "release_date": "2016-07-15",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "Grande",
+            "lyrics": "Zwei Euro Sechzig im Lotto verzockt Den ganzen Tag in deinem Zimmer gehockt Zwischen 60ern, 70ern und ein paar Hits Sind fünf Grad in Mitte und vier Grad im Britz Und du schaust, durch mein Fenster, die Autobahn an Weil man dabei so schön melancholisch sein kann Ich hab dir dein Schweigen nie übel genomm' Doch jetzt hab ich 99 Probleme und du bist jedes davon  Kaufen Sie jetzt meine Träume im XXL-Sparpaket Das drüben bei Penny für Ein Euro Zwanzig beim Kaffee steht Nicht mehr lang haltbar und fassen Sie's vorsichtig an Sag mir, was verdienst du daran  Nachts, wenn der Stadtring zur Spielstraße wird Und sich nicht mal ein Touri ins Viertel verirrt Hör'n sich die Trucks, die nach Buckow rausfahr'n Fast wie das Rauschen vom Elbufer an Immer weiter aufs Meer fahr'n, du kennst dich da aus Sagst, dein Schiff wird ja nicht für den Hafen gebaut Und irgendwo auf Kijiji.de Stellt gerad' jemand mein Herz für ein Euro VB  Kaufen Sie jetzt meine Träume im XXL-Sparpaket Das drüben bei Penny für Ein Euro Zwanzig beim Kaffee steht Nicht mehr lang haltbar und fassen Sie's vorsichtig an Sag mir, was verdienst du daran  Sag mir, was verdienst du daran Sag mir, was verdienst du daran",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9945966005325317,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.8967340985933939,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Komm mal rüber bitte",
+            "language": "de",
+            "release_date": "2016-07-15",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "Grande",
+            "lyrics": "Und du willst mit 17 Jahren Wirklich auf die Uni gehen Es kann sein dass ich mich täusche Doch man kann Sperma auf deinem Hoodie sehen Papa sagt so geht’s nicht weiter Papa will mehr Leistung sehn Und er nennt mich voller Panik Immer nur ‚Du-weißt-schon-wen’  Und all die zuckersüßen Chancen flüstern mir ins Ohr \"Komm mal rüber bitte\" \"Komm mal rüber bitte\" \"Komm mal rüber bitte\" \"Komm mal rüber bitte\"  Ist die Snooze Funktion von meinem Handy Die Erfindung des Jahrhunderts Warum rennt hier jeder weiter Viel zu weit und keinen wunder'ts Sie rufen \"Excel, Excel yeah, Tabelle\" Jetzt wird outgesourced im Hinterkopf Doch im Wechselbad meiner Gefühle Gibt es keinen Bademeisterjob  Und all die zuckersüßen Chancen flüstern mir ins Ohr \"Komm mal rüber bitte\" \"Komm mal rüber bitte\" \"Komm mal rüber bitte\" \"Komm mal rüber bitte\" Nein!  Und all die zuckersüßen Chancen flüstern mir ins Ohr \"Komm mal rüber bitte\" \"Komm mal rüber bitte\" \"Komm mal rüber bitte\" \"Komm mal rüber bitte\" Nein!",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9951080083847046,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.963814914226532,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Lieferandomann",
+            "language": "de",
+            "release_date": "2019-03-08",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "sweetlilly93@hotmail.com",
+            "lyrics": "Was schaut der Typ von Kaiser's Tengelmann Mich so rotzfrech durch die Menge an? Warum räumt der nicht ganz normal Seinen scheiß Spinat in das Regal? Der hat dir gestern sicher Brot verkauft Und seine Handynummer obendrauf Und hat gesagt, die geht aufs Haus, Madame Was fängst du bloß mit solchen Typen an?  Ich bin der Lieferandomann Für das kranke Tier in mir Dass sich nur ernähren kann Weil ich ihm die Brote schmier' Alles wächst, wenn man es gießt Sag Bescheid, wenn du sie siehst  Der schönste Mann im ganzen Nahverkehr Auch wenn es wirklich reiner Zufall wär' Fährt doch nicht einfach nachts um vier Genau bis vor deine Tür Ich weiß es gibt zwar die Option Dass hier noch andere Menschen wohnen Doch wenn man ehrlich zu sich ist Realistisch ist es nicht  Ich bin der Lieferandomann Für das kranke Tier in mir Dass sich nur ernähren kann Weil ich ihm die Brote schmier' Alles wächst, wenn man es gießt Sag Bescheid, wenn du sie siehst  Es atmet, es wartet, es hört mir zu Ich will, dass es stirbt, doch es gibt nie Ruh' Kein faules Stück Toast und kein alten Schuh Ich bring' ihm die beste Tiramisù Es atmet, es wartet, es gibt nie Ruh' Ich bring' ihm die beste Tiramisù  Ich bin der Lieferandomann Für das kranke Tier in mir Dass sich nur ernähren kann Weil ich ihm die Brote schmier' Alles wächst, wenn man es gießt Sag Bescheid, wenn du sie siehst",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9926606814066569,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.8647144635518392,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Becks Ice",
+            "language": "de",
+            "release_date": "2016-07-15",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "Grande",
+            "lyrics": "Ich hatte nichts geplant Ich hatte nichts geahnt Doch du bist plötzlich zugezogen Wie der Himmel vorm Gewitter Keine hat mich gewarnt Du hast dich gut getarnt Und jetzt guckst du lachend zu Wie ich über's Glatteis schlitter Ich dachte fast ein Jahr Dass es so besser war Denn zwischen uns lag der Pazifik, ein Gebirge und ein Kniefick Dann eine Party spät in der Nacht Welcher Bastard hat dich hergebracht? Doch tief in meinem Innern will ein Monster dich verschlingen  Ich hab keine Zeit mehr zu verlieren Mein Bauch wird eins plus eins niemals kapieren Ich hab keine Zeit mehr zu verlieren Und ach weißt du Becks Ice schmeckt auch Zuhause, genauso Nach Brause – wie hier Für Mai in dieser Stadt Ist es gefährlich glatt Warum findet diese Party nicht in einem Kloster statt Was hast du dir gedacht? Das hier ist meine Stadt Meine Straße, meine Häuser kenne ich viel länger Meine Sparkassenpenner Wenn wir jetzt Funken schlagen explodiert der ganze Laden Und ich guck dir auf die Lippen Wo sind eigentlich meine Kippen? Wenn wir jetzt Funken schlagen explodiert der ganze Laden Und ich guck dir auf die Kippen Wo sind eigentlich meine Lippen?  Ich hab keine Zeit mehr zu verlieren Mein Bauch wird eins plus eins niemals kapieren Ich hab keine Zeit mehr zu verlieren Und ach weißt du Becks Ice schmeckt auch Zuhause, genauso Nach Brause – wie hier  Warum sind wir eigentlich hier Warum trinkt hier keiner Bier Seit wann stehst du auf Becks Ice und Lachsfilet? Und warum kommst du eigentlich unter Einfluss eines reichlich süßen Alkopopgetränks Auf eine Schnapsidee  Ich hab keine Zeit mehr zu verlieren Mein Bauch wird eins plus eins niemals kapieren Ich hab keine Zeit mehr zu verlieren Und ach weißt du Becks Ice schmeckt auch Zuhause, genauso Nach Brause – wie hier",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9947518557310104,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.835845597088337,
+                    "label": "neutral"
+                }
+            }
+        },
+        {
+            "title": "Elon",
+            "language": "de",
+            "release_date": "2022-07-08",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "EZ Aquarii",
+            "lyrics": "Ich stand mit Elon Musk Nachts in der Schlange vor der Tür Wir haben kurz geschnackt Er trank ein'n Schluck von meinem Bier „Wie läuft's in Brandenburg?“ „Ja, die Fabrik macht mächtig Dampf“ Und ich erwähnte kurz Meine Theorie vom Klassenkampf Doch eh ich mich versah, war er plötzlich nicht mehr da  Elon Musk kommt nicht ins Berghain Ach, Elon, Elon, nein, nein, nein So lassen die dich da nicht rein Ich weiß, es ist total gemein Elon, Elon, nein, nein, nein  Ich hab' nach ihm gesucht Und fand ihn wütend und frustiert Ich sagte: „Elon, sei nicht traurig Das ist uns allen schon passiert Siehst du da oben all die Sterne? Irgendwo da ist der Mars Da hat man sicherlich Mindestens denselben Spaß“  Elon Musk kommt nicht ins Berghain Ach, Elon, Elon, nein, nein, nein So lassen die dich da nicht rein Ich weiß, es ist total gemein Elon, Elon, nein, nein, nein Elon Musk kommt nicht ins Berghain Ach, Elon, Elon, nein, nein, nein So lassen die dich da nicht rein Und wenn ich dir was raten darf Money can't buy you love",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9806373417377472,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9170809388160706,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Alexa gib mir mein Geld zurück!",
+            "language": "de",
+            "release_date": "2019-05-03",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "sweetlilly93@hotmail.com",
+            "lyrics": "Warum hat jedes Ronaldo-Highlight-YouTube-Video Nur scheiß Musik und überhaupt Wer hat mein Hinterrad geklaut? Was ist der Sinn ganz generell Von Sternburg Doppel Karamell? Ist das von Tupac oder Brecht? Swipe ich nach links oder nach rechts? Mach' ich noch ein Praktikum?  Alexa, gib mir mein Geld zurück! So hatt' ich das doch alles nicht geplant Alexa, gib mir mein Geld zurück! Wieso hat mich kein Mensch davor gewarnt Alexa, gib mir mein Geld zurück! Ich dachte, du bist die, die mich versteht Alexa, gib mir mein Geld zurück! Ich dachte, endlich sagt mir jemand wie es geht  Wann lern' ich endlich aus meinen Fehlern Ja, guten Tag, wie heißt denn hier das WLAN? Wann ist hier eigentlich wieder was los und Warum gibt's so viel Wettbüros? Warum war früher alles viel schöner? Warum macht ihr Mayonnaise in den Döner? Und warum ist die AfD immer noch da Obwohl ich heut beim Yoga war? Mach' ich noch ein Praktikum?  Alexa, gib mir mein Geld zurück! So hatt' ich das doch alles nicht geplant Alexa, gib mir mein Geld zurück! Wieso hat mich kein Mensch davor gewarnt? Alexa, gib mir mein Geld zurück! Ich dachte, du bist die, die mich versteht Alexa, gib mir mein Geld zurück! Ich dachte, endlich sagt mir jemand wie es geht",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9977145989735922,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9222219785054525,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "14 Tage Testversion",
+            "language": "de",
+            "release_date": "2013-11-26",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "",
+            "lyrics": "Was zieh' ich an? Meine Klamotten verschimmeln in der Maschine Ich setze Kaffee auf und dann Die Sieben-Tage-Regenwetter-Miene Ich hab' so viel' Ringe um die Augen Mein Gesicht sieht aus wie ein Mandala Komm, mal es aus Ich kann aber Nicht aus'm Haus Sag, wie sieht die Bar Eigentlich von draußen aus?  Sie sperrt meine Nummer Und die Spasten von YouTube mein Lieblingslied Warum bau' ich mein Luftschloss Direkt ins Asbest-Industriegebiet?  Und irgendwo zwischen dünnem Eis und einziger Option Beschmier' ich mit Edding deine denkmalgeschützte Konstruktion Das ist nicht Fisch, nicht Fleisch, eher so Magerquark Mein Hirn ist grad auf Wandertag Kein Risiko, La Light Aktion Hier kommt die 14 Tage Testversion  Sie sperrt meine Nummer Und die Spasten von YouTube mein Lieblingslied Warum bau' ich mein Luftschloss Direkt ins Asbest-Industriegebiet? Sie sperrt meine Nummer Und die Spasten von YouTube mein Lieblingslied Warum bau' ich mein Luftschloss Direkt ins Asbest-Industriegebiet? Sie sperrt meine Nummer Und die Spasten von YouTube mein Lieblingslied Warum bau' ich mein Luftschloss Direkt ins Asbest-Industriegebiet?  Sie sperrt meine Nummer Und die Spasten von YouTube mein Lieblingslied",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9955489635467529,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9941579103469849,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "L.OST",
+            "language": "de",
+            "release_date": "2021-05-14",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "EZ Aquarii",
+            "lyrics": "Wieder völlig lost Lichterfelde Ost Und ich bin allein Wieder völlig lost Lichterfelde Ost Und ich bin allein  13 Grad und der siebte Kaffee Und zwei SMS von blau.de Nichts zu tun und kein Datenvolum'n Und jeder hier weiß, ich dreh' mich im Kreis Es wär irgendwie schön, wenn du schreibst Aber, ach eigentlich, ich versteh' auch, wenn nicht Und \"Zurückbleiben!\" ruft's aus der Tür Ich glaube, der geht's genauso wie mir  Wieder völlig lost Lichterfelde Ost Und ich bin allein Wieder völlig lost Lichterfelde Ost Und ich bin allein   Ich bin da, wo mich keiner mehr sieht Mein Kopf und mein Bauch, ein Naturschutzgebiet Wo's so kalt ist, dass alle erfrier'n Nur Worte von dir, geh'n in mir spazier'n  Wieder völlig lost Lichterfelde Ost Und ich bin allein Wieder völlig lost Lichterfelde Ost Und ich bin allein  Schick Standort Schick Standort Ich find keine Antwort Ich dreh' mich im Kreis, ich Ich weiß nicht wohin  Wieder völlig lost Lichterfelde Ost Und ich bin allein Wieder völlig lost (Schick Standort) Lichterfelde Ost (Schick Standort) Und ich bin allein (Ich weiß nicht)",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9970695376396179,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9235581159591675,
+                    "label": "neutral"
+                }
+            }
+        },
+        {
+            "title": "Milchschaum",
+            "language": "de",
+            "release_date": "2014-06-06",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "Grande",
+            "lyrics": "Gespräche über guten Milchschaum haben keine Existenzberechtigung Während einer Softskill-Analyse traf ich schlüsselkompetenzlos eine Feststellung Ich bin relativ gut Relativ gut mit euch ausgekommen Und ich weiß jetzt wieso Ich weiß jetzt wieso, ich hab es rausbekommen  Wie schon Ricky Martin sagte Buhrufe sind lauter als Applaus Wie schon Ricky Martin sagte Buhrufe sind lauter als Applaus Lauter als Applaus  Kein Hut, kein Bock, kein Nebenhirn Und rückwärts ran, doch rückwirkend, gilt mein Beschluss Dass ich mir diese Schuhe, die nicht meine sind Mal ausversehen angezogen haben muss Denn bis ich all euren Müll All euren Müll aus dem Fenster warf Kratzte sich jede Kritik Am Stamm meines Egos die Krallen scharf  Wie schon Ricky Martin sagte Buhrufe sind lauter als Applaus Wie schon Ricky Martin sagte Buhrufe sind lauter als Applaus Lauter als Applaus Wie schon Ricky Martin sagte Buhrufe sind lauter als Applaus Wie schon Ricky Martin sagte Buhrufe sind lauter als Applaus Lauter als Applaus",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9966508448123932,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9600119292736053,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Am wenigsten zu sagen",
+            "language": "de",
+            "release_date": "2019-05-03",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "sweetlilly93@hotmail.com",
+            "lyrics": "Ich muss nach Lichtenberg und du zurück nach Hause Jetzt bist du aufgewacht und schaust mich nicht mehr an Der Bauarbeiter gegenüber macht grad' Pause Wie der mir einfach so in’ Rücken fallen kann Ist das überhaupt gewerkschaftlich erlaubt? Muss der mich vor seiner Kunstpause nicht fragen? Jetzt ist die Stille da und keiner kriegt sie raus Ich hab da, wo ich am meisten fühl', am wenigsten zu sagen  Wo sind all die kleinen Gangster in Picaldi Und die spanischen Touristen, die hier eigentlich sitzen müssten? Genau dann, wenn ich sie brauche, hat sich keiner hergetraut Gehts nur mir so oder schweigen wir zu laut?  Und mein Nachbar ist ein Heuchler und Verräter Der weiß genau, sein DHL-Paket liegt hier Doch warum holt er's dann nicht jetzt, sondern erst später? Mich lässt er im Stich und die Stille lässt er hier Ich mein’, was ist das für ein komisches Verhalten? Eine Treppe, so viel Aufwand is' es nich' Doch der traut sich nicht und hofft, es bleibt beim Alten Ich glaube ja, der ist genau wie ich  Wo sind all die kleinen Gangster in Picaldi Und die spanischen Touristen, die hier eigentlich sitzen müssten? Genau dann, wenn ich sie brauche, hat sich keiner hergetraut Gehts nur mir so oder schweigen wir zu laut?",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9918497999509176,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.8508250117301941,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Der Untergang des Abendlandes",
+            "language": "de",
+            "release_date": "2016-07-15",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "Grande",
+            "lyrics": "Oh, nein, kann es sein, dass sich ganz von allein dieses Test-Abo gestern verlängert hat Und diese Center Shocks schmecken auch nicht mehr wie früher Oh, nein, kann es sein Wird mein Kater bald Vater weil er Charlys Katze geschwängert hat Und jetzt droht sie mir mit dem Gerichtsvollzieher  Und auf einmal weiß ich, wovon die Leute reden Und auf einmal weiß ich, plötzlich was sie meinen Das muss dieser Untergang des Abendlands sein  Oh, nein, was ist, wenn diese Linda von Tinder mich anlügt und eigentlich Kinder will Und dieser Stream hier buffert auch schon seit 'ner Stunde Oh, nein, warum gibt’s in dem Ding, wo wir früher so gerne rumhingen kein Kindl mehr Jetzt bin ich pleite nach der allerersten Runde  Und auf einmal weiß ich, wovon die Leute reden Und auf einmal weiß ich, plötzlich was sie meinen Das muss dieser Untergang des Abendlands sein  Und auf einmal weiß ich, wovon die Leute reden Und auf einmal weiß ich, plötzlich was sie meinen Das muss dieser Untergang des Abendlands sein",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9962818920612335,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9901615381240845,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Alle 11 Minuten",
+            "language": "de",
+            "release_date": "2019-05-03",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "sweetlilly93@hotmail.com",
+            "lyrics": "Hallo Carina Wie läuft's im Büro? Wir sollten mal wieder Ins Café oder so Na klar, hat es Keine Polizeigewalt gegeben Das regelt der Markt von alleine Ja, ja, auf jeden  Niemand hat vor eine Mauer zu bauen Ich glaub', der Film zu dem Buch wird ein Traum Langsam ist's wirklich schon viel zu lang her Du fehlst mir nicht mehr  Ich hab' mich schon wieder In elf Minuten verliebt Ich wüsst' voll gern ob's Fotos Eurer Weltreise gibt Dein Hafermilch-Cheesecake Ist wirklich sehr sahnig Und komplett ohne Zucker Schmeckt man fast gar nicht  Niemand hat vor eine Mauer zu bauen Ich glaub', der Film zu dem Buch wird ein Traum Langsam ist's wirklich schon viel zu lang her Du fehlst mir nicht mehr  Niemand hat vor eine Mauer zu bauen Ich glaub', der Film zu dem Buch wird ein Traum Langsam ist's wirklich schon viel zu lang her Niemand hat vor eine Mauer zu bauen Ich glaub', der Film zu dem Buch wird ein Traum Langsam ist's wirklich schon viel zu lang her",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.993302971124649,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9872308671474457,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Alles was ich gerne hätte",
+            "language": "de",
+            "release_date": "2019-05-03",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "sweetlilly93@hotmail.com",
+            "lyrics": "Alles was ich gerne hätte, wäre eine Zigarette Und dich ganz alleine Da wo alle randalieren, führ' ich meinen Verstand spazieren Ich will dich ganz alleine An der Bank am Britzer Garten werd' ich einfach auf dich warten Und du wirst mich sehen Du wirst sagen: „Ach, wie schön, ziemlich lange nicht gesehen!“ Und, und dann können wir gehen Und dann können wir gehen  Alles was ich gerne hätte, wäre eine Zigarette Und dich ganz alleine Is' schon klar, ich weiß, es geht nicht, aber nur mal theoretisch Ich will dich ganz alleine Deinen kleinen Pustekuchen brauch' ich gar nicht zu versuchen Ich will dich ganz alleine Ich bin immer da, Habibi, schleiche um dich rum, Nagini Ich für dich ganz alleine Für dich ganz allein  Gleich hinter Aral Ausfahrt Nuthetal Da schmier' ich auf den Stein Ich will dich allein",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9914324581623077,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9584980607032776,
+                    "label": "neutral"
+                }
+            }
+        },
+        {
+            "title": "Staub und Schutt",
+            "language": "de",
+            "release_date": "2019-05-03",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "sweetlilly93@hotmail.com",
+            "lyrics": "Komplettentrümplung und Demontage Preis hängt ab von der Etage – Stabiles Angebot Doch wer hängt das an meine Tür? Der weiß doch selber, so 'ne Annonce Hat hier im Viertel gar keine Chance Wer Demontage sucht, kommt sowieso zu mir  Ich bin ein Abrissunternehmen Das heimlich Steuern unterschlägt Und wenn sich alle schlafen legen An deinem Dachstuhlbalken sägt Und wenn du aufwachst, bin ich lange Mit meinen Baggern eingerückt Dann ist hier alles Staub und Schutt Du schenkst mir was, ich mach's kaputt  Sehr geehrter Herr Kommissar Eines is' ja mal völlig klar Sie sind ein Hurensohn Bitte nehm'n sie's mir nicht krumm Doch der Typ, der seine Frau erstickte Der, der Heroin vertickte Seine eigene Tochter fickte Alles Kavaliersdelikte Und ich sitz' hier noch rum  Ich bin ein Abrissunternehmen Das heimlich Steuern unterschlägt Und wenn sich alle schlafen legen An deinem Dachstuhlbalken sägt Und wenn du aufwachst, bin ich lange Mit meinen Baggern eingerückt Dann ist hier alles Staub und Schutt Du schenkst mir was, ich mach's kaputt",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9935652812321981,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9768502116203308,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Sweet Lilly",
+            "language": "de",
+            "release_date": "2019-05-03",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "sweetlilly93@hotmail.com",
+            "lyrics": "Sweet Lilly schreibt ein Gedicht Darf ich es lesen? (Mhm) Eher nicht Sweet Lilly schreibt gerne Songs Darf ich sie hören? (Mhm) Keine Chance  Sweet Lilly ist so schüchtern Sweet Lilly ist so nett Sie würde dir nie wehtun Außer du triffst sie im Internet  Sweet Lilly malt ein Portrait Wird sie's mir zeigen? (Mhm) Ne, ne, ne Sweet Lilly, kalt wie Kristall Will sie sich wärmen? Auf keinen Fall  Sweet Lilly ist so schüchtern Sweet Lilly ist so nett Sie würde dir nie wehtun Außer du triffst sie im Internet  Sweet Lilly schreibt ein Gedicht Darf ich es lesen? (Mhm) Eher nicht",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9967038333415985,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.8997207581996918,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Irgendwas über Delfine",
+            "language": "de",
+            "release_date": "2019-05-05",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "sweetlilly93@hotmail.com",
+            "lyrics": "Ich kauf' Avocados aus Peru Und schmeiß’ Kippen auf den Boden Hör' meistens überhaupt nicht zu Krieg' nie genug und bin verlogen Ich bestell’ mir einen Schuh bei Amazon Und überleg' stundenlang welchen Vielleicht sollt' ich zur Demonstration Oder ich guck halt 'n paar YouTube-Compilations  Ich hab' den ganzen Tag verpennt Ich mag nur Trauben ohne Kerne Ich glaub', ich bin kein guter Mensch Doch ein Gutmensch bin ich gerne  Mein Kumpel fährt nach Lesbos und Athen Und rettet Menschen, wenn er kann Ich kratz' Alufolie von mein' Bier Und check Beyoncés Instagram Kauf’ keine Obdachlosen-Magazine Doch Billig-Kaffee aus Uganda Dann guck ich irgendwas über Delfine Oder gleich drei Staffeln nacheinander  Ich hab’ den ganzen Tag verpennt Ich mag nur Trauben ohne Kerne Ich glaub', ich bin kein guter Mensch Doch ein Gutmensch bin ich gerne Ich hab’ den ganzen Tag verpennt Ich mag nur Trauben ohne Kerne Ich glaub', ich bin kein guter Mensch Doch ein Gutmensch bin ich gerne",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9958993792533875,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9878070056438446,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Bärwaldpark",
+            "language": "de",
+            "release_date": "2016-07-15",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "Grande",
+            "lyrics": "Da, wo der höchste Berg nur ein Hügel ist Auf den man, wenn überhaupt nur zur Walpurgisnacht geht Da, wo der Bärwaldpark eine Lüge ist Weil er aus einem begrünten Mittelstreifen besteht  Da hab ich mich noch nie für Natur interessiert Und jeden der's tut find' ich komisch Wenn es regnet bleib drin, wenn es schneit, guck halt raus Doch es schneit ja hier sowieso nicht  Doch komisch ist auch, dass ich Seit ich bei dir war freiwillig im Park rumspazier' Das liegt weniger am Park und viel, viel mehr an dir  Da, wo der schönste Fluss voller Seife ist Und von einem Spezialboot künstlich beatmet wird Da, wo die beste Luft in 'ner Kneipe ist Und sich flüssig und grün in meinem Schnapsglas verirrt  Da hab ich mich noch nie für Natur interessiert Und jeden der's tut find' ich komisch Wenn es regnet bleib drin, wenn es schneit, guck halt raus Doch es schneit ja hier sowieso nicht  Doch komisch ist auch, dass ich Seit ich bei dir war freiwillig im Park rumspazier' Das liegt weniger am Park und viel, viel mehr an dir  Da hab ich mich noch nie für Natur interessiert Und jeden der's tut find' ich komisch Wenn es regnet bleib drin, wenn es schneit, guck halt raus Doch es schneit ja hier sowieso nicht  Doch komisch ist auch, dass ich Seit ich bei dir war freiwillig im Park rumspazier' Das liegt weniger am Park und viel, viel mehr an dir",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.989812970161438,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9875763654708862,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Wieso",
+            "language": "de",
+            "release_date": "2019-05-03",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "sweetlilly93@hotmail.com",
+            "lyrics": "Schreib mir nicht, du weißt, wieso Mein Handy liegt im gelben Sack Besuch mich nicht, du weißt, wieso Ersatzverkehr bis Hermannplatz Lad' mich nicht ein, du weißt, wieso Ich hab' kein Ticket für die Tram Küss mich nicht, du weißt, wieso Küss mich nicht, du weißt, wieso  Wieso, wieso, wieso, wieso Wieso, wieso, wieso, wieso Wieso, wieso, wieso, wieso Wieso, wieso, wie so was schief gehen kann  Schreib keine Mails, du weißt, wieso Ich weiß nicht, wie mein Passwort heißt Mein erstes Haustier sowieso Ist doch bekloppt, wer das noch weiß Ich will kein Bier, du weißt, wieso Mein Späti macht jetzt sonntags zu Küss mich nicht, du weißt, wieso Küss mich nicht, du weißt, wieso  Wieso, wieso, wieso, wieso Wieso, wieso, wieso, wieso Wieso, wieso, wieso, wieso Wieso, wieso, wie so was schief gehen kann  Wieso, wieso, wieso, wieso Wieso, wieso, wieso, wieso Wieso, wieso, wieso, wieso Wieso, wieso, wie so was schief gehen kann",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9967172741889954,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9937146008014679,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "US-Studie",
+            "language": "de",
+            "release_date": "2014-10-24",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "Und plötzlich der Lachs",
+            "lyrics": "Ja, ich hab gemerkt, dass sich die Rolltreppe vor Lidl Seit zwei Tagen noch viel langsamer als sonst dreht Und glaub nicht mir sei entgangen Dass jeder Döner, den ich kaufe Schon nach einem Bissen Ständig unten aufgeht Heute fährt die 18 nur bis Frankfurt an der Oder Glaube nicht, ich hätte es nicht realisiert Guck wie das hässliche Gesicht Der gerade abfahrenden U-Bahn Voller Schadenfreude jubelnd triumphiert  Doch einer neuen US-Studie zufolge Hast du nichts damit zu tun  Der gültige Rekord für Dauerniederschlag im Juli Wird mit mir als Zeugen grad' pulverisiert Ich überleg' ob ich dir schreibe Jedes Wort ist TÜV-geprüft Und auf eventuelle Folgen präpariert Sähst du mehr aus wie Jesus wär' ich eBay-Millionär Ich seh' in jedem Toastbrot ständig dein Gesicht Ich schau' dem Typ vom Ordnungsamt Nur zwei Sekunden in die Augen Und er weiß sofort mein Roller hat kein Licht  Doch einer neuen US-Studie zufolge Hast du nichts damit zu tun  Nichts damit zu tun Nichts damit zu tun Nichts damit zu tun!",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9901999235153198,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9456416070461273,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Jede Ratte der U8",
+            "language": "de",
+            "release_date": "2019-05-03",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "sweetlilly93@hotmail.com",
+            "lyrics": "Schicke Wohnung, muss man kaufen Wenn man noch die Chance hat Und du bist ja durch die Arbeit Sowieso oft in der Stadt Nette Leute, super Lage Und ein Späti ist nicht weit Klasse Kapitalanlage Und ein prima Zeitvertreib  Jede Ratte der U8 Wünsch' ich mir zu dir aufs Dach  Da gibts gar nichts zu verlieren Du musst nur noch irgendwie Völlig sinnlos renovieren Und dann schön Airbnb  Jede Ratte der U4 Ist schon auf dem Weg zu dir Jede kleine Ratte der U9 Wird sich über deine Wohnung freuen Jede kleine Ratte der U3 Kommt noch heute Nacht bei dir vorbei  Jede Ratte der U8 Wünsch' ich mir zu dir aufs Dach",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9967969059944153,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.8625553250312805,
+                    "label": "positive"
+                }
+            }
+        },
+        {
+            "title": "Momo",
+            "language": "de",
+            "release_date": "2021-08-26",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "Opti ",
+            "lyrics": "Mach' es langsam, mach' es Slow-Mo, Momo Guck ich lauf nicht weg Mach' es langsam, mach' es Slow-Mo, Momo Hält dich an mir fest  Gut schmeckt der Rauch, deine Lippen auch Wir hab'n seit Stunden nichts gesagt Und die Angst die uns im Nacken saß Sitzt jetzt allein im Körnerpark  Mach' es langsam, mach' es Slow-Mo, Momo Guck ich lauf nicht weg Mach' es langsam, mach' es Slow-Mo, Momo Hält dich an mir fest  „Fu-Gee-La-La“ läuft beim Nachbar In einer Welt weit weg von hier Nur du und ich auf deinem Teppich Kratzen die Folie von dem Bier  Mach' es langsam, mach' еs Slow-Mo, Momo Guck ich lauf nicht weg Mach' es langsam, mach' es Slow-Mo, Momo Hält dich an mir fеst   Mach' es langsam, mach' es Slow-Mo, Momo Guck ich lauf nicht weg Mach' es langsam, mach' es Slow-Mo, Momo Hält dich an mir fest Mach' es langsam, mach' es Slow-Mo, Momo Guck ich lauf nicht weg Mach' es langsam, mach' es Slow-Mo, Momo Hält dich an mir fest",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9972333312034607,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9409208595752716,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Freigetränke",
+            "language": "de",
+            "release_date": "2016-07-14",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "Grande",
+            "lyrics": "Der Produktentwickler schlägt Alarm, du weißt warum Passt uns grad ganz gut in'n Kram, du weißt warum Wir wollen eh nicht mit euch Taxi fahren, du weißt warum Ooohh Wir sind nur wegen den Freigetränken hier  Keiner hat das Album abgemischt, du weißt warum Jetzt wird richtig ordentlich aufgetischt, du weißt warum Aus dem zweiten Deal wird leider nichts, du weißt warum Ooohh Wir sind nur wegen den Freigetränken hier  Ich unterhalte mich mit dir Ich unterhalte mich mit dir Ich unterhalte mich mit dir Doch wir sind nur wegen den Freigetränken hier  Wenn der Art Director komisch guckt, du weißt warum Er hat Angst um das Gesamtprodukt, du weißt warum Jetzt wird wieder in die Lobby gespuckt, du weißt warum Ooohh Wir sind nur wegen den Freigetränken hier  Ich unterhalte mich mit dir Ich unterhalte mich mit dir Ich unterhalte mich mit dir Doch wir sind nur wegen den Freigetränken hier  Ooh, ooh Ooh, ooh Ooh, ooh",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9969043433666229,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.852055013179779,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Unterm Schrank",
+            "language": "de",
+            "release_date": "2016-07-15",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "Grande",
+            "lyrics": "Unter'm Schrank da neben der Zeitschrift Sind zwei Dielen anders lackiert Guck, da hat irgendjemand mit Bleistift Unterm Staub eine Stelle markiert Und da geht es steil ohne Stufen Drei Meter hinab ohne Licht Und da hört man sie manchmal noch rufen Die Pflicht, doch ich höre sie nicht  Ich verschwende Zeit mit dir Ich verschwende Zeit mit dir Und es gibt nichts was ich lieber täte  Und die Pflicht kann rufen bis sie heiser wird Unter der drei Meter Stahlbetonschicht Wenn sie da raus kommt, dann brüllt sie und schreit Doch wenn du da bist, dann hör ich sie nicht  Ich verschwende Zeit mit dir Ich verschwende Zeit mit dir Und es gibt nichts was ich lieber täte",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9931476712226868,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.8727962970733643,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Lang lebe die Störung im Betriebsablauf",
+            "language": "de",
+            "release_date": "2014-10-24",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "Und plötzlich der Lachs",
+            "lyrics": "Wenn mit 110 im Kreisverkehr Das Gerät nicht mehr zu bremsen wär Und keiner abspringt aber alle hinten drauf, dann ruf ich Lang lebe die Störung im Betriebsablauf Ich würd gern mit dir was trinken gehen Doch du sagst ich müsse auch verstehn Das liest sich kacke in deinem Lebenslauf, ich rufe Lang lebe die Störung im Betriebsablauf  Wenn du so doll in den Apfel beißt Dass dir irgendwann der Faden reißt Gib doch endlich mal das Rennen auf und rufe Lang lebe die Störung im Betriebsablauf Wenn die Frage nach dem Hauptgewinn Dich komplett aus der Fassung bringt Stell dich mit beiden Füßen auf den Schlauch und rufe Lang lebe die Störung im Betriebsablauf  Wenn mit 110 im Kreisverkehr Das Gerät nicht mehr zu bremsen wär Und keiner abspringt aber alle hinten drauf, dann ruf ich Lang lebe die Störung im Betriebsablauf",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9965732395648956,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9449730217456818,
+                    "label": "neutral"
+                }
+            }
+        },
+        {
+            "title": "Podcast",
+            "language": "de",
+            "release_date": "2021-05-14",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "L.OST / Podcast",
+            "lyrics": "Wah-uhh Wah-uhh Wah-uhh Wah-uhh  Ich wart' jetzt seit 'ner halben Stunde Auf ein ziemlich kleines Bier Und bin ja trotzdem gut bedient Denn ich sitz' hier allein mit dir  Du sagst, du bist grad in so 'ner Phase Wo du dich ganz neu strukturierst Und einfach tausend neue Sachen Gleichzeitig probierst  Freut mich das zu hören (Wah-uhh) Woran hast du denn gedacht? Vielleicht was Kreatives? Oder was dich glücklich macht? Oder was mit Blockchain? (Wah-uhh) Oder brau' dein eig'nes Bier Aber eines, verspreche mir  Mach bitte, bitte, bitte, keinen Podcast Auch nicht mit einem Freund von dir Ich weiß, ihr habt euch ganz viel zu erzähl'n Und dann erzählst du's immerhin nich' mir Doch mach bitte, bitte, bitte, keinen Podcast Auch nicht mit einem Freund von dir Ich weiß, ihr habt euch ganz viel zu erzähl'n Und dann erzählst du's immerhin nich' mir  Wah-uhh Wah-uhh (Huh-huh) Wah-uhh Wah-uhh  Ich krame stumm aus meiner Tasche Einen Kaugummi hervor Vielleicht kaust du ja lieber darauf Als auf meinem Ohr  Tu dir keinen Zwang an (Wah-uhh) Lass einfach alles raus Zeig mir noch mehr Urlaubsfotos Ich halt' das schon aus Aber falls dir jemals (Wah-uhh) etwas an der Menschheit lag Hier, ein ernstgemeinter Rat: Mach bitte, bitte, bitte, keinen Podcast Auch nicht mit einem Freund von dir Ich weiß, ihr habt euch ganz viel zu erzähl'n Und dann erzählst du's immerhin nich' mir Doch mach bitte, bitte, bitte, keinen Podcast Auch nicht mit einem Freund von dir Ich weiß, ihr habt euch ganz viel zu erzähl'n Und dann erzählst du's immerhin nich' mir  Wah-uhh Wah-uhh (Huh-huh) Wah-uhh",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9977162480354309,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9662473052740097,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Gefährder",
+            "language": "de",
+            "release_date": "2019-05-03",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "sweetlilly93@hotmail.com",
+            "lyrics": "Da, wo sich im Morgengrauen Leute in mein Viertel trau'n Die ungefragt Balkone bauen Will ich ein Gefährder sein Da, wo sich dein neuer Freund Seine Nackenmuskeln bräunt Und von deinen Brüsten träumt Will ich ein Gefährder sein  Ich will ein Gefährder sein Ich will ein Gefährder sein Ich will ein Gefährder sein Ich will ein Gefährder sein  Da, wo tausend fette Kinder Schöne Grünkohl-Smoothie-Trinker Meinen Weg zur Bahn behindern Will ich ein Gefährder sein Da, wo sich seit Ewigkeiten Leute schon auf sieben Seiten Unter YouTube-Videos streiten Will ich ein Gefährder sein  Ich will ein Gefährder sein Ich will ein Gefährder sein Ich will ein Gefährder sein Ich will ein Gefährder sein Ich will ein Gefährder sein Ich will ein Gefährder sein Ich will ein Gefährder sein Ich will ein Gefährder sein",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9984512031078339,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9622337222099304,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Kafka Luise",
+            "language": "de",
+            "release_date": null,
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "",
+            "lyrics": "Weisst du schon , wo du landest, wenn du aus allen Wolken krachst? Weisst du schon, wo du strandest, wenn du die Welle mal verpasst? Weisst du schon, welche U-Bahn bock hat dich nach Hause zu fahrn'?  Wenn du alleine bist Wenn du den Plan vergisst Wenn zwischen E und Mate, Gästelistenplatz und ARTE Nicht mehr viel bleibt von dir Sag, kommst du dann zurück zu mir? Wer bringt dich nach Hause, wenn gar nichts mehr fährt?  Scheiss auf Kafka, Luise Lass uns einfach mal uncool sein Alles andere ist nicht wichtig Scheiss auf kafka, Luise Komm, wir brechen ins Freibad ein Mach was du willst, aber machs richtig  Mach was du für richtig hältst, aber machs für dich alleine Wenn du nicht mehr richtig bellst, wie weit tragen dich deine Beine? Schaffst dus dann noch bis zu mir? Ich glaub die haben den park gesperrt Und auf 91.4 gesagt, dass man sich nur verfährt Würdest du dann ohne Plan Trotzdem in die Richtung fahrn'? Und vielleicht irgendwann, fingst du zu tanzen an Wer bringt dich nach Hause, wenn gar nichts mehr fährt?  Scheiss auf Kafka, Luise Lass uns einfach mal uncool sein Alles andere ist nicht wichtig Scheiss auf Kafka, Luise Komm, wir brechen ins Freibad ein (Scheiss auf Kafka, Luise) Mach was du willst, aber machs richtig (Scheiss auf Kafka, Luise)",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9966128269831339,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.8766144514083862,
+                    "label": "neutral"
+                }
+            }
+        },
+        {
+            "title": "Augen I",
+            "language": "de",
+            "release_date": "2022-08-19",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "EZ Aquarii",
+            "lyrics": "Füße hab ich zum Spazieren Beine hab ich für den Sprint Fäuste für das Rebellieren Haare hab ich für den Wind Hände für's Gestikulieren Knochen hab ich für den Frust Nerven um sie zu verlieren Lippen hab ich für die Lust  Aber, aber, aber Augen (Ooh Ooh) Hab ich nur für dich (oh oh oh) Aber, aber, aber Augen (Ooh Ooh) Hab ich nur für dich  Zähne für den Fall der Fälle Daumen nur um sie zu drehеn Nieren für das Finanziellе Zahnfleisch um darauf zu gehen Eine Zunge hab ich zum Probieren Schultern für die Empathie Eine Lunge für das Inhalieren Wangen für die Euphorie  Aber, aber, aber Augen (Ooh Ooh) Hab ich nur für dich (oh oh oh) Aber, aber, aber Augen (Ooh Ooh) Hab ich nur für dich Aber, aber, aber Augen (Ooh Ooh) Hab ich nur für dich (oh oh oh) Aber, aber, aber Augen (Ooh Ooh) Hab ich nur für dich",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9925014972686768,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.7469657063484192,
+                    "label": "neutral"
+                }
+            }
+        },
+        {
+            "title": "Fundbüro",
+            "language": "de",
+            "release_date": "2022-09-09",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "EZ Aquarii",
+            "lyrics": "Triff mich allein im Fundbüro Hat hier vielleicht mal irgendwo Ziemlich wahrscheinlich gestern Nacht Hier jemand was vorbeigebracht? Es war sehr klein und war kaputt Mit ziemlich vielen Narben drauf Ich glaub', im Dunkeln sah es fast Fast so wie meine Seele aus  Da, wo die Träume baden geh'n Kauf' ich bald den ganzen Strand Dann werd' ich ganz viel Eintritt nehm'n Und bin bald ein reicher Mann  Yeah, yeah Kann mir irgendwer helfen? Ja, ich such' grade mein Bier Ich vermiss' es so schrecklich (Mhh) Es war doch grade noch hier (Ah), ja Alles, was ich liebe, macht mich krank (Ey) Ich glaube, dass ich's alleine nicht mehr pack' (Nein) Ich glaub', nicht mal durch diese eine Nacht, ja Ich glaub', Gott ist ein Zapfhahn Doch er hat mich fallen lassen, als ich seine Hand nahm Ja, ey, papperlapapp Such' meinen Sinn in einer Pappe und reiß' ab Sonnenbrille auf, ja, ich fühle mich kacke Steh' vor meiner Wohnung, Schlüssel in andrer Jacke, ja Penn' ich halt auf der Straße Aber da bleibt eine Frage Ja, ey, wo ist mein Bier, Dicka? Ich fick' mein Leben, ich ficke den Schiedsrichter Ich schieß' ins Aus, Dicka, ich bin sehr zielsicher Lächel' dich an, denn das liebt jeder Guck' in den Spiegel, ich war auch mal niedlicher Schreie den Barmann an, das ging auch mal friedlicher (Ahh)  Da, wo die Träume baden geh'n Kauf' ich bald den ganzen Strand Dann werd' ich ganz viel Eintritt nehm'n Und bin bald ein reicher Mann",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9880320231119791,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9521169066429138,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Portugal (Autoteile auf der Fahrbahn)",
+            "language": "de",
+            "release_date": "2021-07-30",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "EZ Aquarii",
+            "lyrics": "Hey, ist dir aufgefall'n, dass es heut geregnet hat? Mir eigentlich nicht, ich lag nur im Bett den ganzen Tag Mein Kopf auf deinem Bauch, dein Bett ein Ozean Dein Flur ist Portugal und die Küche Kasachstan  Autoteile auf der Fahrbahn, ah Irgendwo auf der A4 Ist das nicht total gefährlich, ah? Ich glaub', ich bleib' lieber bei dir  Ruft mich nur an, ich hab' hier leider kein'n Empfang Ich glaube nicht, dass man da groß was machen kann Ich meine, Netzproblem ist quasi vorbestimmt – Wenn man Sich an 'nem Meer verirrt, dass deine Haare sind  Autoteile auf der Fahrbahn, ah Irgendwo auf der A4 Ist das nicht total gefährlich, ah? Ich glaub', ich bleib' lieber bei dir   Autoteile auf der Fahrbahn, ah Irgendwo auf der A4 Ist das nicht total gefährlich, ah? Ich glaub', ich bleib' lieber bei dir",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9945412576198578,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9391822516918182,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Opti",
+            "language": "de",
+            "release_date": "2021-10-01",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "Opti ",
+            "lyrics": "Warum bin ich am liebsten ganz allein? Warum kann ich nie zufrieden sein? Zum Glück habt ihr mir ja beigebracht Was man in diesem Fall dagegen macht  Und ich opti-opti-opti-optimier' mich Und steiger' schon die Produktion Guck, ich opti-opti-opti-optimier' mich Da ist total noch Potenzial  Juhu, wie schön, mein Marktwert wird erhöht Kannst du schon sehen, wie gut's mir damit geht? Ich werd' ab jetzt nie wieder traurig sein Und bin ich's doch, dann liegt's bestimmt an mir allein  Und ich opti-opti-opti-optimier' mich Und steiger' schon die Produktion Guck, ich opti-opti-opti-optimier' mich Lang lebе die Ökonomie   Und ich opti-opti-opti-optimier' mich Und stеiger' schon die Produktion Guck, ich opti-opti-opti-optimier' mich Lang lebe die Ökonomie Und ich opti-opti-opti-optimier' mich Da ist total noch Potenzial Guck, ich opti-opti-opti-optimier' mich Ist gar nicht schwer, da geht noch mehr",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9981778264045715,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9775052666664124,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Schwester",
+            "language": "de",
+            "release_date": "2014-10-24",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "Und plötzlich der Lachs",
+            "lyrics": "Dann erzähl mir Doch von deiner Schwester Studiert die immer noch in Amsterdam? Ach, die ist echt schon im vierten Semester? Und geht's ihr gut und Was fängt sie jetzt damit an?  Und wenn du mir Schon nicht erzählst Was du heut' Abend noch so machst Erzähl mir irgendwas Irgendwas Und wenn du mir Schon nicht erzählst Was du heut' Abend noch so machst Erzähl mir irgendwas Irgendwas Von dir  Dann erzähl mir Doch von deiner Wohnung Und vom Wind der durch das Küchenfenster pfeift Ich weiß die generelle Dönerpreiserhöhung In deinem Viertel ist echt Unverschämt und dreist  Und wenn du mir Schon nicht erzählst Was du heut' Abend noch so machst Erzähl mir irgendwas Irgendwas Und wenn du mir Schon nicht erzählst Was du heut' Abend noch so machst Erzähl mir irgendwas Irgendwas Von dir  Ich hab' jede Menge Zeit Jede Menge Zeit Ich hab' jede Menge Zeit Jede Menge Zeit Ich hab' jede Menge Zeit Jede Menge Zeit Ich hab' jede Menge Zeit Aufwändige Sachen zu tun!  Und wenn du mir Schon nicht erzählst Was du heut' Abend noch so machst Erzähl mir irgendwas Irgendwas Und wenn du mir Schon nicht erzählst Was du heut' Abend noch so machst Erzähl mir irgendwas Irgendwas Von dir",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9958223303159078,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.8366564313570658,
+                    "label": "neutral"
+                }
+            }
+        },
+        {
+            "title": "Das Zimmer",
+            "language": "de",
+            "release_date": "2012-09-21",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "Promo 2012",
+            "lyrics": "Ich kauf mir ein Zimmer Und schmeiß alles raus Da stell ich Wunden und Trümmer Sorgsam geordnet auf Jede luftdicht verpackt Und sicher verseilt Damit ja nichts verschwindet Oder am Ende verheilt Und auf dem Dach steh'n zehn Männer Und bewachen die Tür Und wenn du dich näherst Rennen sie zu mir Und dann tu ich so lange Wie du da bist, als wär Alles in Ordnung Und das Zimmer längst leer",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.996944010257721,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9975348711013794,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Was machst du noch hier?",
+            "language": "de",
+            "release_date": "2012-11-20",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "Promo 2012",
+            "lyrics": "Was machst du noch hier? Wolltest du nicht schon längst Unterwegs sein? Du verpasst deinen Anschlusszug Was suchst noch hier? Du musst langsam mal los Wenn du schon gehst, sag Warum gehst du nicht schnell genug?  Und die Mietpreise steigen In meinem Kopf Du kannst dir den Platz da sowieso nicht Mehr all zu lange leisten Weil da kommen ja neue nach Das wird ein ganz übler Konkurrenzkampf werden Damit konntest du sowieso noch nie so richtig umgehen Da geht's dir wie den meisten  Und ich hänge auch nicht immer bei dir rum Wurde mir zumindest erzählt Und glaub mir es ist nicht so dass Wenn du gehst irgendwas fehlt Heut Nacht wird's kalt Hast du gewusst Dass du nicht gehen musst?  Meine Freunde haben gesagt Es sei gut wie es ist Spenden Applaus ohne zu wissen Dass mich das Geklatsche stört Deine Freunde haben gesagt Mir ging's grad nicht so gut Ich habe selten So einen Quatsch gehört  Und die Mietpreise steigen In meinem Kopf Du kannst dir den Platz da sowieso nicht Mehr all zu lange leisten Weil da kommen ja neue nach Das wird ein ganz übler Konkurrenzkampf werden Damit konntest du sowieso noch nie so richtig umgehen Da geht's dir wie den meisten Und ich hänge auch nicht immer bei dir rum Wurde mir zumindest erzählt Und glaub mir es ist nicht so dass Wenn du gehst irgendwas fehlt Heut Nacht wird's kalt Hast du gewusst Dass du nicht gehen musst?",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.995321532090505,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.975639541943868,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Kafka Luise (2012er Version)",
+            "language": "de",
+            "release_date": "2012-09-21",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "Promo 2012",
+            "lyrics": "Weißt du schon, wo du landest Wenn du aus allen Wolken krachst? Weißt du schon, wo du strandest Wenn du die Welle mal verpasst? Weißt du schon, welche U-Bahn Bock hat dich nach Hause zu fahr'n? Wenn du alleine bist Wenn du den Plan vergisst Wenn zwischen E und Mate Gästelistenplatz und Arte Nicht mehr viel bleibt von mir Sag, kommst du dann zurück zu mir? Wer bringt dich nach Hause Wenn gar nichts mehr fährt?  Scheiß auf Kafka, Luise! Lass uns einfach mal uncool sein Alles andere ist nicht wichtig Scheiß auf Kafka, Luise! Komm wir brechen ins Freibad ein Mach was du willst, aber mach's richtig  Mach was du für richtig hältst Aber mach's für dich alleine Wenn du nicht mehr richtig bellst Wie weit tragen dich deine Beine? Schaffst du's dann noch bis zu mir? Ich glaub die hab'n den Park gesperrt Und auf 91.4 gesagt Dass man sich nur verfährt Würdest du dann ohne Plan Trotzdem in die Richtung fahr'n? Und vielleicht irgendwann Fängst du zu tanzen an Wer bringt dich nach Hause Wenn gar nichts mehr fährt?  Scheiß auf Kafka, Luise! Lass uns einfach mal uncool sein Alles andere ist nicht wichtig Scheiß auf Kafka, Luise! Komm wir brechen ins Freibad ein (Scheiß auf Kafka, Luise!) Mach was du willst, aber mach's richtig (Scheiß auf Kafka, Luise!)",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9973944624265035,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.892263134320577,
+                    "label": "neutral"
+                }
+            }
+        },
+        {
+            "title": "EZ Aquarii",
+            "language": "de",
+            "release_date": null,
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "EZ Aquarii",
+            "lyrics": "Einmal an einem Donnerstag Mir ein Toast beschmieren und dann Durch die Kurznachrichten scrollen Ohne dieses seltsame, ungeordnete Gefühl Direkt auswandern zu wollen Verlang ich zu viel? Verlang ich zu viel? Verlang ich zu viel? Verlang ich zu viel? Einmal mit meinem Teleskop An der Milchstraße vorbei Und Mal schauen wie's da so ist Und irgendwo beim Jupiter Einen Ort lokalisieren An dem man mich vermisst Verlang ich zu viel? Zeta retuculi Verlang ich zu viel? Zeta trianguli Verlang ich zu viel? Telesto perdit Verlang ich zu viel? La isla bonita Verlang ich zu viel? Delta eridani Verlang ich zu viel? Talitha borali Verlang ich zu viel? EZ Aquarii",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9979813694953918,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9197952747344971,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Hellersdorf",
+            "language": "de",
+            "release_date": "2012-09-09",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "Promo 2012",
+            "lyrics": "Für Mitte Dezember ist noch immer viel zu warm Sagt das Fenster in der U-Bahn und ihr Kopf an meinem Arm Ob ich da bin, wo ich raus muss oder ob ich weiter fahre Angenommen ich wüsste nicht wie es war als ich sie küsste ich wäre da  Mit dir muss ich nicht nach Madrid Doch wenn du los willst komm ich mit Es gibt so viel mit dir zu sehen Komm lass uns Ringbahn fahren gehen!  Hörst du das Getute von der Lampe an der Tür Unser Lied im 2 Minuten Takt - Es handelt nur von Dir Du brauchst keinen Fahrschein, wir fahren schwarz ein ganzes Jahr Schwarzfahren ist ein Scheißbegriff, weil wirklich schwarz ist eigentlich nur ihr Haar  Mit dir muss ich nicht nach Madrid Doch wenn du los willst komm ich mit Es gibt so viel mit dir zu sehen Komm lass uns Ringbahn fahren gehen!  Fahr mit mir nach Hellersdorf! Fahr mit mir nach Teltow Stadt Fahr mit mir nach Hellersdorf! Fahr mit mir nach Teltow Stadt",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9942793250083923,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.8410691916942596,
+                    "label": "neutral"
+                }
+            }
+        },
+        {
+            "title": "Auf Eis",
+            "language": "de",
+            "release_date": "2022-05-27",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "EZ Aquarii",
+            "lyrics": "Und da fährt Claudia Pechstein Das macht sie schon seit tausend Jahr'n Wenn man was liebt, kann's ja nicht schlecht sein Der Boden unter ihr gefror'n Ich interessier' mich nicht fürs Skaten Und schon gar nicht auf dem Eis Doch ich kann gut mit ihr relaten, denn  Sie fährt die ganze Zeit im Kreis Sie fährt die ganze Zeit im Kreis  Und je länger ich hier sitze Und je mehr die Zeit vergeht Glaube ich, siе ist die Einzige Die mich auf dеr Welt versteht Denn da dreht sie ihre Runden Und gewinnt nicht mal den Preis Ich fühle mich ihr so verbunden, denn  Sie fährt die ganze Zeit im Kreis Sie fährt die ganze Zeit im Kreis  Vielleicht sieht sie das auch ganz anders Und ich hab's mir ganz falsch ausgedacht Und wir sind uns komplett verschieden In allem, was sie sonst so macht Doch dafür kenn' ich sie zu wenig Ich weiß ja grad mal, wie sie heißt Doch irgendwo sind wir uns ähnlich, denn  Sie fährt die ganze Zeit im Kreis Sie fährt die ganze Zeit im Kreis Sie fährt die ganze Zeit im Kreis Sie fährt die ganze Zeit im Kreis",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9947579801082611,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9588114619255066,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Meerschwein",
+            "language": "de",
+            "release_date": null,
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "EZ Aquarii",
+            "lyrics": "Ausgerechnet in Lutherstadt Wittenberg Sind nur 10 Prozent evangelisch Ob Luthers Urenkel das interessiert? Wahrscheinlich wissen sie's eh nicht Das ist quasi als wären im Eiskaffee Nur 10 Prozent Eis und Kaffee Und der Rest wär Fanta und Honig Was heißt hier, ich denke nicht logisch?  Ein Boxring ist quadratisch Ein Meerschwein kann nicht schwimm Doch du sagst, du und ich macht keinen Sinn  Siehst du das T-Shirt vom Kellner da? Da steht \"Say no to Drugs and stay clean\" Doch im Fünfer den er dir als Rückgeld gibt Klebt zu 80 Prozent Kokain Warum zieht еr sich denn keine Handschuh an? Viеlleicht weil er die Zahlen nicht kennt Doch rein nüchtern gesehen von der Logik her Ist es eigentlich nicht konsequent  Ein Boxring ist quadratisch Ein Meerschwein kann nicht schwimm Doch du sagst, du und ich macht keinen Sinn Ein Boxring ist quadratisch Ein Meerschwein kann nicht schwimm Doch du sagst, du und ich macht keinen Sinn",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9918631911277771,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9491416811943054,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Alles Ok",
+            "language": "de",
+            "release_date": null,
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "EZ Aquarii",
+            "lyrics": "Kurz vor Sechs Ich mach irgendwas von gestern warm Und stell fest Ryan Gosling kann gut Auto fahren Als ich dann Aus dem Fenster guck, ins Abendlicht Fällt mir auf Ich denk gar nicht mehr so viel an dich  Und alles ist okay Ich hab jetzt viele neue Leute Doch manchmal tuts noch weh Und mit manchmal mein ich heute Und alles ist okay Ich hab jetzt viele neue Leute Doch manchmal tuts noch weh  Ich fahr mit nem Bagger vor meinem Balkon Und verleg meinе Wohnung komplett mit Beton Ich hab meinе Füße auf den Boden geklebt Ich will, dass mich nie wieder irgendetwas bewegt Ich bin immer solide was immer ich tu Wenn irgendwas fehlt, dann sicher nicht du Ich guck aus dem Fenster, zum tausendsten Mal Ist alles in Ordnung und alles egal  Und alles ist okay Ich hab jetzt viele neue Leute Doch manchmal tuts noch weh Und mit manchmal mein ich heute Und alles ist okay Ich hab jetzt viele neue Leute Doch manchmal tuts noch weh",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9952008724212646,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9607114791870117,
+                    "label": "positive"
+                }
+            }
+        },
+        {
+            "title": "Captcha",
+            "language": "de",
+            "release_date": "2022-09-23",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "EZ Aquarii",
+            "lyrics": "Ich guck ein Video, (und dann) Guck ich ein Video, (und dann) Les' ich zwei E-Mails, (und dann) Lösch ich zwei E-Mails, (und dann) Geh' ich zur Küche, (und dann) Mach ich mir Kaffee, (und dann) Trink ich den Kaffee, (und dann) Guck ich ein Video \"Wählen Sie jetzt alle Bilder aus Auf denen Sie ein Motorrad sehen\" Dämliche Frage, so kriegt ihr mich nicht Denn ein Bot bin ich trotzdem Gieß ich die Blumen (oder) Treff ich noch Freunde (mhm) Plants vs. Zombies Wer gewinnt heute Bauarbeiten auf der Tram Und U2 geht auf Tournee Und irgendwo in Hamm Teilt sich ein ICE \"Wählen Sie jetzt alle Bilder aus Auf denen sie ein Motorrad sehen\" Dämliche Frage, so kriegt ihr mich nicht Denn ein Bot bin ich trotzdem \"Wählen Sie jetzt alle Bilder aus Auf denen sie ein Motorrad sehen\" Dämliche Frage, so kriegt ihr mich nicht Denn ein Bot bin ich trotzdem",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.994586855173111,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9711030125617981,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Wann fängst du an?",
+            "language": "de",
+            "release_date": "2012-11-20",
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "Promo 2012",
+            "lyrics": "Aaaaah Aaaaah Aaaaah Aaaaah  Nochmal von vorn Schmeiß' alles zehn mal über'n Haufen Der Zug zum aufspringen ist längst weg - egal! Wir könn' ja laufen Ich such' nach dem Gefühl von damals in deiner Stimmung Im Dachboden meiner Erinnerung  Wa-a-a-nn fängst du a-a-an? Wa-a-a-nn fängst du a-a-an?  Und bloß nicht still steh'n, trink den Kaffee ruhig auf Ex In deinem Kopf mehr Pläne als in Google Maps Wenn du nicht aufpasst, merkst du irgendwann entsetzt Jetzt ist jetzt und du hast gar nichts Gar nichts, absolut nichts - umgesetzt  Wa-a-a-nn fängst du a-a-an? Wa-a-a-nn fängst du a-a-an?  Wa-a-a-nn fängst du a-a-an?",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9963519275188446,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9868663549423218,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Hochdruckgebiet",
+            "language": "de",
+            "release_date": null,
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "EZ Aquarii",
+            "lyrics": "Berufsverbot für Claudia Kleinert Für WetterOnline und Kachelmann Ich hasse euch Und euren Regenradar Warum lügt ihr mich an? Ist mit egal Welches Hochdruckgebiet Den Winter angeblich vertreibt Ich schau nur einmal mein' Gedanken zu Und ich weiß Der Nebel bleibt Oooh Oooh Das bisschen Regen Sei dir doch egal Hast du gesagt vor vielen Jahren Doch komm mal liеber von dem Baum da weg In mеinem Kopf tobt ein Orkan Oooh Oooh Raus aus der Kohle Paris Ist das eigentlich noch der Plan? Warum baut ihr dann kein Windrad in mein Nebenhirn? In mei'm Kopf tobt ein Orkan Oooh Oooh",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9947591722011566,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.8189837634563446,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Augen II",
+            "language": "de",
+            "release_date": null,
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "EZ Aquarii",
+            "lyrics": "Finger hab' ich zum Kreieren Arme hab' ich für den Trost Nieren für das Ruinieren Hände hab ich für den Schoß Rücken für die, die ich schätze Nerven hab ich für's Gefühl Muskeln nur für die Komplexe Blinddarm hab ich für den Müll  Doch Augen (Woh-Oh) Augen Augen Hab' ich nur für dich  Füße hab ich um zu frieren Mandeln hab ich aus Prinzip Einen Gaumen für das Amüsieren Hüfte, damit ich nicht lüg' Ein Händchen hab ich für die Skespis Beine hab ich zum Flanierеn Eine Leber hab ich für diе Sepsis Nägel hab ich zum Lackieren  Doch Augen (Woh-Oh) Augen Augen Hab' ich nur für dich Augen (Woh-Oh) Augen Augen Hab' ich nur für dich",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9931202232837677,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.6649160385131836,
+                    "label": "neutral"
+                }
+            }
+        },
+        {
+            "title": "Sternensystem",
+            "language": "de",
+            "release_date": null,
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "EZ Aquarii",
+            "lyrics": "Ich berufe mich auf eine Jugend Ich beteilige mich am Verfall Ich begrabe mich in einer Durchschnittlichkeit Ich bejuble den Flug eines Balls Ich besinge den Schatten der Häuser Ich beneide die Dummheit des Tiers  Dann beförder' ich mich aus dem Sternensystem Und betrinke mich an dir Ich betrinke mich an dir  Ich begründe die Kunstform des Zweifelns Ich beschränke mich auf ein Extrem Ich begieße den Topf eines Thymianstrauchs Ich bereicher mich an ei'm System Ich begebe mich in eine Abhängigkeit Ich beklopfe das Holz einer Tür  Dann beförder' ich mich aus dem Sternensystem Und betrinke mich an dir Ich betrinke mich an dir Ich betrinke mich an dir",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9916843771934509,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9805481135845184,
+                    "label": "neutral"
+                }
+            }
+        },
+        {
+            "title": "Hochverrat im Prinzenbad",
+            "language": "de",
+            "release_date": null,
+            "artist": "Von Wegen Lisbeth",
+            "album_name": "",
+            "lyrics": "Im Freibad hinterm Klinikum Macht Susi keinen Finger krumm Das ist schlau Das ist schlau Alle springen nur vom Beckenrand Aber Susi steht am Imbissstand Denn sie weiß ja genau Sie ist eh nicht nur zum Baden hier  Hochverrat im Prinzenbad Susi schwimmt nicht mit Hochverrat im Prinzenbad Susi will Pommes frites Hochverrat im Prinzenbad Susi schwimmt nicht mit Hochverrat im Prinzenbad Susi will Pommes frites  Der Mensch lebt nicht vom Brot allein Im Freibad müssen’s Pommes sein Das hat Stil Das hat Stil Doch als Beweis für diese These Braucht Susi noch mehr Mayonnaise Und zwar relativ viel Denn sie ist ja nicht zum Baden hier  Hochverrat im Prinzenbad Susi schwimmt nicht mit Hochverrat im Prinzenbad Susi will Pommes frites Hochverrat im Prinzenbad Susi schwimmt nicht mit Hochverrat im Prinzenbad Susi will Pommes frites  Die böse Fritteuse Ist das schönste auf der Welt Ach Susi Ach Susi Mach doch das was dir gefällt Die böse Fritteuse Ist das schönste auf der Welt Ach Susi Ach Susi Ach Susi  Hochverrat im Prinzenbad Susi schwimmt nicht mit Hochverrat im Prinzenbad Susi will Pommes frites Hochverrat im Prinzenbad Susi schwimmt nicht mit Hochverrat im Prinzenbad Susi will Pommes frites",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9986259738604227,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9281229178110758,
+                    "label": "negative"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,1165 @@
+{
+    "artist": "BRKN",
+    "songs": [
+        {
+            "title": "Bordeaux",
+            "language": "de",
+            "release_date": "2017-12-18",
+            "artist": "BRKN",
+            "album_name": "",
+            "lyrics": "Bordeaux, bordeaux, bordeaux Ja, mhh, yeah Bordeaux, bordeaux, bordeaux  Alles leuchtet weinrot, ye-eah Bordeaux, bordeaux, bordeaux Wie mein Logo auf der Brust, ye-eah Bordeaux, bordeaux, bordeaux Euer Blut ist nur rot, jaa Meins bordeaux, bordeaux, bordeaux Tausend Hände in der Luft, ye-eah Bordeaux, bordeaux  Ja, mhh, Weinrot (ahh), von Album bis Kleidung (yeah) Spring' rum, Liveshow (ahh), bis die Menge im Schweiß tobt (ahh) Entscheidung (jaa), arbeite für niemand (nein) Kein B-Plan (kein B-Plan), ja Durch jede dunkle Zeit, gebe ich 101 Und arbeite wie ein Irrer an Zimmer Nummer Zwei Und wenn alles endet, legt mich in ein'n Sarkophag Und druckt mein eignes Geld, damit es zu mei'm Sakko passt Cockpit leuchtet blutrot, Rest der Nacht ist tiefschwarz Ganze Stadt im Tiefschlaf, alle jagen Lila Filmkulisse aschgrau, Trainingsanzug bordeaux 1er Jordans Koka  Und alles leuchtet weinrot, ye-eah Bordeaux, bordeaux, bordeaux Wie mein Logo auf der Brust, jaa Bordeaux, bordeaux, bordeaux Euer Blut ist nur rot, ah Meins bordeaux, bordeaux, bordeaux Tausend Hände in der Luft, sagt Bordeaux, bordeaux  Sie fragen nach dem Sinn des Lebens, intressiert nicht, was sie sagen Fahren lieber durch die Nacht und ignorieren Ampelphasen 24 mal 60 an sieben langen Tagen Womit andere prahl'n ist in mei'm Freundeskreis normal, Dicka Loyalität ist kein Song, habibi Immer noch die gleichen auf den Fotos Immer noch die gleichen Favoriten auf mei'm iPhone Nur telefonier'n wir jetzt in andre Zeitzonen Auf beiden Seiten der Kampf um Befreiung Auf beiden Seiten dreht sich die CD in weinrot Und das ist bordeaux, bordeaux, bordeaux, yeah  Bordeaux, bordeaux, bordeaux Bordeaux, bordeaux, bordeaux Bordeaux, bordeaux, bordeaux Bordeaux, bordeaux, bordeaux",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9903410077095032,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.922994464635849,
+                    "label": "neutral"
+                }
+            }
+        },
+        {
+            "title": "Auto",
+            "language": "de",
+            "release_date": "2014-11-30",
+            "artist": "BRKN",
+            "album_name": "Kauft Meine Liebe",
+            "lyrics": "Ja, das hier ist eine Geschichte aus'm Leben  Yeah Ich war am Arsch der Welt yeah Irgendso 'ne Gegend wo nie ein Bus hält yeah Sag: Wie komm ich nach Hause Digga? Kein Plan Find' ne Bushaltestelle Und da steht sie und wartet Mit einem Fahrgestell Wie du es nie gesehen hast Digga Und ich sag: Ey Süße Ich glaub wir beide müssen in die gleiche Richtung Sie sagt: \"Pff\" und dreht sich um Steigt bei so nem Typ ins Auto Und ich denk mir: \"Genau so geht das!\" Man ich brauch ne Karre Heißt ich brauche Asche Und irgendwann fahr ich an die Ollen ran Mach Fenster auf und sage:  Hey Süße Soll ich dich mitnehm' mit meinem Auto? Sowas wie du sollte nicht Bus fahrn' Sondern Mustang Also steig ein!  Jetzt hab ich vier Räder, lackschwarz Zündung durchgedreht, dann ist Abfahrt Jetzt hol ich die Ollen ab Und sie wollen es Aber keine ist so sexy wie mein Golf 6 Sie sagt: \"Berkan komm mit auf die Rückbank!\" \"Bist du verrückt man? Gerade geputzt, blitzblank!\" Sie versteht nicht die Probleme die ich hab Trotzdem bin ich King wenn ich Fenster runtermache Und sag:  Hey Süße Soll ich dich mitnehm' mit meinem Auto? Sowas wie du sollte nicht Bus fahrn' Sondern Mustang Also steig ein! Wenn ich vorbeikomm' in mei'm Auto gibts nur eine Frage Baby, würdest du mitkomm'? Baby würdest du mitkomm'? Sag, wenn ich vorbeikomm' in mei'm Auto gibts nur eine Frage Baby, würdest du mitkomm'? Sag, Baby würdest du mitkomm'? Sag, wenn ich vorbeikomm' in mei'm Auto gibts nur eine Frage Baby, würdest du mitkomm'? Sag, Baby würdest du mitkomm'? Nanana Sag, wenn ich vorbeikomm' in mei'm Auto gibts nur eine Frage Baby, würdest du mitkomm'?  Hey Süße Soll ich dich mitnehm' mit meinem Auto? Sowas wie du sollte nicht Bus fahrn' Sondern Mustang Also steig ein! Hey Süße Soll ich dich mitnehm' mit meinem Auto? Sowas wie du sollte nicht hier abhäng' Sondern im Mustang",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9936877936124802,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.8991405069828033,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Ein Zimmer",
+            "language": "de",
+            "release_date": "2017-06-30",
+            "artist": "BRKN",
+            "album_name": "Einzimmervilla",
+            "lyrics": "Ein Zimmer ist alles was ich habe Doch glaub' mir Baby, ich schaff' es eines Tages Leben läuft grade nicht perfekt, doch ich acker Und zieh' den Karren aus'm Dreck, oh yeah Ein Zimmer ist alles was ich habe Doch glaub' mir Baby, ich schaff' es eines Tages Kohle kommt und ist kurz danach weg, doch ich acker Und klär' dir ein Geburtstagsgeschenk, oh yeah  Du hast alles verdient von New York bis Paris Hundert Paar Schuhe in einem Loft in Berlin Ich bring' dich hin, wenn ich die Chance dazu krieg Doch gib mir bisschen Zeit, ich schreib' noch dieses Lied Wir angeln uns zusammen von Woche zu Woche Kontostand als wär' ein Loch in der Potte Ausbildung nervt und mein Job ist zum Kotzen Wir träumen zusammen von Entspannung und Sonne Doch ich liege nachts hellwach Ich glaube Urlaub fällt flach Irgendwann reisen wir beide um die Welt Und hängen in erstklassigen Hotels ab Doch erstmal ist  Ein Zimmer alles was ich habe Doch glaub' mir Baby, ich schaff' es eines Tages Leben läuft grade nicht perfekt, doch ich acker Und zieh' den Karren aus'm Dreck, oh yeah Ein Zimmer ist alles was ich habe Doch glaub' mir Baby, ich schaff' es eines Tages Kohle kommt und ist kurz danach weg, doch ich acker Und klär' dir ein Geburtstagsgeschenk, oh yeah  Du und ich auf dreißig Quadratmeter Flur zu klein für den Fußabtreter Und die Wände dünner als Papier Der Nachbar weckt mich auf, wenn sein Klingelton vibriert hat Du sollst bekommen, was du verdient hast Egal wie pleite, ich hol' dir neue Sneakers Und irgendwann mach ich übertrieben Batzen Klär' 'ne Wohnung, in die sogar eine Spülmaschine passt, ey Solange musst du es nur mit mir aushalten Hoffen wir, das die Heizungen nicht wieder ausfall'n (ja, ja) Du warst mit mir in der Pfütze Und ich bring uns dafür an die Spitze Doch erstmal ist  Ein Zimmer alles was ich habe Doch glaub' mir Baby, ich schaff' es eines Tages Leben läuft grade nicht perfekt, doch ich acker Und zieh' den Karren aus'm Dreck, oh yeah Ein Zimmer ist alles was ich habe Doch glaub' mir Baby, ich schaff' es eines Tages Kohle kommt und ist kurz danach weg, doch ich acker Und klär' dir ein Geburtstagsgeschenk, oh yeah  Leute träumen doch ich nehm' meine Träume ernst Und wir kommen jeden Tag ein bisschen näher Die Welt da draußen sieht perfekt aus Versprochen, ich hol' uns aus diesem Dreckshaus Vom Kleinanzeigenhustle zur Designerkleiderstange Schmiede Pläne, irgendwann Heut ist die schlimmste Zeit dieses Lebens Nur noch bergauf Nie wieder down, down, down Nur noch bergauf Ein Zimmer ist alles was ich habe Doch glaub' mir Baby, ich schaff' es eines Tages Leben läuft grade nicht perfekt, doch ich acker Und zieh' den Karren aus'm Dreck, oh yeah Ein Zimmer ist alles was ich habe Doch glaub' mir Baby, ich schaff' es eines Tages Kohle kommt und ist kurz danach weg, doch ich acker Und klär' dir ein Geburtstagsgeschenk, oh yeah ",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9948183198769888,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.8636394292116165,
+                    "label": "positive"
+                }
+            }
+        },
+        {
+            "title": "Jede Nacht",
+            "language": "de",
+            "release_date": "2021-02-25",
+            "artist": "BRKN",
+            "album_name": "Drama",
+            "lyrics": "Yeah  Ich hab' nicht ma' überlegt, nur gemacht Nie danach gelebt, was jemand sagt Ersticke in Problem'n, der Schädel platzt Doch erwache zum Leben jede Nacht, jede Nacht  Nicht ma' überlegt (Hmm), scheiß auf eure Tricks (Hmm) Worte schön und gut, doch ich glaub' nur, was ich seh' Frag nicht, wie's mir geht (Nah), Dicka, alles bebt (Ja) Ich bin ein Problem, jede Hilfe kommt zu spät Unterwegs auf Teufel komm raus Kämpf auf den Tod mit ihm, wenn еr sich traut Geb' niemals auf, mach's, egal wiе Leb' mit dem Schmerz, hab' ich verdient Denk' nicht drüber nach, was ihr redet, was ihr wollt Ich wollte nur Liebe, nein, ich wollte nie Erfolg Berkanito hängt die Einser aus dem Fenster von 'nem Royce Scheiß' auf euer Geld, ich hab' 'n Herz aus purem Gold Tret' den Wagen nachts um drei und ich le-eb' Du willst raus, komm, ich zeig' dir, wie's geht (Zeig' dir, wie's geht) Steig ein, mon ami, jetzt oder nie Es zählt nur die Action, alles andre ist Fantasie und  Ich hab' nicht ma' überlegt, nur gemacht (Ja) Nie danach gelebt, was jemand sagt Ersticke in Problem'n, der Schädel platzt Doch erwache zum Leben jede Nacht, jede Nacht  Jede Nacht Jede Nacht Jede Nacht Jede Nacht (Jede Nacht)  Ich schlaf' nicht Ich wart' nicht Ich frag' nicht Ich jag' dich, ich schlag' dich  Berkanito fickt den Rest, ich hab' keine Konkurrenz Denn mein größter Feind bin immer noch ich selbst, bei Gott! (Ja) Ich lüg' nicht (Ich lüg' nicht), ich üb' nicht (Ich üb' nicht) Ich plan' nicht (Nah-ah), ich fühl' es  Ich hab' nicht ma' überlegt, nur gemacht Nie danach gelebt, was jemand sagt Ersticke in Problemen, yeah Doch erwache zum Leben jede Nacht, jede Nacht Jede Nacht Jede Nacht Jede Nacht Jede Nacht (Jede Nacht)",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9920504987239838,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9236353039741516,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Drama",
+            "language": "de",
+            "release_date": "2021-04-23",
+            "artist": "BRKN",
+            "album_name": "Drama",
+            "lyrics": "Ich versuche nur den Tag zu übersteh'n Eigentlich will ich nur fragen, wie's dir geht Alles hängt am seidnen Faden seit du fehlst Doch ich hatte keine Wahl, ich musste geh'n (Yeah)  Ich trinke sieben Gläser hintereinander Ich spiele alle Rollen in diesem Drama Gieß' noch bisschen mehr Öl in das Feuer Verprasse Kohle, als wär' ich bеscheuert Aus dem Wеg, ich übernehm' das Steuer Fahr' den Lambo in das Schaufenster mit Vollgas Erkenn' mich selbst nicht wieder, ey, was soll das? Seele brennt, aber man spielt nicht mit dem Feuer  Ich hab' genug Probleme, ja Und ich hab' genug Probleme, ja Alles ist vernebelt, egal, wohin ich sehe Gnade meiner Seele, hey, ey Ich hab' genug Probleme (Ja) Und ich hab' genug Probleme, ja Warte bis es regnet Tarne meine Tränen, Gnade deiner Seele  Hey (Hey, hey, hey)  Man kann mich seh'n, Camouflage, bleibe wach  bei Tag, meine Augen bleiben schwarz Drück' schnell, geht hart, nicht wie du, bleibe  Im Schlaf   Ich kann dich nicht retten Ich flieg' selber auf den Boden zu Und werde immer schneller Alles verlor'n, also bin ich unverwundbar Niemand von euch nimmt mir Essen von mei'm Teller, hey Häng' mir Gold um mein Hals  Seele nicht mehr scheint, ja (Was sie mein'n) Plötzlich alles kalt, spüre einmal Ein Schnitt in mein'n Schuh'n, ein Tack in mei'm Kopf Ein Blick hier vom Boden und sag noch ein Wort (Ja)  Ich hab' genug Probleme, ja Und ich hab' genug Probleme, ja Sag, warte bis es regnet Tarne meine Tränen, Gnade meiner Seele Hey (Hey) Ich hab' genug Problem (Hey) Ich hab' genug Problem (Hey)",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9891480207443237,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9559822827577591,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Zu Ende",
+            "language": "de",
+            "release_date": "2021-04-11",
+            "artist": "BRKN",
+            "album_name": "Drama",
+            "lyrics": "Es tut weh (Es tut weh) Es tut weh (Es tut weh) Aber auch das, auch das Auch das wird zu Ende geh'n Sag, es tut weh (Es tut weh) Es tut weh (Es tut weh) Wenn du bleibst, wenn du gehst Eins bleibt gleich, es tut weh, nah  Das bin ich grad Genau in diesem scheiß Moment Und da stehst du grad So viel gemeinsam und so viel was uns auf einmal trennt Für uns beide wurd' die Welt umgeschmissen Dir und mir das Herz rausgerissen Und glaub mir, mit jeder deiner Tränen Sterb' ich ein bisschen Und alles was passiert ist seitdem Nix mehr gut ist seitdem Alles nur ein Albtraum seitdem Als ob die Welt verflucht ist seitdem Und egal wie weit ich gehe, es holt mich ein Und egal wie viele Tränen, ich muss noch weinen Egal wie lang der Weg, ich komm' nicht heim Denn egal was ich erleb', mir fehlt ein Teil Schmerz in deinen Augen, hört nicht auf mich zu verfolgen Und er sticht mir in die Niere, wenn ichs wage mich freuen Und die Schuld in meiner Seele lässt mir keinen Meter Frieden Und sie drückt mich in den Dreck, versuch ich einmal mich zu lieben Und die Angst in mei'm Innern lässt mich jeden Tag zittern Sie sagen es wird besser mit der Zeit, doch es wird schlimmer Mein Herz bricht, doch anscheinend ist wirklich nichts für immer Also finden wir auch beide einen Weg aus dem Gewitter Ich bin verlor'n und verwirrt, wie ich's noch nie war Komme überhaupt nicht mehr klar, doch ich komm' schon klar Und ich weiß nicht wohin, weiß nicht wo ich bin Komm' kein Meter voran und kann nie wieder zurück Ich wollte 'nen richtigen Song für dich schreiben, doch ich trau' mich nicht Schreib' tausend Wörter auf, doch sie reichen nicht Und ich werd' dich nie vergessen, nicht für eine Sekunde Doch jedes Mal wenn wir uns sehen, streut es Salz in die Wunde Ich hab' geschrien und geheult, das letzte Mal vor paar Minuten Jeden Tag was neues, nix davon was gutes Hab' getrunken und gelacht, das letzte Mal gestern Nacht Doch egal was ich mach', nichts lenkt mich lang ab Ich weiß nichts, außer dass nichts bleibt wie es ist Selbst wenn der Schmerz mich langsam zerfrisst Entweder heilt er irgendwann oder wird Teil meines Ichs Ich wünsch' mir alles wird schnell leichter für dich  Es tut weh (Es tut weh) Es tut weh (Es tut weh) Aber auch das, auch das Auch das wird zu Ende geh'n Sag, es tut weh (Es tut weh) Es tut weh (Es tut weh) Wenn du bleibst, wenn du gehst Eins bleibt gleich, es tut weh, nah  Dein Schmerz ist mein Schmerz Wünscht' ich könnt' ihn dir nehmen Bleib' hier, bei dir Auch wenn wir uns nicht seh'n Dein Schmerz ist mein Schmerz Wünscht' ich könnt' den dir nehmen Bleib stark, bleib hier Und alles wird okay (Dein Schmerz, mein Schmerz Wünscht' ich könnt' den dir nehmen Bleib' hier, bei dir Auch wenn wir uns nicht seh'n Dein Schmerz, mein Schmerz Wünscht' ich könnt' den dir nehmen Bleib stark, bleib hier Und alles wird okay) Du hast alles verdient, von New York bis Paris Von New York bis Paris Und auf alles, ich werd' dafür sorgen, dass du's kriegst Auch wenn du den Eiffelturm mit jemand ander'm ansiehst Keiner kennt die Zukunft Und keiner weiß was passier'n wird Aber selbst für den Fall, dass wir uns nie wieder seh'n Bleibst du bis zum Tag an dem ich sterb meine Familie Und ich weiß schon lang nicht mehr was los ist Und auch ich kenne nicht die Zukunft Doch ich kenn' dich und weiß dass du stark bist Und dass am Ende alles gut wird",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9890514356749398,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9553789496421814,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Sag nichts Falsches",
+            "language": "de",
+            "release_date": "2016-04-08",
+            "artist": "BRKN",
+            "album_name": "Kennste einen, kennste alle",
+            "lyrics": "Sag nichts Falsches Sag nichts Falsches  In der Reihenhaussiedlung ist alles okay Familie lächelt, is' alles okay Probleme dieser Welt sind alle passé Zumindest, wenn du g'rade vor der Kamera stehst Oder wenn jemand am Sauftisch sich über Ausländer auslässt \"Unglaublich! Das geht überhaupt nicht!\" Oder wenn jemand bei Facebook ganz laut schreit: \"Rassismus!\" Nicht nachdenken, du musst auch teilen: \"Rassismus!\" Den Kids vom Schwarzen Afghanen abraten Den Dealer für seine Schandtaten anklagen Siegessicher grinsen - sein Knast, dein Sieg Darauf erst mal eine ordentliche Line zieh'n Aber bist du dann zuhaus' und die Kameras sind aus Reg dich ruhig über die Afrikaner auf Und hält sie nicht das Maul, dann schlag deine Frau Doch richte die Krawatte auf dem Weg wieder raus  Du bist modern Strahlemann Image, alle haben dich So gern Und g'rade gucken alle auf dich Versau's nicht!  Sag nichts Falsches Es geht um deinen Ruf Sag nichts Falsches Und alle schauen zu, also mach was du willst, aber Sag nichts Falsches  \"Herr Gator In vielen Firmen kann von Gleichberechtigung noch nicht die Rede sein, was ist ihre Meinung zur gesetzlichen Frauenquote?\" \"Ja, also da muss ich ganz entschieden sagen...\"  Religion ist Privatsache Und außerdem, was hat der kleine Mann von den Million' in der Staatskasse? Ich finde wir sind alles Menschen Und mit Kaltgetränken kann man 'n trock'nen Hals bekämpfen Das sind unverfälschte Fakten \"Aber es geht hier um die Frauen!\" Deshalb bin ich dagegen, dass wir Hundewelpen schlachten Wenn ihr mich fragt, sind Kinder die Erwachsenen von morgen Und ich finde Massenmord hat in der Praxis nix verlor'n \"Sie weichen aus.\" Na sicher, Menschen haben Gefühle Und ein Großteil der Sahara ist Wüste Willst du sagen, ich lüge?! Wahre Schönheit ist kein Beautytrend Und die Mannschaft hat gut gekämpft \"Zurück zum Thema!\" Äh... Religion ist Privatsache Und Nazis sind doof und ich mag die Ramones vor der Chartplatte Auch wenn ihr jetzt sagt, ich wäre crazy drauf Meiner Meinung nach lösen Wolken sich in Regen auf! Sag nichts Falsches Es geht um deinen Ruf Sag nichts Falsches Und alle schauen zu, also mach was du willst, aber Sag nichts Falsches Sag nichts...  Lassen wir erst mal die Luft abkühl'n Wir müssen noch diese Puffnacht glattbügeln Wir geben der Presse paar freundliche Infos Wir heucheln das Kind schon Die Luft abkühl'n Wir müssen noch diese Puffnacht glattbügeln Wir geben den Leuten paar deutliche freundliche Infos Keine Sorge, wir heucheln das Kind schon",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9942743301391601,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.7986292839050293,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Kein Liebessong",
+            "language": "de",
+            "release_date": "2021-03-19",
+            "artist": "BRKN",
+            "album_name": "Drama",
+            "lyrics": "Scheiß auf einen Liebessong, yeah (Yeah) Ich hab' ganz andre Probleme, geh lieber Denn wir beide hätten nie 'ne Chance, ey Am Ende kommt eh alles, wie es kommt, wie es kommt Scheiß auf einen Liebessong, yeah (Yeah) Bei Gott, die sind alle gelogen ohne Scham Und am Ende kommt es, wie es kommt, yeah Bei mir gibt's nur Chaos, keine Liaison  Uuh, durch die Nacht, als wär's die letzte Keine Grenzen, keine Konkurrenz, ah-ah (Konkurrenz, ah-ah) Bei meiner Seele, bei mei'm Blut (Auf alles) Halt uns auf oder halt die Fresse, eh Tei' mein (Drink), teil' mein (Brot) Doch versuch nicht, in mein Herz zu kommen, hier ist alles Jage alles, was mir schadet Während ihr mein Herz egal ist Scheiß' auf jeden, der nicht down ist Schmeiß' mit Dollars, scheiß' auf alles Drück' den Wagen durch die Straßen Spür' die Ängste, schiebe Paras Spür' die Schmerzen, spüre gar nix Schreie: „Ihr habt keine Ahnung, nein!“ Ich bin nicht gemacht für Frieden, ich muss atmen, warte, Chaos  Scheiß auf einen Liebessong, yeah (Scheiß auf einen Liebessong) Ich hab' ganz andre Probleme, geh lieber Denn wir beide hätten nie 'ne Chance, ey Am Ende kommt eh alles, wie es kommt, wie es kommt Scheiß auf einen Liebessong, yeah (Scheiß auf einen Liebessong) Bei Gott, die sind alle gelogen ohne Scham Und am Ende kommt es, wie es kommt Sag, bei mir gibt's nur Chaos, keine Liaison (Yeah, hey)  Ich bin nicht gemacht für Frieden Ich schaff' es nicht mal selber, sag mir, wie willst du mich lieben? Wechsel' zwischen siebten Höll'nkreis und Wolke sieben Du kannst renn'n, du kannst flieh'n, der Teufel wird mich kriegen Überall lauert Gefahr, mein Bruder (Ja, ja) Ich sollte heute nicht mehr fahr'n, mein Bruder (Na-ah) Trink noch ein Glas, mein Bruder (Ja) Wir werden reich dieses Jahr, mein Bruder (Swish) Bin fresher als der Rest (Yeah), gib mir mein'n Respekt (Yeah) Volle Shows, viel Cash, doch fühle mich wie Dreck (Ja) Was die andern machen, intressiert uns nicht, du weißt Kein Koks auf meinem Tisch, kein Codeine in meiner Sprite (Was?) Sie fühlen diese Vibes, heißt, dass sie mich blind versteh'n (Yeah) BRKN, bitte putz die Nikes und erober den Planet (Den Planet) Scheiß auf einen Liebessong, yeah Ich hab' ganz andere Probleme, geh lie— ",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9749250054359436,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9038928270339965,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Eine Million",
+            "language": "de",
+            "release_date": "2017-08-18",
+            "artist": "BRKN",
+            "album_name": "Einzimmervilla",
+            "lyrics": "Um mich zu stoppen, braucht ihr 'ne Million  Hustler, der jeden Tag alles gibt – ja, das bin ich Feuer in meinen Augen, immer fokussiert – ja, das bin ich Meine Freunde und Familie immer nah bei mir – ja, natürlich Tanz' zum Beat, Dicker, bis zum Ziel Sogar auf den Stein'n, die ihr legt Moonwalk' ich weiter mein'n Weg Neider haunten mich, fall' und bleib' steh'n Doch geschmeidig ausweichen – alles kein Ding! Ey, hinterlass' glitzernden Rauch Komm' kurz und geb' einen aus Für die Jungs und für alle da draußen Und für die verdammten Nichtskönner auch  Sie wünschen mir den Tod, okay (okay) Sie gönn'n ein'm nicht einmal das Brot, okay (okay) Das gehört alles zur Show Doch um mich zu stoppen, braucht ihr 'ne Million Sie wünschen mir den Tod, okay (okay) Sie gönn'n ein'm nicht einmal das Brot (sie gönnen einem nicht mal das Brot) Sie sagen: „Is unmöglich, is morgen wieder weg“ Ihr vergesst eine Sache, Dicker: Der Junge ist fresh!  U-uh, fresh Ja-a, fresh U-uh, Dicker, fresh, ja  Immer Augenringe, uh uh Immer tausend Dinge zu tun Immer unterwegs, doch so lange ich noch nach Hause finde, ist gut Sie wollen Bein stellen (Bein stellen), verzweifelt Doch wenn sie könnten, würden sie gerne einen Meter in meinen Nikes geh'n  Sie wünschen mir den Tod, okay (okay) Sie gönn'n ein'm nicht einmal das Brot, okay (okay) Das gehört alles zur Show Doch um mich zu stoppen, braucht ihr 'ne Million Sie wünschen mir den Tod, okay (okay) Sie gönn'n ein'm nicht einmal das Brot (sie gönnen einem nicht mal das Brot) Sie sagen: „Is unmöglich, is morgen wieder weg“ Ihr vergesst eine Sache, Dicker: Der Junge ist fresh!  Sie wünschen mir den Tod, okay Sie gönn'n ein'm nicht einmal das Brot, okay Das gehört alles zur Show Doch um mich zu stoppen, braucht ihr 'ne Million Wünschen mir den Tod, ja Gönn'n ein'm nicht einmal das Brot, ja Sie sagen: „Is unmöglich, is morgen wieder weg“ Ihr vergesst eine Sache, Dicker Fickt euch alle ins Knie, Alter ",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9826708734035492,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9686688631772995,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Hollywood 36",
+            "language": "de",
+            "release_date": "2016-05-20",
+            "artist": "BRKN",
+            "album_name": "Kauft Meine Liebe",
+            "lyrics": "Ja  Die ganze Welt voller Wahnsinn Alle wollen dahin, wo die Stars sind Treff ich einen Promi heute Abend Und lande vielleicht sogar in sein' Armen Sie geben alles für die Gästeliste Doch vergiss mal diese Denn die größte Party dieser Welt Ist ein Scheißdreck wert Wenn meine Freunde nicht da sind Und wenn ich irgendwann reich bin Erschieß mich, wenn meine Freunde noch arm sind Dicker, wenn ich morgen cool bin Vergiss alle, die heute nicht da sind  Denn alle machen auf Hollywood Wir hängen irgendwo am Kotti rum Wir brauchen nicht viel Den Himmel und ein Beat Also scheiß auf High Society Ich chill mit den Jungs auf der Treppe  Alle sind auf Cool, Love und Squad Kommt mir irgendwie komisch vor Dicker, man kann keinem trau'n Die würden ihre Freunde für ne Kugel Eis verkaufen Sie wollen ein Leben wie ein Weeknd Song Drogen nehmen, hoffen noch ins Paradies zu komm' Lebensweisheiten, Bilder und deeper Schrott Aber suchen ihre Freunde aus ner Ching Chang Chong Die ganze Welt ist voller Geier Doch nicht in meinem Kreis, Dicker nein man Meine Jungs und meine Jungs das ist einfach Entweder essen alle oder keiner Dicker  Denn alle machen auf Hollywood Wir hängen irgendwo am Kotti rum Wir brauchen nicht viel Den Himmel und ein Beat Also scheiß auf High Society Ich chill mit den Jungs auf der Treppe  Ja, mit den Jungs auf der Treppe Oder triff uns an der Ecke Doch mittlerweile stehen wir auf paar Listen Und die Spießer auf den Partys wundern sich jetze Fick eure Szene Moonwalk auf der Straße Hier will jeder cool vor jedem anderen sein Also glaub mir wenn ich sage Liebe und Loyalität ist eine Rarität in dieser verkackten Welt Hab ich gute Freunde, pure Freude lieber als ein' Batzen Geld Und irgendwann haben wir beides Dicker Yippie",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9933004975318909,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9925359487533569,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "1991",
+            "language": "de",
+            "release_date": "2021-04-23",
+            "artist": "BRKN",
+            "album_name": "Drama",
+            "lyrics": "Yeah (Uh static) Yeah, ey  Ich fühl' mich wie 1991 Alles echt, so wie am allerersten Tag Frag nicht, Dicka, bei uns gibt's nichts neues Es ist null-drei-null und zwar seit neun-eins, bis ins— Ich fühl' mich wie 1991 (So wie 1991) Alles echt, so wie am allerersten Tag (So wie am allerersten Tag) Frag nicht, Dicka, bei uns gibt's nichts neues (Gibt's nichts neues) Es ist null-drei-null und zwar seit neun-eins, bis ins Grab (Ahh)  Ja (Ja), als wär' mein erster Tag Dachte, ich war dеm Ende so nah, spür' mein'n Herzschlag Ich bin Michaеl mit sei'm ersten Ring Und hol' mir alle, Dicka, keine Sorge (Yeah) Junger Kanak aus drei-sechs Hat sich nie verändert, ihr seid alt geworden Bin dumm fraze seit (Neun-eins) Keine Filme seit (Neun-eins) Hundert pro seit (Neun-eins) Grade broke, doch bald neureich Und schöne Grüße an die Police (Hi) Nur Augen für uns, Dicka, so süß Denn egal, ob Straße oder Uni Wir sind alle gleich wenn sie uns sieht (Uns sieht) Weißt du was, du hast recht (Yeah) Wir sind alle gut aussehend und fresh (Yeah) Und jeder hier kämpft sich aus dem Dreck (Yeah) Zeig kein Neid, keine Fakes, alle echt (Mmh-mmh) Mach' es immer noch mit Herz, Baby, nur mit Herz Da geboren, wo ich sterb', Dicka, Kreuzberg  Ich fühl' mich wie 1991 (So wie 1991) Alles echt, so wie am allerersten Tag (Tag) Frag nicht, Dicka, bei uns gibt's nichts neues (Nah) Es ist null-drei-null und zwar seit neun-eins, bis ins— Ich fühl' mich wie 1991 (So wie 1991) Alles echt, so wie am allerersten Tag (Ja) Frag nicht, Dicka, bei uns gibt's nichts neues (Gibt's nichts neues) Es ist null-drei-null und zwar seit neun-eins, bis ins Grab  Null-drei-null (Ja), drei-sechs-eins (Ja) Doch versteh mich nicht falsch, wir geh'n weltweit Trän'n und Blut verlor'n (Mmh), doch nie aufgehört (Oh) Baby, put in work (Put in work), yedi yirmi dört (Yirmi dört, oh) Kein Aufhalten, Money fickt nicht mit mei'm Verhalten (Mmh-mmh) Ob Hollywood oder drei-sechs, alles bleibt beim Alten (Ja, Mann) R&B und frische Nikes (Ja) Fabel für schnellen Umsatz (Ja) Gebe für immer hundert (Ja) Gebete für Ferhat Unvar Fresh, Dicka, wenn es klickt (Wenn es klickt) Outfit und Seele, Baby, alles drippt (Alles drippt) Was du kriegst, ist alles Liebe Ist meine Seele, ist alles ich, Berkan (Berkan) Ich fühl' mich wie 1991 (Oh, wouh) Alles echt, so wie am allerersten Tag (Alles echt, so wie am allerersten Tag) Frag nicht, Dicka, bei uns gibt's nichts neues (Okay, okay) Es ist null-drei-null und zwar seit neun-eins, bis ins— Ich fühl' mich wie 1991 (So wie 1991) Alles echt, so wie am allerersten Tag (Am allerersten Tag, wouh) Frag nicht, Dicka, bei uns gibt's nichts neues (Bei uns gibt's nichts neues) Es ist null-drei-null und zwar seit neun-eins, bis ins Grab (Wouh, ey)",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9961026906967163,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9441119531790415,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Glück",
+            "language": "de",
+            "release_date": "2014-10-31",
+            "artist": "BRKN",
+            "album_name": "Yeah Bitch Yeah",
+            "lyrics": "Nacht lang, Tag kurz 365 Tage im Jahr schlaflos Shimmy shimmy ya, ich mag's roh Wir alle schrei'n rum, denn wir sind sprachlos Meine Generation, dumm und tatlos Ich ganz vorne mit dabei, denn ich mag's so Ich hab mir sagen lassen Alles, was auf dieser Welt zählt, ist dein Glück Also nehm ich  Mir meins Leg los, ich hab nicht viel Zeit Egal, was ihr sagt und was ihr meint Egal, was kommt, ich hör nicht auf, nicht auf, nicht auf, nein Ich hol mir meins Leg los, ich hab nicht viel Zeit Scheiß mal drauf, was ihr meint Denn jetzt hol ich mir meins Meins Meins  Die Welt ist groß und mein Konto klein Scheiß drauf, alles, was ich brauch, ist Sonnenschein Wir tun so, als würde alles umsonst sein Yaoh, sonst würde alles umsonst sein Denn wenn ich morgen sterbe, war mein ganzes Leben Arsch lecken, nur voller Schule und Arbeit Höchste Zeit, sich loszureißen Dickah, jeder ist seines Glückes Schmied und meins ist grad heiß 1000 Grad heiß Will mein Stück vom Kuchen seit Tag 1 Denn geschenkt kriegt man gar keins Also hol ich, hol ich, hol ich  Mir meins Leg los, ich hab nicht viel Zeit Egal, was ihr sagt und was ihr meint Egal, was kommt, ich hör nicht auf, nicht auf, nicht auf, nein Ich hol mir meins Leg los, ich hab nicht viel Zeit Scheiß mal drauf, was ihr meint Denn jetzt hol ich mir meins Meins Meins  Yaoh, jeder Mensch will hoch und weit hinaus Berkan, ich greif nach den Stern' von einer Leiter aus Scheiß mal drauf, schalt die Vernunft aus und die Zweifel auch Kopf zu, Fenster auf, spring einfach raus Und bevor ich auf den Boden klatsche, will ich fliegen Weil ich anstatt zu leben ohne Träum'n lieber mit den Toten tanze Ödes Leben ist für jeden so 'ne Sache Geb alles, es zu ändern, als dass ich es so belasse Gebe Gas jeden Tag, ist egal, was sie sagen Gebe alles für mein Traum und ich arbeite hart, von der Krippe bis ins eigene Grab Alle Kraft dieser Welt für ein kleines Stückchen, nach vorn, denn ich muss mehr sein als die ander'n Selbst wenn es verrückt klingt, kann hier jeder alles, weil Hass kein Glück bringt Yaoh, und wenn mir jeder den Rücken kehrt Scheiß drauf, aber auch das stoppt mich nicht mehr Und ist der Weg alleine auch noch so schwer Fickt euch alle, so einfach geb ich mein Glück nicht her Und wenn morgen jemand sagt, dieser Berkan Ist ein krasser Motherfucker Dann auch nur wegen dem Scheiß, den ich selbst angefang'n Gemacht und geschafft hab Denn ich allein hol Mir meins Leg los, ich hab nicht viel Zeit Egal, was ihr sagt und was ihr meint Egal, was kommt, ich hör nicht auf, nicht auf, nicht auf, nein Ich hol mir meins Leg los, ich hab nicht viel Zeit Scheiß mal drauf, was ihr meint Denn jetzt hol ich mir meins Meins Meins",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9928383529186249,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.8645259936650594,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "U8",
+            "language": "de",
+            "release_date": "2016-04-08",
+            "artist": "BRKN",
+            "album_name": "Kennste einen, kennste alle",
+            "lyrics": "Du hast viel geplant und dir vorgenommen Perfekter Gentleman, wenn 'ne Olle kommt Und du schenkst ihr dein Herz, doch ich und meine Boys Spiel'n \"Hit the Road Jack\" auf dem Akkordeon Du hast Master Card und Hermés-Tuch Ich Centstücke im zerdrückten Becher Du riechst nach Traumprinz und Märchenbuch Doch ich treffe dafür die Töne besser Du gibst ihr aus sieben Tage die Woche Ich sing' für sie und klau' ihr dabei die Potte Und sie liebt mich! Meine 1-Zimmerwohnung passt zu meiner Kunst Sie versteht es, sie will ein aufregendes Leben und ich leb' es Ich spiel' für dich neben 'ner Pfütze - Venedig Du siehst 'nen Penner mit 'nem Model, fragst: \"Wie geht des?\" Man kann es nicht kontrollier'n (Es ist Magic!)  Ich hab' nur letztens vor mich hin gesummt auf Arbeit Und hinter mir im Raum machen alle Ollen mit Gehör den Arsch weit Und springen auf mich rauf (Bruder, du musst aufpassen)  Du hast wochenlang die Olle klargemacht Und heut' ist endlich deine große Nacht (Deine Olle, deine Olle) Du kommst in deinem Benz und holst sie ab (In der U-Bahn, in der U-Bahn)  Ich sing' ein' Song, sie steigt mit mir in die U8 U8, Baby  Deine Olle, deine Olle In der U-Bahn, in der U-Bahn  Ich renne rum wie der Letzte mit Löchern in mei'n Klamotten Das Shirt sieht aus, als hätte mich gestern jemand erschossen In der U8 mit der Gitarre, du führst Gespräche mit dei'm Benzer Wie Private Paula mit seiner Knarre Der Türsteher zeigt mir den Effenberg schon von Weitem Bei deinem Louis Vuitton Täschchen kriegt er 'nen Steifen Egal, ich komm' auch rein durch das Klofenster Und die Frauenwelt ist sichtlich beeindruckt \"Oh, 'n Penner!\", Alter, was 'ne miese Braut Sie sollte aufpassen, die fallen ihr gleich raus Alle Typen springen um sie herum, wie die Seelachse Du willst sie hypnotisier'n mit der Moët-Flasche Erzählst ihr du heiratest sie, außer dir hätt' sie keiner verdient Berkan und ich spielen einfach ein Lied Und plötzlich ist sie in uns beide verliebt  Herr im Himmel Ich schwör' auf alles Der mit Gitarre Klärt sich alle Ob Schönling oder Penner, egal Er singt, haut ab Mit Mädel im Arm Du hast wochenlang die Olle klargemacht Und heut' ist endlich deine große Nacht (Deine Olle, deine Olle) Du kommst in deinem Benz und holst sie ab (In der U-Bahn, in der U-Bahn)  Ich sing' ein' Song, sie steigt mit mir in die U8 U8, Baby  Deine Olle, deine Olle In der U-Bahn, in der U-Bahn  Herr im Himmel Ich schwör' auf alles Der mit Gitarre Klärt sich alle Ob Schönling oder Penner, egal Er singt, haut ab Mit Mädel im Arm",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9934253096580505,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.8931410312652588,
+                    "label": "neutral"
+                }
+            }
+        },
+        {
+            "title": "Kim Kardashian",
+            "language": "de",
+            "release_date": "2016-02-25",
+            "artist": "BRKN",
+            "album_name": "Kauft Meine Liebe",
+            "lyrics": "Wir lieben alles was man uns auftischt, hassen alles, was wir selbst sind Dank diesem Bildschirm trennen Kim und mich nicht mehr Welten Sondern nur noch dieser Arsch und eine Nasen-OP Und ich spare schon, Yay! Kim Kardashian Klick!  Schieß das perfekte Bild Damit mir jemand sagt, dass ich nicht hässlich bin Ich wünsch, ich wär hübscher ein Stück Es gibt Tutorials und Filter, ein Glück Denn meine eigene Schönheit reicht nicht mehr Also schreib einen selbstbewussten Satz darunter Damit niemand die Verzweiflung merkt Aber seht alle her, ich will ein Sportwagen mit Ledersitz Vorfahren, dann kriegt’s jeder mit Doch dafür braucht man Kohle, ohne bleib ich immer nur ich selbst Also schnell, fick jemanden mit Geld! Kim Kardashian  Nicht „was gefällt dir?“ sondern „was ist grad in?“ Also ab in Laden Nicht, was gefällt dir sondern was sagt irgendein Typ da draußen, solltest du aussehen? Was? Auf das Bild von deinem Lächeln nur ein paar Likes Vielleicht besser, wenn du Arsch zeigst! Süße, beliebt sein ist Arbeit Nicht jeder wird das verstehen Und jaja Es war sehr schön hier mit dir Wenns keiner sieht, ist’s aber nie passiert Jeder Moment, was ich esse , was ich höre soll’n sie sehen Damit sie wissen, mein Leben ist das beste! Kim Kardashian Kim Kardashian  Man sieht, dass Kim und ich uns ähnlich sehen, wa? Kein Wunder, mein Opa ist Armenier Ich hab Geld, alles andere ist egal Mein leben einfach phänomenal Tu nicht so, als ob du’s nicht siehst! Instagram explodiert, ich hab Augenbrauen on Fleek Du bist nichts, du sitzt nur zu Hause, baust Beats Guck mich an, denn ich sehe genau aus wieeee Kim Kardashian",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9932133108377457,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9487476944923401,
+                    "label": "positive"
+                }
+            }
+        },
+        {
+            "title": "Irgendwann",
+            "language": "de",
+            "release_date": "2017-07-28",
+            "artist": "BRKN",
+            "album_name": "Einzimmervilla",
+            "lyrics": "Irgendwann, irgendwann, irgendwann A-a-ah Irgendwann, irgendwann, irgendwann A-a-ah, yeah, ja  Irgendwann, irgendwann Irgendwann ist seit Jahren vergang'n Aber du klammerst immer noch daran Denn du hattest und wolltest noch irgendein'n Plan Doch mit dem Plan immer, immer nur verrannt Jedes Mal Sackgasse oder Wand Und irgendwann, irgendwann, irgendwann Fragst du dich, Dicker: „Wieso dauert das so la-a-ang?“  Denn ich hab' nichts zu verlier'n außer Zeit (Zeit, Zeit) Und während ich investier', läuft das Leben vorbei Und so viel, was war, ist jetzt alles nicht mehr Ich hab' so viel verpasst, denn ich sagte immer  Irgendwann, irgendwann, irgendwann Irgendwann, irgendwann, irgendwann, irgendwann Irgendwann, irgendwann, irgendwann, ouh  Oder einfach zu spät Durch das Zauberwort immer verleg'n Weil du dachtest, dass es morgen klargeht, selbstverständlich Dabei ist nichts auf diesem Planet selbstverständlich Deswegen gebe ich mein Geld schnell aus (schnell aus) Morgen brennt die ganze Welt aus (Welt aus) Ich hab' gelernt, willst du etwas machen, mach es jetzt Denn irgendwann, irgendwann, irgendwann ist alles weg, Dicker  Denn ich hab' nichts zu verlier'n außer Zeit (Zeit, Zeit) Und während ich investier', läuft das Leben vorbei Und so viel, was war, ist jetzt alles nicht mehr Ich hab' so viel verpasst, denn ich sagte immer  Irgendwann, irgendwann, irgendwann Irgendwann, irgendwann, irgendwann, irgendwann Irgendwann, irgendwann, irgendwann  Irgendwann, irgendwann, irgendwann Irgendwann, irgendwann, irgendwann Irgendwann, irgendwann, irgendwann Mein Plan geht auf irgendwann Geh' davon drauf irgendwann Aber ich hör' auf irgendwa-ann Bring' den Müll raus irgendwann Ich hör' damit auf irgendwann Ich schwör', ich steig' aus irgendwann Änder' mein Leben irgendwann  Irgendwann, irgendwann, irgendwann Irgendwann, irgendwann, irgendwann, irgendwann Irgendwann, irgendwann, irgendwann  Irgendwann, irgendwann, irgendwann Irgendwann, irgendwann, irgendwann, irgendwann Irgendwann, irgendwann, irgendwann ",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9950294941663742,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9819909036159515,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Schön",
+            "language": "de",
+            "release_date": "2017-08-18",
+            "artist": "BRKN",
+            "album_name": "Einzimmervilla",
+            "lyrics": "Yeah, ihr wollt alles schön Diese Frau'n, dieses Geld, überhaupt diese Welt – nur schön Alles Liebe, kein Krieg, nur Gesang, Harmonie – so schön Diamanten am Ring, woll'n nichts anderes seh'n – so schön  Doch ich wohn' in einem Haus voller Junkies Wo man nicht weiß, was so morgen im Gang liegt Und ich komm' aus einer Stadt voller Gauner Wo man lernt, dass man niemandem trau'n kann Und ich lebe in einem Land voller Heuchler Wo Leute tun, als ob sie Sachen für euch machen Aber eigentlich wollen alle lilane Scheine Und ob ihr alle sterbt geht ihn'n am Arsch vorbei Aber Augen verschließen ist einfacher Hauptsache der Rasen ist gemäht bei euch  Und hier ist alles schön Diese Frau, dieses Geld, überhaupt diese Welt – nur schön Alles Liebe, kein Krieg, nur Gesang, Harmonie – so schön Diamanten am Ring, woll'n nichts anderes seh'n – so schön Denn sie woll'n alles, denn sie woll'n alles  Wen juckt 'ne Schere zwischen reich und arm, außer die Armen? Wen juckt Krieg in einem andern Land, wenn wir nicht da sind? Denn was in Nachrichten und Netz zu seh'n ist Fühlt sich nicht an wie echtes Leben Und all die Bilder voller Dreck und Elend Sind vergessen bei der nächsten Netflix-Serie Uns macht euer Leid glücklich, ja Denn hier gibt's Shirts für 2,50  Schön Diese Frau, dieses Geld, überhaupt diese Welt – nur schön Alles Liebe, kein Krieg, nur Gesang, Harmonie – so schön Diamanten am Ring, woll'n nichts anderes seh'n – so schön Ja, ja, ja, denn ihr wollt alles schön Denn sie woll'n alle, denn sie woll'n alles schön  Ich bin nicht besser als du (so schön) Du bist nicht besser als ich (so schön) Wir sind alles Arschlöcher (so schön) Wenn man es genau nimmt (so schön) Keiner von uns ist Robin Hood (schön) Wir sind mehr so Bösewicht, ja (schön) Denn du willst nicht alles schön Du willst nur alles schön für dich ",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9955356866121292,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9400631785392761,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Atemmaske",
+            "language": "de",
+            "release_date": "2017-06-08",
+            "artist": "BRKN",
+            "album_name": "Einzimmervilla",
+            "lyrics": "I don't have dreams, I have goals. Now, it's on to the next one  Started from the Bottom, now we here! Gestern keine Wohnung, heute shoppen bei Ikea Dicker, jeden Tag komm' wir bisschen näher Sogar Kohle auf der Karte, gestern war die Potte leer Trotzdem blank bis zum allerletzten Nerv Kein Thema, Dicker, alle hab'n gewusst es wird schwer, ah Heute Drecksjob, morgen Tournee, Dicker Wahnsinn ist Normalität, Dicker Eben noch im Regen mit zwei Prozent Und jetzt zack, neben der Steckdose eingepennt, Dicker! Aber wir sind lange nicht da Bewahr'n ein'n kühlen Kopf auf der Bar Solange alles ausufert hier und da Kann ich sagen:  „Hier läuft alles nach Plan!“ Denn ich hab' Vertrau'n in mein'n Verstand und mein Team Wir haben den Start und das Ziel Nur alles dazwischen ist unscharfes Gewirr, egal!  Und wenn du grad verblutest, bewahr die Ruhe – komm klar! Aus dem Deckenkasten fallen Atemmasken – normal! Das Ergebnis zählt und der Weg dahin wird brutal Solange alles explodieren könnte, läuft alles nach Plan, nach Plan  Glaub' mir alles wird gut, aber davor wird's übertrieben Scheiße Ich sterbe sechsunddreißig Tode, bevor ich mein Ziel erreiche In meiner Gegend war nie Spaß seit 9/1 Kohle machen, ob Diebstahl oder Novoline Baba sagt: „Er hängt nicht mit den Gaunern“ , doch die fahren vorbei mit V8 Du sagst: „Mehr Geld, mehr Probleme“ in deinem SLR Mercedes Noch ein M5 in seiner Garage Ich lebe auf Minus mit Karte Dicker, ich hab' viel um die Ohren Sie sagen: „Aber du siehst nichts davon“ Denn es sind kleine Schritte auf der Spur zum Erfolg Irgendwann sind mein Hals und die Uhren aus Gold Ich schwöre auf alles  Und wenn du grad verfluchtest, bewahr die Ruhe – komm klar! Aus dem Deckenkasten fallen Atemmasken – normal! Das Ergebnis zählt und der Weg dahin wird brutal Solange alles explodieren könnte, läuft alles nach Plan, nach Plan  So 'n Typ sagt: „Die erste Mille ist die schwerste“ Doch das ist alles weit in der Ferne Vor zehn Jahren Jugenzentrum-Konzerte Nochmal zehn – der krasseste dieser Erde Grade noch der Typ, der im Kommen ist Nehme alles aus dem Backstage, was umsonst ist 24 Stunde, ich bin fleißig Dicker, ich bin der Geheimtipp! Bringe Ärsche zum Wackeln, ja, du weißt es Alle andern machen nur das gleiche Berkan ist für immer sechsunddreißig Sieben Tage die Woche geschmeidig Deine Olle steht drauf, ja, du weißt es Sie findet die Stimme so romantisch Doch was irgendwelche Ollen sagen, juckt nicht Ich hab' zu tun, bis das Handgelenk funkelt Bergauf, ich nehm' alle meine Jungs mit Erfolg – niemals ohne meine Kumpels Den Jung'n aufhalten, Dicka, mumpelt's? Alle Hater tappen nur im Dunkeln Ich hol' die Mille mit dem Stift Bis zum Ende meiner Schicht Ob du es glaubst oder nicht Dicka, merk dir mein Gesicht  Und wenn du grad verfluchtest, bewahr die Ruhe – komm klar! Aus dem Deckenkasten fallen Atemmasken – normal! Das Ergebnis zählt und der Weg dahin wird brutal Solange alles explodieren könnte, läuft alles nach Plan, nach Plan",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.991361141204834,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.936435600121816,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Glückssträhne",
+            "language": "de",
+            "release_date": "2017-08-18",
+            "artist": "BRKN",
+            "album_name": "Einzimmervilla",
+            "lyrics": "Yeah  Es gibt keine Glückssträhne, die ewig, die ewig, die ewig bleibt Und auch ein Scheißtag geht, geht, geht vorbei Und es ist alles scheiße, während ich diesen Text hier schreibe Doch glaub' mir, alles wird gut Bis zur letzten Zeile Bis zu letzten Zeile, ja  Alles gut um dich herum Nur in dein'n Erinnerung'n Denn ist grad ist das Beste an deinem Tag: Zigaretten und frische Luft Mehr Probleme als du zählen kannst, also sind ein paar mehr auch egal Kein'n Bock morgens aufzusteh'n, weil du weißt, bis zum Abend durchquerst du die Hölle tausendmal Neuer Tag, neues Hindernis Als ob ich nicht schon genug am Ende wär' Doch zu „kein Geld“, „viel Stress“, „kein Schlaf“ Kommt jetzt noch „keine vier Wände“ mehr, egal In diesem Drecksbriefkasten war echt nie was Gutes Ich hab' gehört Humor ist wichtig, wenn du am Boden liegst und blutest Druck steigt Wörter reichen nicht, du musst schrei'n, du schreist, ich schrei' Dabei brauchen wir grade jetzt uns zwei Die Liebe meines Lebens lässt mich steh'n Am schlimmsten Tag meines Lebens Und als ich dachte ich hab' den Abgrund geseh'n Fängt es an zu regnen  Es gibt keine Glückssträhne, die ewig, die ewig, die ewig bleibt Und auch ein Scheißtag geht vorbei Und es ist alles scheiße, während ich diesen Text hier schreibe Doch glaub' mir, alles wird gut Bis zur letzten Zeile Bis zu letzten Zeile, ja, ja  Nichts hält ewig, Baba sagt: „Irgendwann sind wir nicht mehr hier, versteh das“ Klingt bitter, aber heißt: aus Schattenseite wird irgendwann Sonne, denn die Welt dreht sich Und auch wenn grad alles scheiße läuft Kann's sein, dass für dich was richtig passiert, hätte Amir weiter in dem Laden gearbeitet, hätte er vielleicht die Stiche kassiert Gute Besserung an den Jung'n Wer will bei sowas sagen „Alles hat sein'n Grund“? Ihr redet von Märchen, Dicker Und irgendwo bangt grad ein Vater um sein'n Jung'n Yeah, Freunde sind gegang'n und wurden jemand anders Jemand, den du bis dahin nicht gekannt hast Auf der ganzen Welt zu Hause, doch Auf einmal fehlt dir eine Seite in dei'm Atlas Es komm'n bessre Zeiten Ich guck' an die Decke und frag' mich, wann die schlechten vorbei sind Unumgänglich sind beide Die Frage ist, wie lang sie halten Als Kind hab' ich mal 'n Spruch gehört, von so 'nem Typ, der lacht, wenn es bergab geht Weil er weißt, danach geht es bergauf, yeah  Es gibt keine Glückssträhne, die ewig, die ewig, die ewig bleibt Und auch ein Scheißtag geht vorbei Und es ist alles scheiße, während ich diesen Text hier schreibe Doch glaub' mir, alles wird gut Bis zur letzten Zeile Bis zu letzten Zeile, ja, ja  Nach Rückschlag, kommt der nächste Rückschlag, ja Und danach wird es besser, wenn du Glück hast, ja Oder nicht? Gestern Konto voll – Heute Brief vom Gericht, ja Morgens lächeln, abends schiefes Gesicht Steckst du in der Scheiße, ist das Lied hier für dich Ich bin dankbar Denn trotz allem hab' ich viel mehr, als ich verlang'n kann Eine Familie, die mich liebt, ja Der Rest klärt sich irgendwie, ja Und ich werd' nie auf der Straße aufwachen So lange ein Kumpel noch eine Couch hat Und selbst wenn meine Wohnung ein Loch ist Bin ich dankbar für vier Wände und den Kühlschrank ",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9932888320514134,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9098413246018546,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Seit du weg bist",
+            "language": "de",
+            "release_date": "2023-02-17",
+            "artist": "BRKN",
+            "album_name": "Rahat (EP)",
+            "lyrics": "E-ey, e-ey  Bitte schreib mir keine Nachrichten Du weißt nicht, was die bei mir anrichten Ich bin dir egal Warum rufst du mich an? Mein Bro fragt mich, warum ich gut von dir denke So wie du dich benimmst seit dem Ende Du hast keine Ahnung, wie ich kämpfe Jede Zeile fickt mein Leben und du drückst nochmal auf Senden  Man sagt: „Was zu dir gehört, das kommt wieder zurück“ Ich hoff', du bleibst da, wo du bist (Ja)  Seit du weg bist Vermiss' ich dich, doch finde wieder zu mir selbst Seit du weg bist Wird mein Licht langsam hell Seit du weg bist, ist es so still Suchst du mich heim manchmal spät in der Nacht Seit du weg bist Bin ich stärker und das macht mir Angst Seit du weg bist  Ich dachte echt, das wär Liebe Doch warum geht's mir dann besser Seitdem du nicht mehr hier bist Seitdem wir nicht mehr reden Seit du nicht da bist, um alles zu kommentieren? Es war'n über dreißig Grad und mein Herz war kurz vorm Erfrier'n, ah Das war der Sommer mit dir, Baby Das war der Sommer mit uns Haben wir nie gepasst oder haben wir's nur nicht gepackt? Sag mir, lächeln wir irgendwo zusamm'n?  Man sagt: „Was zu dir gehört, das kommt wieder zurück“ Ich hoff', du bleibst da, wo du bist (Ja)  Seit du weg bist Vermiss' ich dich, doch finde wieder zu mir selbst Seit du weg bist Wird mein Licht langsam hell Seit du weg bist, ist es so still Suchst du mich heim manchmal spät in der Nacht Seit du weg bist Bin ich stärker und das macht mir Angst Seit du weg bist (Hahh, hahh) (Hahh, hahh) Seit du weg bist (Hahh, hahh) (Hahh, hahh) Seit du weg bist",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9903832376003265,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.8826799094676971,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "​dreck",
+            "language": "de",
+            "release_date": "2021-09-24",
+            "artist": "BRKN",
+            "album_name": "",
+            "lyrics": "Geh weg Bitte mach mir kein'n Stress Lass mich einfach allein in mei'm Dreck Ist nicht viel, aber hab' ich mir erkämpft (Ah) Respekt Voll schön, doch ich hätte gern Cash (Yeah) Und 'ne Queen in meinem Cabrio mit Herz und viel Ass All das macht nicht glücklich, ist ja gut, Dicka, weiß ich Sag doch mashallah, wird Zeit für Kaviar nach all der Scheiße, Baby (Uh)  Drinks auf Eis, sie schickt Herzen nachts um zwei, ja High Life, Money überall Aber sag, wieso tut es so weh? Sa-sa-sag, wieso tut es so weh? Hayat, Baby, alles okay Aber Herz kalt wie ein Sorbet (Oh) Komm vorbei, Körper heiß, Herzen kalt, ja Bin am schein'n, das geht nie vorbei (Uh, huh, huh) Sag, wieso tut es so weh? Geh ma' und frag, wieso tut es so weh? Hayat, Baby, alles okay Aber Herz kalt wie ein Sorbet, oh  Alles perfekt Über 1,90, pretty und blessed (Ja) Leb' den Tag, wenn der Kopf es zulässt Komm in mein'n Smart, ja, wir pumpen Outkast (Uhh) Baby, sei mein SpottieOttieDopalicious Angel Ich will dich nur tanzen sehen durch die Purple-Rain-Drops (Uff) Und dann leb wohl, ah, ah Ich hab' keine Zeit, ah, ah Das ist Arganöl, mh, mh Kein Drei-in-eins (Oh) Keine fröhlichen Emojis bei „Zuletzt benutzt“ Ich komm' nie wieder, gib mir noch ein'n letzten Kuss  Yeah, ich glaub', ich bin im Himmel angekomm'n Drinks auf Eis, sie singen meine Songs (Aber sag, wieso tut es so weh?)  Komm vorbei, Körper heiß, Herzen kalt, ja Bin am schein'n, das geht nie vorbei (Uh, huh, huh) Sag, wieso tut es so weh? Geh ma' und frag, wieso tut es so weh? Hayat, Baby, alles okay Aber Herz kalt wie ein Sorbet, oh",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.994898110628128,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.8552654385566711,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Herz",
+            "language": "de",
+            "release_date": "2021-04-23",
+            "artist": "BRKN",
+            "album_name": "Drama",
+            "lyrics": "Ja  Fresse voll Blut und Rücken zur Wand Ich verlier' Skrupel, Liebe und Verstand Ich hoffe, ich behalt' mein Herz (Herz, Herz, hey) Ich hoffe, ich behalt' mein Herz (Herz, Herz, hey) Es war alles so nah, jetzt ist alles nicht mehr Mir wird alles egal, jeden Tag bisschen mehr Ich hoffe, ich behalt' mein Herz (Herz, hey) Ich hoffe, ich behalt' mein Hеrz, yeah (Herz, hey)  Schiеß' ihr in die Brust, keine Gnade (Ey) Was muss das muss, keine Wahl (Hey) Wir behalten beide eine Narbe Doch vielleicht tut's nicht mehr weh eines Tages Denn egal, was heut mit dir passiert Heute stirbt auch ein Teil von mir Der Lauf dieser Knarre glüht noch Und das Blut in mein'n Adern gefriert Kein Platz für Emotionen Es fühlt sich an, als ob das Leben mein'n Tod will, ey Zwei Optionen: Im Sarg oder mit der Pistole (Ey)  Fresse voll Blut und Rücken zur Wand Ich verlier' Skrupel, Liebe und Verstand Ich hoffe, ich behalt' mein Herz (Herz, Herz, hey) Ich hoffe, ich behalt' mein Herz (Herz, Herz, hey) Es war alles so nah, jetzt ist alles nicht mehr Mir wird alles egal, jeden Tag bisschen mehr Ich hoffe, ich behalt' mein Herz (Herz, hey) Ich hoffe, ich behalt' mein Herz, yeah (Herz, hey)  Jedes Wort (Jedes Wort), ist eine Kugel Seele schreit (Ah), Herz blutet (Ah) Mein Finger zittert (Mein Finger zittert), ich hab' Angst Halte die Pistole an den Kopf und sage ade Der schlimmste Tag meines Lebens  Bitte schieß nicht, bitte schieß nicht (Nein, nein, nein) Bitte schieß nicht, bitte schieß nicht (Nein, nein, nein) Bitte schieß nicht, bitte schieß nicht (Nein, nein, nein) Bitte schieß nicht, bitte schieß nicht in ihr Herz  Ey, alles ist aus (Mmh) Party ist vorbei, mach das Licht aus Dachte bis zuletzt nicht, dass ich mich trau' Shirt voll Blut, bitte pass auf dich auf (Auf) Wie lebt man damit? Wie schläft man damit? Das geht doch gar nicht Wie soll ich mich so selbst noch angucken, heh? (Wie?) Wie soll mich noch irgendwas jucken (Ey, ey) Bin mir seitdem selber egal (Selber egal) Fühlt sich an als ob der Teufel mich jagt (Teufel mich jagt) Berkan, was hast du heut so gemacht? Ich hab' mein'n besten Freund umgebracht",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9933421730995178,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.958259105682373,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Promo",
+            "language": "de",
+            "release_date": "2017-08-18",
+            "artist": "BRKN",
+            "album_name": "Einzimmervilla",
+            "lyrics": "Yeah! Ja, ja, ja, ja  Wenn ich besoffen rumschreie und Regale umschmeiße, schrei' ich: „Kauft meine Liebe!“ – es ist Promo Und wenn ich Autos anzünde, vor den Bullen dann flüchte, hat es alles seine Gründe – es ist Promo, hey Und schicken sie mich in die Entzugsklinik, hoff' ich, es gibt viel Klicks – das ist Promo Hab' ich meine Zukunft verdorben, Mama, mach dir keine Sorgen!  Ist alles nur Promo, Promo Mein Leben ist nur Promo, Promo Ist alles immer nur Promo, Promo? Yeah, Promo, Promo  Mein PR-Typ sagt: „Die Musik geht klar Doch was Werbung angeht, bist du Rohdiamant Brauchen irgendwas, was dich interessant macht Also freund' dich mal mit ein paar Koksdealern an Kriegen wir dich in Abschiebehaft? Würdest du dich anschießen lassen? Gab's mal 'n trauriges Ereignis? Gute Mucke allein reicht nicht“ Wenn ich bei Nike Butterfly ziehe Weil ich wieder keine Jordans abkriege In der Sparkasse hänge auf Shore Mach' ich das alles für den Artikel  Ja, wenn ich besoffen rumschreie und Regale umschmeiße, schrei' ich: „Kauft meine Liebe!“ – es ist Promo Und wenn ich Autos anzünde, vor den Bullen dann flüchte, hat es alles seine Gründe – es ist Promo, hey Und schicken sie mich in die Entzugsklinik, hoff' ich, es gibt viel Klicks – das ist Promo Hab' ich meine Zukunft verdorben, Mama, mach dir keine Sorgen!  Ist alles nur Promo, Promo Mein Leben ist nur Promo, Promo Ist alles immer nur Promo, Promo? Yeah, Promo, Promo  Mein PR-Typ sagt: „Dicker, die Musik geht klar Aber Werbung müssen wir noch üben Wir brauchen ein'n Skandal, heirate 'ne Jüdin Jeder der dachte „Oh Gott, oh Gott oder der dachte, das wirklich 'n Skandal ist, Dicker, der's 'n Nazi, Alter! Na, hab' ick euch erwischt“ Mach' mal ein'n Dancehallsong, Trap sollte auch vorkomm'n Autotune sowieso, trag' dieses Paristrikot Diss jemanden, der grade in den Charts ist Mir egal, ob du bei RAF im Verlag bist Ja, vielleicht ist deine Art ganz sympathisch Doch Dicker, wieso kiffst du eigentlich gar nicht?“  Ja, wenn ich besoffen rumschreie und Regale umschmeiße, schrei' ich: „Kauft meine Liebe!“ – es ist Promo Und wenn ich Autos anzünde, vor den Bullen dann flüchte, hat es alles seine Gründe – es ist Promo, hey Und schicken sie mich in die Entzugsklinik, hoff' ich, es gibt viel Klicks – das ist Promo Hab' ich meine Zukunft verdorben, yeah, Mama, mach dir keine Sorgen! Ist alles nur Promo, Promo Mein Leben ist nur Promo, Promo Ist alles immer nur Promo, Promo? Yeah, Promo, Promo  Wenn ich draußen besoffen rumschreie Im Laden die Regale umschmeiße Ist meine Message: Kauft meine Liebe Nichts, was nicht inszeniert ist Wenn ich mich daneben benehme Auf deiner Party Tische umtrete Alles in die Story, was Privatsphäre? Schmeiß dein Leben weg für die Karriere  Promo, Promo Promo, Promo Promo, Promo Ihr seht nur, was ihr seh'n sollt, ja (Promo, Promo) Ihr seht nur, was ihr seh'n sollt, ja (Promo, Promo) Ihr seht nur, was ihr seh'n sollt (Promo, Promo) Ihr seht nur, was ihr seh'n",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9961772759755453,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9001095394293467,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "30 Grad",
+            "language": "de",
+            "release_date": "2016-05-20",
+            "artist": "BRKN",
+            "album_name": "Kauft Meine Liebe",
+            "lyrics": "30 Grad, Dicker, was'n Tag Kreuzberg Panama Die ganze Welt hängt draußen ab Chillen im Park oder Prinzenbad Oder fahren durch die Stadt BMW oder Rad Hauptsache, du bist da Denn es sind 30 Grad Es ist heiß, jederzeit kein Schlaf Wir hängen ab, alle zusammen durch die Nacht Bis die Sonne wieder aufgeht, wir sind noch da Sitzen beim Bäcker dann morgens um Acht Zeitlupe durch die Stadt Fenster auf, sogar der Fahrtwind ist warm Die Luft brennt und es riecht nach Gras Hübsche Ollen winken und lächeln uns an, ja Ich lauf durch die 36 mit meinen Nikes an Kaltes Wasser über'n Kopf, es sind 30 Grad Leute rennen immer noch, denn Para kennt keinen Schlaf Egal, wohin es geht, ich liebe meine Stadt Vorallem bei 30 Grad 30 Grad Es sind 30 Grad Ein heißer Tag Locker 30 Grad Leben ist schön, guck die kleine da Ihr Kleid ist knapp, ihre Beine lang Denn Outfits im Sommer sind mies Die ganze Stadt ist auf einmal sexy, hey Manche sind auf Fans, andere sind auf Freeze, hey Alle meine Leute sind auf Sonne und Beats, ey Vielleicht sind wir für dich ein bisschen zu prollig Denn wir fahren mit Arm draußen bei Sonnenlicht Wenn ein Spießer mit dem Kopf schüttelt, zwinker ich ihm zu Wenn ich in Zeitlupe an dir vorbeicruise, sag Schritt fahren, Fenster auf, beste Leben Ja, fahr mit lauter Mucke durch deine Gegend Ja, und wenn es dir gefällt, zwinker ich dir zu Wenn ich in Zeitlupe an dir vorbeicruise Yeah, denn es sind 30 Grad, ja Es sind 30 Grad, Bitch",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9911121527353922,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9673736691474915,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Macht nichts",
+            "language": "de",
+            "release_date": "2016-05-20",
+            "artist": "BRKN",
+            "album_name": "Kauft Meine Liebe",
+            "lyrics": "Macht nichts Macht nichts Wirklich Auh  Arbeiten Nie schlafen Nein Digga, du darfst nie schlafen Denn Erfolg muss man sich verdient haben (Auh) Das ist was sie sagen Millionen Mäuse rennen hastig durch die Gegend So sieht's aus auf diesem Planeten Du gibst alles um dein Ziel zu erreichen Doch du wolltest nächstes Jahr Millionär sein, oder? Digga Du bist nicht wo du sein willst? Macht nichts Wir tun einfach so als wär's Absicht Wer kriegt schon sein Leben hin vor Einundzwanzig? Du bist 'n cooler Typ man Ich glaub an dich, du schaffst es Kein Glück? Dann lass heute mal sein Nicht jeder Schuss kann ein Volltreffer sein Vor diesem Song hab ich 'n Monat lang Blätter zerrissen Mir Druck gemacht Und mittlerweile ist es besser zu wissen, es  Macht nichts Einfach nochmal von Anfang Macht nichts Nochmal aus und dann ein Wirklich Nimm das Spiel raus und pust rein Und wenn du nicht mehr kannst, lass gut sein Digga, macht nichts Morgen ist auch noch ein Tag (Verstehste?) Kurz klar kommen, dann geht's weiter (Sag) Mach dir kein Kopf, Digga (Sag) Alles cool Aus nem scheiß Tag wird noch lange kein Sarg  Hey Keine Ideen, kein Geld, kein Plan Kein Bock auf irgendwen seit Tagen Vielleicht gerad' gefeuert und im Arsch Doch vielleicht brauchst du einfach jemanden, der was Schönes sagt Aber Deine Freundin macht Stress und therapiert Sagt, es ist kein Spiel, kein Schlaf bis zum Ziel Ich dachte, du bist immer fokussiert und motiviert Digga, lass sein, jeder braucht mal Pause Denn ziehst du gerad' immer die Arschkarte raus Sagt auch die Wahrsager Frau, mach mal paar Tage blau Und wenn dann noch jemand Faxxen macht Schieb's auf mich, denn Berkan hat gesagt Des macht nichts Wenn ich nicht da bin, wo ich sein will Wer kriegt schon sein Leben hin vor Sechsunddreißig? Stimmt's, Berkan? Auf jeden! Vielleicht ist dieser Song aber auch voller Ausreden Ist egal, Digga  Macht nichts Einfach nochmal von Anfang Macht nichts Nochmal aus und dann ein Wirklich Nimm das Spiel raus und pust rein Und wenn du nicht mehr kannst, lass gut sein Digga, macht nichts Morgen ist auch noch ein Tag (Verstehste?) Kurz klar kommen, dann geht's weiter (Sag) Mach dir kein Kopf, Digga (Sag) Alles cool Aus nem scheiß Tag wird noch lange kein Sarg Hey Du kommst heute nicht klar Gestern bei deiner Freundin verkackt Morgen Prüfung und noch gar nicht gelernt (Auh) Kein Grund, jetzt panisch zu werden Bekämpf Stress nicht mit Stress Glaub mir, die Welt rennt nicht weg Und ich weiß, du bleibst immer am Ball Doch dein Spiegelbild zweifelt daran Du bist nicht wo du sein willst? Macht nichts Wir tun einfach so als wär's Absicht Wer kriegt schon sein Leben hin vor Sechsundzwanzig? Du bist n' schnieke Typ Man, ich glaub an dich, du schaffst es Ha! Ich hab den Masterplan für mein Leben Übermorgen bin ich kacke reich, ja Und danach jedes Wochenende Vegas Hundertpro, Digga, das klappt vielleicht  Macht nichts Einfach nochmal von Anfang Macht nichts Nochmal aus und dann ein Wirklich Nimm das Spiel raus und pust rein Und wenn du nicht mehr kannst, lass gut sein Digga, macht nichts Morgen ist auch noch ein Tag (Verstehste?) Kurz klar kommen, dann geht's weiter (Sag) Mach dir kein Kopf, Digga (Sag) Alles cool Aus nem scheiß Tag wird noch lange kein Sarg",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9956625359398978,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9864663737160819,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Hades",
+            "language": "de",
+            "release_date": "2021-04-23",
+            "artist": "BRKN",
+            "album_name": "Drama",
+            "lyrics": "Yeah, yeah  Ich hab' keine Zeit, ich muss keinem was erklär'n Beat fällt leicht, doch das Herz wiegt schwer Versuch mich zu kill'n, mach mich stärker als zuvor Trau meinen Gefühlen, aber keinem leeren Wort Kille den Beat und geh rein wegen Mord Hab nur ein Ziel, will die Eins so wie Jordan, in meinen Jordans Outfit clean, fresh und depressiv (Ah) Vergangenhеit ist da wo sie ist, doch sie schreibt mir (Nah) Und diе Zukunft sagt alles wird gut Doch ich bleib hier in der Gegenwart Alles Chaos, Doppelfit so wie nie Geb' kein Fick, klarer Blick so wie nie Sag ihr wollt Krieg, alles klar, lasst uns spiel'n  Ihr könnt mich nicht umbringen Das ist erst der Anfang Nehm' es wenn es da ist Olymp oder Hades (Meine Zeit kommt)   (Yeah) Keiner hat was zu erzähl'n, alle labern nur nach Alles bleibt gleich, alte Wunden, neuer Tag Alles dreht sich, nichts bleibt, kein Versprechen Berkanito selber Typ, neues Album, neue Ketten Baby, ich bin immer frisch, alles andere nicht konstant Geld nur Papier, rein, raus aus der Bank Leben nur Spiel, was ist auf deiner Hand Ich kann nicht verlier'n, nur Herz und Verstand Geb 'nen Fick ob's dich stört Jeder kriegt was er nicht will, jetzt friss oder stirb Mama sagt benutz dein Kopf und hör auf dein Herz Doch alles was ich begehr', ist meilenweit entfernt Bitte geb nach, verzeih mir Ich bin nicht perfekt, Dämonen in mir Doch wenn es heißt du oder ich Sprich besser dein Gebet Das Schicksal schützt mich  Ihr könnt mich nicht umbringen Das ist erst der Anfang Nehm' es wenn es da ist Olymp oder Hades (Ey) (morten) Liebe und Geld, alles was mich interessiert, ja Doch alle ficken Kopf, warum so kompliziert, ja Depressionen rauben meinen Fokus Sag, fick einen CLS, ich will ein Turbus Ich kann nicht fallen, doch sie hoffen das passiert bald Lästert weiter, ich weiß nicht einmal wer ihr seid Drei Uhr nachts, Null-Drei-Null, outside Gute Nacht, Baby, ich bin im Studio all night Ah, ich will alles (Yeah, yeah, yeah, yeah) Ich hol mir das (Yeah, yeah, yeah, yeah) Ich hab's verdient (Yeah, yeah, yeah, yeah) Was hast du gemacht? (Yeah, yeah, yeah, yeah)  Watch myself loose Watch myself loose Watch myself loose, ey",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9835144758224488,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.8602203249931335,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Nach Hause",
+            "language": "de",
+            "release_date": "2017-08-18",
+            "artist": "BRKN",
+            "album_name": "Einzimmervilla",
+            "lyrics": "Ich hab' den ganzen Tag geschuftet Ich dachte fast, dass es mich umbringt Doch Dicker, ich will nur nach Hause Will nur eine Brise von dei'm Duft Und komm' ich durch die Tür, gib mir ein'n Kuss, ey Ich habe geschwitzt und geblutet (ja) Ich hab' erledigt, was zu tun ist (ja) Ich hab' Schmerzen von Kopf bis Fuß Ich zähle jede Stunde und Minute Aber jemand hat die Zeit gestoppt Und ich habe nur eins im Kopf  Ich will nur nach Haus zu dir, ja ja Baby, hier ist alles mies Draußen wartet das Paradies Ich will nur noch weg von hier, ja ja Drückt mir mein Chef noch eine Schicht Dann box' ich ihn um für dich Ich will nur nach Haus zu dir, ja ja Baby, hier ist alles mies Draußen wartet das Paradies Ich will nur noch weg von hier, ja ja Ackere den ganzen Tag und hab's irgendwann geschafft  Sitze hier seit acht Uhr morgens War zu Haus um zwölf Uhr nachts Vom Büro los ins Studio, Dicker Bis es wieder hell wird, war Halbtot und verkatert im Job Immer lächeln für die Kunden, Kunden Hätte ich die letzten fünf, sechs Drinks gestern besser nicht getrunken, ey Draußen so schön und hier drin so hässlich Ich will nur mit dir chill'n und Netflix , Getaway oder Francis Hauptsache wir seh'n und endlich  Ich will nur nach Haus zu dir, ja ja Baby, hier ist alles mies Draußen wartet das Paradies Ich will nur noch weg von hier, ja ja Gibt mir mein Chef noch eine Schicht Dann box' ich ihn um für dich Ich will nur nach Haus zu dir, ja ja Baby, hier ist alles mies Draußen wartet das Paradies Ich will nur noch weg von hier, ja ja Ackere den ganzen Tag und hab's irgendwann geschafft Wann ist die Schicht vorbei? Wann ist endlich soweit? Ich acker' Tag und Nacht, ich acker' Tag und Nacht Von nichts kommt nichts, ich weiß Du schläfst schon, wenn ich da bin Ich acker' Tag und Nacht, ich acker' Tag und Nacht  Ich will nur nach Haus zu dir, ja ja Baby, hier ist alles mies Bei dir wartet das Paradies Ich will nur nach Haus zu dir, ja ja Acker' den ganzen Tag, hab' es irgendwann geschafft ",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9920505732297897,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9828543663024902,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Benzin",
+            "language": "de",
+            "release_date": "2016-04-08",
+            "artist": "BRKN",
+            "album_name": "Kennste einen, kennste alle",
+            "lyrics": "Und es tropft, tropft Vom Kellerboden bis ins Dachgeschoss Wenn ihr schlaft, sind wir wach Selbst das Unzerstörbare wird schwach Mit ein bisschen...  Ich liebe, wie es riecht, wenn es auf der Straße kriecht Bleib' steh'n, atme tief - dieses Gift, meine Medizin Und es ruft nach mir, weckt die Wut in mir Ist so gut zu mir, ich hab' nichts zu verlier'n Schneid' meine Adern auf und seh' schwarzes Blut fließen Bete, dass wir nicht in deiner Nähe explodieren Menschenmassen, das innere Feuer reicht tief Und alle zusammen sind sie ein Meer aus Benzin Auch tausend Einzelgänger finden irgendwann zusammen Lauft zusammen, Kanister in der Hand - Hast du Angst? Unsere Stimmen nicht gehört, Gesichter nicht erkannt Ihr könnt uns nicht mehr ignorier'n, steht alles lichterloh in Flammen Ihr wollt panisch noch irgendwas retten Doch nichts hat mehr einen Wert, wenn alles brennt  Hass lässt Liebe erlischen Euer Unrecht wäscht unser Gewissen Eure mauern können niemand mehr schützen Sogar ein Palast brennt, mit ein bisschen Benzin, ey  Guck uns an, wir haben die Nacht erleuchtet Die ganze Stadt brennt heute Alles wie es sein soll Alles nur mit einem Streichholz Und ein bisschen Benzin  Jeder Tag eine Seite meines Buchs und es füllt sich So viel hab' ich erlebt und in der Jugend gesündigt Herz aus Benzin, meine Wut ist begründet Oft reicht bloß 'n Milligram Glut, das entzüdet Seele wie 'n Minenfeld und voller Narben Ein Wort, eine Geste lässt die Bombe platzen Ich wollte wachsen, meinen inneren Frieden Doch aus Staub wurde Asche, durch ein bisschen (Benzin) Die Flamme tötet, doch hat Schmerzen gelindert Und wenn sie brennt, ja dann brennt sie für immer Rauch in der Lunge, sie kann dich vernichten Was sie braucht, ist 'n Funke... Benzin  Guck uns an, wir haben die Nacht erleuchtet Die ganze Stadt brennt heute Alles wie es sein soll Alles nur mit einem Streichholz Und ein bisschen Benzin Und es tropft, tropft Vom Kellerboden bis ins Dachgeschoss Wenn ihr schlaft, sind wir wach Selbst das Unzerstörbare wird schwach Mit ein bisschen...",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9917719811201096,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9515123665332794,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Lüg mich an",
+            "language": "de",
+            "release_date": "2021-04-23",
+            "artist": "BRKN",
+            "album_name": "Drama",
+            "lyrics": "Ich kann immer noch keine Liebeslieder hör'n, keine Liebeslieder hör'n Ich kann immer noch keine Liebeslieder hör'n  Sie sagt bitte lüg mich an, es ist nicht dein Ernst Es kann doch nicht sein dass du einfach gehst Nimm dir meinen Kopf aber lass mir mein Herz Auch ich hab verdient dass es weiter geht Es war doch für immer, wie jetzt ist es vorbеi? Glaub mir ich hatte niemals einеn Plan B Oder weißt du was, nimm’s, ich brauche keins mehr Wenn du es nicht willst, geb ich's niemandem  Sie sagt Bitte lüg mich an Dann ist es nicht wahr Wie kann's jetzt nicht mehr sein Wenns noch gestern war Hättest du es gesagt Dass gestern Abend der letzte war Hätt' ich nie geschlafen Jeden Augenblick genossen noch in diesen Armen Die Gelegenheit nochmal genutzt um dir zu sagen, ey Wie sehr ich dich liebe grade Und ich hätte gelogen, noch ein letztes Mal  Bitte lüg mich an, es ist nicht dein Ernst Es kann doch nicht sein dass du einfach gehst Nimm dir meinen Kopf aber lass mir mein Herz Auch ich hab verdient dass es weiter geht Es war doch für immer, wie jetzt ist es vorbei? Glaub mir ich hatte niemals einen Plan B Oder weißt du was, nimm’s, ich brauche keins mehr Wenn du es nicht willst, geb ich's niemandem  Die Welt kann mir vergeben, Gott kann mir vergeben Weißt du was, sogar du könntest mir vergeben Doch ich glaub nicht, dass ich das schaff nochmal in diesem Leben Deine Schmerzen, deine Tränen, wie soll ich das regeln? Fast jedem wurde mal das Herz gebrochen Doch ich hab das Gefühl das hier ist nicht mehr zu toppen Ich fühle mich so ohnmächtig, gegen alles Aus den Herzen ist die Kraft, aus unseren Augen ist ein Meer gefloßen Wie kannst du denken mich lässt alles kalt Doch egal wie ich mich verhalte, ich mach es falsch Ich hab' gekämpft, geschrien, geweint, mit mir allein  Bitte lüg mich an, es ist nicht dein Ernst Es kann doch nicht sein dass du einfach gehst Nimm dir meinen Kopf aber lass mir mein Herz Auch ich hab verdient dass es weiter geht Es war doch für immer, wie jetzt ist es vorbei? Glaub mir ich hatte niemals einen Plan B Oder weißt du was, nimm’s, ich brauche keins mehr Wenn du es nicht willst, geb ich's niemandem Ich kann immer noch keine Liebeslieder hör'n Immer noch keine Liebeslieder hör'n Ich kann immer noch keine Liebeslieder hör'n Immer noch keine Liebeslieder hör'n, nein, nein Ich kann immer noch keine Liebeslieder hör'n Immer noch keine Liebeslieder hör'n, nein, nein Ich kann immer noch keine Liebeslieder hör'n Immer noch keine Liebeslieder hör'n, nein, nein (Yeah)",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.990841007232666,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9017528295516968,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "4,93€",
+            "language": "de",
+            "release_date": "2016-04-07",
+            "artist": "BRKN",
+            "album_name": "Kennste einen, kennste alle",
+            "lyrics": "Ich komm' in den Klub rein wie der Shit Denn ich hab vier Euro 93 Sie wollen, dass ich ihnen die Zunge in die Kehle stopfe Denn sie riechen meine leere Potte Prince-Charles- will uns nicht im Laden Deswegen guckt er wenn wir Liste haben Ich trag H&M von vor vier Jahren Und will ein bomben Abend und nicht bezahlen Sie wollen Geschichten von mei'm Konto hör'n Wie ich weglaufe vor Kontrolleuren Der V.I.P.-Tisch guckt zu uns so neidisch Denn sie wissen sie, sie werden nie so arm wie wir Sie finden mich heiß und niedlich Denn keiner ist pleite wie ich Sie will ein' Typ, der auch lustig drauf ist Ok, ich erzähl dir ein' Witz - der nächste Drink geht auf mich!  Keiner hier hat so wenig Kohle wie ich Keiner hier hat so wenig Parra wie ich Wie kann man nur so wenig Scheine haben wie wir? Dicka, keiner hier hat einen geilen Abend wie wir! Sag:  Oh! (Geld stinkt) (Geld stinkt) Bam ba da dam dam dam da da dam (dein Geld Stinkt!) Bam ba da dam dam dam da da dam (sie lieben es!)  Du kannst ins Matrix gehen und schick aussehen Oder Hemd anziehen und Drinks ausgeben Oder zock' mit uns Bierball Mit Lidl-Plastikflaschen am Kanal Aber du musst ein' Euro dazu bezahlen Und ja ich weiß, bisher waren alle deine Männer Immer übertrieben reich, entweder Anwalt oder Banker Du hast Niveau, aber das kann sich heute ändern Komm mit mir, komm wir kiffen ein' im Park, als wär'n wir Penner Trinken Apfel-Korn aus Bechern, machen Radio auf Handy an Und tanzen ungehemmt, spasten ab wie Carlton Banks Machen alles, was du- Ey! Bitte warte, renn nicht weg! Ich hab noch 'n paar Argumente, warum heut' Abend legendär wird Ich mach Party ohne Grenzen außer paar finanzielle Hol' Pilsator oder Sternburg, alles Andere wär Verschwendung! Du hast gerade kurz gelächelt Vielleicht hast du's jetzt gecheckt Wir sind nicht \"arm aber sexy\" Sondern Arm macht uns sexy Oh! (Geld stinkt) (Geld stinkt) Bam ba da dam dam dam da da dam (dein Geld Stinkt!) Bam ba da dam dam dam da da dam (sie lieben es!)  Jao Heute mache ich mies Abriss Obwohl auf meinem Konto leider nie was ist Aber du hast Geld - Dicka, bring mal mir was mit! Bruder, dat kriegste irgendwie zurück Merlin (Beste) - arm aber sexy Du willst mit mir feiern? Dann bezahl mal den Jacky Bezahl mal den Jäger, bezahl mal den Pfeffi Roll dein' Fuffi und lass mit der Nase was wegziehen Kein Geld, aber Whiskey im Glas Du gibst ihr was aus, sie denkt, dass ich des bezahl'! Taktik - so mach' ich die Bitches hier klar Ein Blick und sie sagt \"der geht auf mich dieses Mal!\" Sugar Mamas erkenn' ich in jedem Zustand Sie hat DriveNow - heute nehm' wir nicht die U-Bahn Morgen früh mach ich ihr Pasta mit Pesto warm Und muss dann nach Hause wieder mit der S-Bahn fahr'n Keiner hier hat so wenig Kohle wie ich Keiner hier hat so wenig Ballast wie ich Wie kann man nur so wenig Scheine haben wie wir? Dicka, keiner hier hat einen geilen Abend wie wir! Sag:  Oh! (Geld stinkt) (Geld stinkt) Bam ba da dam dam dam da da dam (dein Geld Stinkt!) Bam ba da dam dam dam da da dam (sie lieben es!)",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9966365993022919,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.8982235689957937,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Stress",
+            "language": "de",
+            "release_date": "2021-04-23",
+            "artist": "BRKN",
+            "album_name": "Drama",
+            "lyrics": "Handy vibriert, Kopf explodiert Du da, ich hier Was ist geschehen So gut, grad noch Jetzt nur Chaos Schweig nicht, sag doch Es gibt nichts zu erzähl'n Ich hab' gerungen und gekämpft mit mir Ich hab' eine Flasche Hennessy hier Ich hab meine inneren Dämonen vor der Tür Ich hab' Angst die Kontrolle zu verlier'n Ich bin überall, nur nicht hier und jetzt  Baby, ich hab' Stress Ja ey, keine Zeit, keine Pause, keine Ruhe, nur Stress Ja, nur das Tick Tick Ticken auf der Uhr, Baby, Stress Uh, sei bereit für den Sturz, Baby, SOS Warum ist alles immer so komplex? Ja, ey, ey  Ey, ey, ey, ey, ey, ey, ey, ey  Fünf, Vier, Drei, Zwei, gegen die Zeit Mach, mach, mach, mach, schnell Alles aus und vorbei Zu viele Paranoia, dicker, hält mich auf Trab Zu viele Gesichter, nein, ich glaube ich brauch' Schlaf Bitte therapier mich, das ist nicht mehr normal Gebe Vollgas, doch komm' ins Stolpern Suche Frieden, doch krieg Panik Sag, denk zu viel oder gar nicht, ey Vier Uhr, wieso kann ich nicht schlafen? Dämonen im Kopf, so laut Sag ihnen sie sollen es lassen Wann hört es auf dieser Stress?  Baby, ich hab' Stress Keine Zeit, keine Pause, keine Ruhe, nur Stress Ey, nur das Tick Tick Ticken auf der Uhr, Baby, Stress Ja, sei bereit für den Sturz, Baby, SOS Warum ist immer alles so komplex? Yeah  Ey, ey, ey, ey, ey, ey, ey, ey Ey, ey, ey, ey, ey, ey, ey, ey Ich brauch' kein Koks Das Leben hält mich wach Will 'ne Pause nur kurz Bitte stell es ab Und ich renne jeden Tag Sie jagen mich jeden Tag Ich bin müde von dieser Paranoia, yeah",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9947169423103333,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.8787205815315247,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "​henny",
+            "language": "de",
+            "release_date": "2021-12-17",
+            "artist": "BRKN",
+            "album_name": "",
+            "lyrics": "Ey, alles endet, alles endet irgendwo Ich wollte niemals diese Schmerzen, doch muss los Baby, vergiss mich bitte nicht, darf ich das sagen? Das war nicht ich, das war'n die inneren Dämon'n Alles endet, alles endet irgendwo Noch ein Henny, noch ein Henny bitte, Bro Wenn ich bis morgen nicht erfrier' in dieser Stadt Jag' ich Money, bleibe ehrlich bis zum Tod  Ey, Hennessy war unser letzter Drink Doch du bist nicht hier, also trink' ich deinen mit Irgendetwas läuft hier nicht korrekt Du bist in mei'm Kopf, jemand anders in dei'm Bett (Jaa) Ich schwöre, irgendwas läuft hier verkehrt (Ohh) Sie auf meiner Couch, aber du bist in mei'm Herz (Herz) Ich hab' ganz anderes geschafft, ich schaff' auch das, ah (Oh ja) Auch wenn es mein Herz bricht, was du machst, ah (Oh ja) Fünf Uhr nachts, ich schreib' dir einen Text (Ah) Und schlafe ein zum Summer Walker Tiny Desk, ah  Alles endet, alles endet irgendwo Ich wollte niemals diese Schmerzen, doch muss los Baby, vergiss mich bitte nicht, darf ich das sagen? Das war nicht ich, das war'n die inneren Dämon'n Alles endet, alles endet irgendwo Noch ein Henny, noch ein Henny bitte, Bro Wenn ich bis morgen nicht erfrier' in dieser Stadt Jag' ich Money, bleibe ehrlich bis zum Tod  Herzlichen Glückwunsch, ja, ich hab's ma' wieder hinbekomm'n Wir war'n so glücklich und jetzt schreib' ich wieder Break-up-Songs Ich schicke nie mehr Nachrichten im Suff ab Ich schwöre, ich geh' nie wieder nach Stuttgart Ich hab' dir gesagt, dass ich kaputt bin Hätte wissen müssen, dass dich das kaputt macht Ich schrieb den Song hier noch vor Trennung Nummer zwei Doch ich glaub', jetzt ist es endgültig vorbei Du hast mich bedingungslos geliebt, ey Doch ich hab' nie verstanden, wie  Mhh, Liebe, selbst auch Liebe zu anderen fängt mit Selbstliebe an Weil, wie soll ich's glauben, dass ich's verdiene, dass andere Leute mich lieben Wenn ich's noch nicht mal selbst schaffe, mir diese Liebe zu geben?  Alles endet, alles endet irgendwo Noch ein Henny, noch ein Henny bitte, Bro Wenn ich bis morgen nicht erfrier' in dieser Stadt Jag' ich Money, bleibe ehrlich bis zum Tod",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9944740653038024,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9810734391212463,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Therapie",
+            "language": "de",
+            "release_date": "2023-03-10",
+            "artist": "BRKN",
+            "album_name": "Rahat (EP)",
+            "lyrics": "Du mich trotzdem? Oh-oh-oh Baby, liebst du mich trotzdem? Da-da-da Drei, vier, eins  Ich glaub', ein bisschen Therapie würd nicht schaden, nah So viele Dämon'n, die mich jagen, ja Baby, liebst du mich trotzdem? Oh-oh-oh Baby, liebst du mich trotzdem? Oh-oh-oh Ja  Baby, ich bin nicht perfekt, nah (Nah, nah, nah) Ich trau' dir nicht, bist du zu nett, nah (Nah, nah, nah) Ich bin erfolgreich (Ja), ich bin fresh Aber fühle mich wie Dreck neben dir, ist des ein Komplex? Ah (Komplex, ah) Baby, die Sonne scheint, ja Aber die Sonne scheint nicht in mei'm Herz Hier ist es eisig, ja Regenwolke überm Kopf bei dreißig Gra-ad, -ad-ad Und sag mir Wie lang noch, bis ich die Kontrolle verlier'? Ich war boxen, war saufen, hab' meditiert Ich hab' alles probiert, doch mir wird alles zu viel, bei Gott  Ich glaub', ein bisschen Therapie würd nicht schaden, nah (Nah-nah, nah-nah, nah, nah) So viele Dämon'n, die mich jagen, ja (Baby, liebst du mich trotzdem?) Baby, liebst du mich trotzdem? Oh-oh-oh Baby, liebst du mich trotzdem? Oh-oh-oh  Baby, ich bin nicht verrückt (Mh-mh) Wenn überhaupt, dann lieb' ich dich wie verrückt, nur (Mh-hm) Leider hat mein Selbstvertrau'n ein'n Riss und (Yeah) Irgendwie vertrau' ich dir nicht Bitte lüg nicht Du sagst, du liebst mich, doch ich fühl's nicht Vielleicht weil es hier drin noch zu kühl ist Und dieses Ungleichgewicht macht müde Du verdienst Liebe (Liebe) Rede mit kei'm, fress' es in mich rein Schenk' noch ein'n Drink ein, dis kann es nicht sein, ah Baby, du weißt, wir beide zu zweit Ans Ende der Zeit, ups, ist schon vorbei  Ich nehm' die Liebe, woher auch immer ich sie krieg', ah Weil ich Angst hab', dass mich nie wieder jemand liebt, dabei Bin ich, glaub' ich, gar nicht so 'n schlechter Typ Ich glaub', ich glaub', ein bisschen Therapie— (Therapie) Ich glaub', ein bisschen Therapie würd nicht schaden, nah So viele Dämon'n, die mich jagen, ja Baby, liebst du mich trotzdem? Oh-oh-oh Baby, liebst du mich trotzdem? Oh-oh-oh",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9951918423175812,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.752224937081337,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Ihr verdient es",
+            "language": "de",
+            "release_date": "2017-08-18",
+            "artist": "BRKN",
+            "album_name": "Einzimmervilla",
+            "lyrics": "Yeah  Ihr verdient alle ein'n Song Von Anfang bis Ende, ein ganzes Orchester, ein'n Song Mit Schüssen und Böllern, als wäre Silvester, ein'n Song Eine Ballade, einfach für alle, so yeah Und ich hab' ihn geschrieben, denn glaub mir, du hast ihn verdient  Yeah, oh, oh, ja Ein sechzehnköpfiges Orchester schmeißt ein'n Kieselstein an dein Fenster Ein Flugzeug zieht ein Banner mit deinem Namen den Himmel lang, ja Du hast harte Zeiten gehabt, oder? Aber du hast es durch die Scheiße geschafft, oder? Kopf und Herz wären beinahe geplatzt Doch du stehst noch, nur kurz in den Seilen gehang'n, oder? Dich kriegt man nicht so leicht K.O. (o-oh) Vor zehn Gegnern und du schreist: „Na los!“ (o-oh) Alle meine Leute hustlen jeden Tag Egal ob Schreibtisch oder Straße  Ihr verdient alle ein'n Song Von Anfang bis Ende, ein ganzes Orchester, ein'n Song Mit Schüssen und Böllern, als wäre Silvester, ein'n Song Eine Ballade, einfach für alle, so yeah Und ich hab' ihn geschrieben, denn glaub mir, du hast ihn verdient  Das Leben ist kein Lolli, doch kommen klar O-Straße, unser Hollywood-Boulevard Für uns zählt nur dein Herz, Habib Egal ob Twingo oder Ferrari, yeah Also roll' den roten Teppich aus im Plattenbau-Treppenhaus Für mein Team und den Rest von Berlin Ihr habt euch etwas verdient, jo  Jeder Taxifahrer, jeder Barkeeper und jeder Grasdealer (Ihr verdient alle ein'n Song), ja Jede Vollzeitmama, jeder Huslter, jeder der für sein'n Erfolg hart ackert (Ihr verdient alle ein'n Song) Jeder, der BWL-Student ist (ein'n Song), jeder, der schuftet selbst und ständig (ein'n Song) Für mein Team und den Rest von Berlin Ihr habt etwas verdient  Song Von Anfang bis Ende, ein ganzes Orchester, ein'n Song Mit Schüssen und Böllern, als wäre Silvester, ein'n Song Eine Ballade, einfach für alle – ein'n Song Und ich hab' ihn geschrieben, denn glaub mir, du hast ihn verdient  Jo, jo (yeah) Ouh, Dicker (Ihr verdient alle ein'n Song) Jo, mein Name ist BRKN Und dieser Song ist für alle meine Leute, Dicker (ein'n Song) Das heißt, alle meine Leute in Berlin Alle meine Leute im Rest der gottverdammten Welt (Ihr verdient alle ein'n Song) Alle Leute, die ihr Ding machen, alle Leute, die ackern Alle Leute, egal, ob du rich bist, oder ob du nur versuchst über die Runden zu kommen (ein'n Song) Alle Leute, die ihr'n Traum jagen (Ihr verdient alle ein'n Song) Alle Leute, die nach Hause kommen, nach einer verfickten zwölf-fünfzehn Stunden Schicht Alle meine Jungs, die dieses Ding mit mir durchziehen An alle meine Fans, ich liebe euch Ihr verdient alle ein'n Song Oh, der Angeberversuch ging bisschen nach hinten los Dicker, wer ist so behindert, ja und geht noch ans Telefon, wenn er aufnimmt? Oh, mach noch auf, oh egal, Leute Ich liebe euch alle – Liebe und Frieden Ihr verdient alle ein'n Song",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9910296499729156,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9408788482348124,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Nichts erreicht",
+            "language": "de",
+            "release_date": "2016-04-08",
+            "artist": "BRKN",
+            "album_name": "Kennste einen, kennste alle",
+            "lyrics": "Wir haben alle nichts erreicht Jagen einen Traum und hoffen, dass es knallt Hoffen, dass das bisschen in der Potte noch reicht Dicker, guck uns an, irgendwann sind wir immer noch pleite Jagen einen Traum und hoffen, dass es knallt Hoffen, dass das bisschen in der Potte noch reicht Dicker, guck uns an, irgendwann sind wir immer noch pleite Ohhh ja Berkan  Wir haben alle nichts erreicht, wir sind die Verlierer uns'rer Zeit Ein Haufen Kinder, deren Kindheit längst vorbei ist Man nennt uns Träumer bestenfalls Machen was wir wollen, passen in eure Welt nicht rein Scheiß auf irgendeine Firma, die mir Geld geben will für meine Lebenszeit Und mir dafür lieber aus der Seele  Wir hänge rum, hören Beats Alle meine Jungs genießen Sonne im Kiez Zwischen allen Schichten, keiner hat die schiefe Bahn gewählt Keiner hat 1er Abi, egal Album aufschreiben Knete auftreiben, jeden Tag Ackern, nix in' Lebenslauf schreiben Und ich schwör', ich hab' nachgedacht: Bisschen Gras verteil'n für Miete Doch wär Verrat an meiner Familie Mein Job macht g'rade leider nur Miese Dafür hab' ich immer schöne Schuhe, frische Frise Egal, ich geh' durch Krisen mit meinen Jungs (meinen Jungs) Verfolg' Ziele mit meinen Jungs (meinen Jungs) Vielleicht sind wir bald tot, vielleicht in irgendeiner Zeitung Wir haben alle nichts erreicht, ich schwöre in euren Augen bleibt's so  Wir haben alle nichts erreicht Jagen einen Traum und hoffen, dass es knallt Hoffen, dass das bisschen in der Potte noch reicht Dicker, guck uns an, irgendwann sind wir immer noch pleite (ja ja ja) Jagen einen Traum und hoffen, dass es knallt Hoffen, dass das bisschen in der Potte noch reicht Dicker, guck uns an, irgendwann sind wir immer noch pleite  Ich wollte mal Rockstar werden, jetzt bin ich Freiberufler Und ja, das heißt so viel, wie dass ich kein' Beruf hab' Aber einen Eintrag bei der Schufa Sie sagen: \"Bleib bei deinen Leisten, Schuster.\" Aber ich bin kein Schuster, ich bin ein Teilzeit-Loser Doch den zweiten Teil der Zeit bin ich der weiße 2Pac Oder der weiße Snoop Dogg Oder der weiße Wu-Tang Oder der weiß ich auch nicht, auf jeden Fall einfach super! Und was das Rockstarding angeht, da bleib' ich weiter zuver- -sichtlich - Fick dich, auch Jesus Christ ist nurmehr Mit über 30 Superstar geworden und er wurd geboren in einem Kuhstall Alles ist reiner Zufall und paradox, wie ein kleiner Lulatsch Ja, dieser Vergleich war super... Aber jetzt mal Spaß beiseite, Bruder Ich bin jetzt 31 Jahre und war davon circa 30 Jahre pleite Von Dispo zu Dispo, so dass es g'rade reichte Doch mittlerweile krieg' ich fette Gage, weißte? Jetzt ist alles schön und so Mein Name steht da in der JUICE und in dem Feuilleton Doch eine meiner Platten heißt \"Die Zeit heilt alle Hypes\" Weißt, wie ich mein'? Irgendwann ist diese scheiße vorbei In zehn Jahren mach' ich wieder einen Drecksjob und check' so Jetzt war dann wohl die \"best time of my life\" Wir haben alle nichts erreicht Jagen einen Traum und hoffen, dass es knallt Hoffen, dass das bisschen in der Potte noch reicht Dicker, guck uns an, irgendwann sind wir immer noch pleite (ja ja ja) Jagen einen Traum und hoffen, dass es knallt Hoffen, dass das bisschen in der Potte noch reicht Dicker, guck uns an, irgendwann sind wir immer noch pleite",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9933121204376221,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9058792420795986,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Jagd",
+            "language": "de",
+            "release_date": "2017-08-18",
+            "artist": "BRKN",
+            "album_name": "Einzimmervilla",
+            "lyrics": "Tag und Nacht bin ich auf der Jagd Verprasse das bisschen, was ich hab' Halte Abstand von Lüge und Verrat Denn riechen sie daran, verlier'n sie den  Tag und Nacht bin ich auf der Jagd Verprasse das bisschen, was ich hab' Halte Abstand von Lüge und Verrat Denn riechen sie daran, verlier'n sie den Verstand  Mein Vater meinte letztens: „Brauchst du Geld, brauchst du nur Bescheid zu sagen“ Ich meinte: „Ey, ich wollt' grad das gleiche sagen“ Das war ein sehr schöner Moment, yeah Und der ging nur um Geld Geld ist steh'n oder fall'n, dein ganzes Leben arbeiten geh'n und dann im Alter keine Knete haben Es hat mein'n ganzen Alltag eingenommen Es verlässt nicht einmal meinen Kopf Es gibt anderes, nicht alles muss sich darum dreh'n Doch andere sind reich, warum sollte ich mich rumquälen? Ich mach' mir Gedanken um fünfzig Tacken, während Leute meine Miete ausgeb'n in ihrem Lieblingscafé Leute sagen: „Dicker, du hast hunderttausend Klicks“ Doch es bedeutet alles nichts, ist nur Gelaber Bis ich meinen Eltern alles gebe, meiner Freundin alles schenke, meinen Jungs alles kläre, bleibe ich ein Versager  Tag und Nacht bin ich auf der Jagd Verprasse das bisschen, was ich hab' Halte Abstand von Lüge und Verrat Denn riechen sie daran, verlier'n sie den Verstand, yeah  Wenn jemand stirbt, lassen wir alles steh'n und liegen Horchen traurigen Melodien Warum nicht in der Lebenzeit? Vergiss nicht, alles geht vorbei Hab' ich am Ende die Familie nie geseh'n? Und hatte keine Zeit für die Liebe meines Lebens? Verschwende ich mein ganzes Leben Damit irgendwann abgesichert zu sein im Leben? Und bringt die Kohle, die du jagst wirklich Sicherheit in dieser Welt Oder bescheißt du dich nur selbst? Ja, ja, ja, ich weiß, es gibt nichts anderes Auch Geld ist irgendwann weg  Tag und Nacht bin ich auf der Jagd Verprasse das bisschen, was ich hab' Halte Abstand von Lüge und Verrat",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9868117272853851,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9396825432777405,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Boombox",
+            "language": "de",
+            "release_date": "2014-10-31",
+            "artist": "BRKN",
+            "album_name": "Yeah Bitch Yeah",
+            "lyrics": "Ich hab' eine Boombox, baby Sie bringt mich direkt in Paradies Sorgt dafür, dass die grauen Wolken sich verzieh'n Die Erde dreht sich zu ihr'm Beat  Ich hab keine Lust aufzusteh'n, ich will 'n Film und paar Smarties Mit meiner Ollen chillen und im Park liegen Mit meinen Freunden auf den wildesten Parties Digga, sie will nichts von dir, sie will nur am Gras zieh'n Ich dreh mir ne Platte und vergess' mich Behalt' die Zukunft im Auge, nein digga jetzt nicht Denn der Shisha Rauch hat meine Sicht beeinträchtigt Montag gibt mir ein Nacken sagt \"Steig aus'm Bett - Bitch!\" Denn Ich muss los zur Arbeit Denn Ich muss Miete zahlen Denn Ich muss los in die Uni Mir Gelaber über Sachen geben die Ich nicht mag Man bald hat das alles ein Ende Doch ich muss Knete verdienen Ich will nur ins Studio gehen, chillen als wär ich auf Ritalin Sie rennen mir hinterher und ich glaub Wenn sie mich erwischen fressen sie mich auf Ich nehm' meine Boombox und mach laut, mach laut  Ich hab' eine Boombox, baby Sie bringt mich direkt in Paradies Sorgt dafür, dass die grauen Wolken sich verzieh'n Die Erde dreht sich zu ihr'm Beat Ich hab' keine Lust auf Was ich seh', wenn ich mich umschau' Du auch? Baby, da kommt nur Frust auf Ich nehm' meine Boom-Boombox-box mit und pump laut  Und Ich chill in der Kalifornischen Sonne 30 Grad im November Keine Airline die mich fliegt Ich bin Passagier auf dem Beat  Berkan, immer wenn ich verkackt hab und nichts mehr so klappt wie ich will Ich auf die Schnauze falle Immer wenn Ich meine neue Karre auf den Asphalt fahr' Und in ein Auto knalle Wenn ich mit dem Rücken zur Wand bin zerdrückt und gefangen Wie in ner Mausefalle, fick das Mach'n übermiesen Beat an und pump das Digga das wirkt Wunder Denn die Welt gehört uns Wem? Uns! Digga, Wayne wer kommt, keine Chance gegen uns Vergiss mal Vorlesung, ich bau 'n Beat bis es pumpt Ich hatt'n scheiß Tag aber jetzt gehts rund Digga mies verbaut haben Scheiß drauf sagen Geht's bergab, steig Ich in den Einkaufswagen Digga scheiß auf alles, ich will unsterblich sein Das sie in Eintausend Jahren noch meinen Namen laut sagen BERKAAAAAN! Ich hab' eine Boombox, baby Sie bringt mich direkt in Paradies Sorgt dafür, dass die grauen Wolken sich verzieh'n Die Erde dreht sich zu ihr'm Beat Ich hab' keine Lust auf Was ich seh', wenn ich mich umschau' Du auch? Baby, da kommt nur Frust auf Ich nehm' meine Boom-Boombox-box mit und pump laut  Immer wenn es nicht so gut läuft Es mir dreckig geht Alles um mich rum brodelt und die Erde bebt Immer wenn ich fertig rumlieg' und abgefuckt bin Mach den scheiß laut, vergiss' den Schwachsinn  Und ich fühle mich wie ein König Ist das Fantasie oder wirklich? Sie sagen \"Berkan nimm mich mit\" Und es ist so einfach mein Digga Das Glück ist dir sicher ist die Boombox am Stizzart",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9938226838906606,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9813361863295237,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Karussel",
+            "language": "de",
+            "release_date": "2016-05-20",
+            "artist": "BRKN",
+            "album_name": "Kauft Meine Liebe",
+            "lyrics": "Willkommen im Karussel Alles dreht sich Alles bunt und voller Farben Es macht Spaß und bewegt sich Alles Helden und Prinzessinnen hier Ja  Willkommen im Karussel Alles dreht sich Alles bunt und voller Farben Ein berauschendes Erlebnis Komm mit mir ne Runde um' hellen Kreis fahr'n Hier sind die Menschen schöner Und die Pferde weißer Hier lachen wir Die Welt da draußen bereitet Schmerz Ein Trip und deine Sorgen scheinen weit entfernt Vergiss mal die Geisterbahn Du hattest nie so viel Spaß in ei'm Streifenwagen Denn, hier sind alle glücklich und verliebt Hier hat jeder ein Stückchen mehr verdient Deine Nerven sind blank Doch zu dei'm Glück hab ich die besten Preise der Stadt, also  Willkommen im Karussel Alles dreht sich Alles bunt und voller Farben Es macht Spaß und bewegt sich Alles Helden und Prinzessinnen hier Doch sobald es stehen bleibt, ist alles wieder vorbei Im Karussel (Alles dreht sich) x3  Alles dreht sich Realität zieht vorbei an mir Wenn's nicht voran geht Na dann eben im Kreis fahr'n, yeah Ein rosa-rotes Pony trägt mich auf dem Rücken Ich brauch jeden Tag paar Runden um nicht auszuflippen Hey, hier kann ich endlich wieder Kind sein Für das Böse auf der Welt wieder blind sein Denn es verschwinden auch die kleinen Probleme Und es geht schneller, je mehr Runden ich drehe Und ich guck alle Leute grinsend an Wenn sie auch mal dreh'n würden Dann wär'n sie bestimmt entspannt Doch Freunde sagen mir, ich hab mich in der Hand Denn nach paar Stunden ohne fängt das Zittern an Nein Eh Übertreib Wie kann etwas so Schönes denn verkehrt sein? Selbst wenn meine Mutter gerade in der Ferne weint Auch sie verschwindet Denn ich schmeiß noch ein Plastikchip mehr rein, ja Du hast jemanden verloren? Komm mit mir Du hast Angst vor Mord? Komm mit mir Du ertrinkst in Sorgen? Komm mit mir Es geht alles wieder weg, garantiert  Willkommen im Karussel Alles dreht sich Alles bunt und voller Farben Es macht Spaß und bewegt sich Alles Helden und Prinzessinnen hier Doch sobald es stehen bleibt, ist alles wieder vorbei Im Karussel  Wow (Alles dreht sich) Ja (Alles dreht sich) Ja, ja, ja, ja Ja, ja, ja",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9942874789237977,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.93836749792099,
+                    "label": "neutral"
+                }
+            }
+        },
+        {
+            "title": "Auf der Stelle",
+            "language": "de",
+            "release_date": "2017-08-18",
+            "artist": "BRKN",
+            "album_name": "Einzimmervilla",
+            "lyrics": "Ich trete auf der Stelle Ich trete auf der Stelle Ich trete auf der Stelle Ich trete auf der Stelle  Ich will hier raus Doch schaff' nicht mal den Schritt über die Schwelle Ich trete auf der Stelle Ich trete auf der Stelle Ich trete, ich trete  Ich will überall sein, verpass' deswegen alles Will alles halten, genau deswegen fall' ich Balance ist leicht gesagt Mein Tunnelblick macht, dass ich zur Seite fall' Und es war alles gut gemeint Will Ordnung schaffen, da bricht die Decke ein So vieles konnte ich nicht retten, nein Vergib mir die gebrochenen Versprechen Viel zu weit, zu weit Um umzudreh'n Ich muss mit der Vergangangenheit leb'n Mach' ich was draus, oder geb' ich auf? Geb' ich auf, leidet die Familie auch Will ich eine Sache besser machen Zerstör ich damit tausend andre Sachen  Auf der Stelle Ich trete auf der Stelle, ja Ich trete, ja, auf der Stelle, ja Auf der Stelle, auf der Stelle, auf der Stelle ",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9957877397537231,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9552428126335144,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Neu",
+            "language": "de",
+            "release_date": "2016-05-20",
+            "artist": "BRKN",
+            "album_name": "Kauft Meine Liebe",
+            "lyrics": "Jaja, das ist ganz cool, aber ich will das Neu, grade nichts zu tun, also hol ich was Neu, ja meins funktioniert noch, doch ich will das Neu, hör auf zu diskutiern' Digga, ich hol einfach Neu, Mann, ich weiß nicht warum, aber ich hol das Neu, Digga, scheiß auf den Grund, lass einfach hol'n Neu, ist mir egaa-aa-aa-aal Neu, ja!  Bevor ich dich habe Kriegst du so viel Beachtung Denn du wirst nie wieder so schön Wie auf der Verpackung! Ich begehre und will dich Ob teuer oder billig Ja es gibt hunderte wie dich Doch ich hör nicht auf Bis mein Hunger gestillt ist Und ich denke nur drüber nach Es kribbelt in meim' Gehirn Denn nichts ist so schön Wie neues Geld ausgeben und Dann irgendwann zu hörn: Hallo, Paket für Sie!  Jaja, das ist ganz cool, aber ich will das Neu, grade nichts zu tun, also hol ich was Neu, ja meins funktioniert noch, doch ich will das Neu, hör auf zu diskutiern' Digga, ich hol einfach Neu, Mann, ich weiß nicht warum, aber ich hol das Neu, Digga, scheiß auf den Grund, lass einfach hol'n Neu, ist mir egaa-aa-aa-aal Neu  Uuh, Baby, du bist so fresh Die Zeit mit dir, ist besser als Sex Doch irgendwann kriegst du dein' ersten Kratzer Und landest später in der Kiste mit dem Rest Ich hab tausend Pullover Aber will mir noch einen holn' man Und komm ich gerade aus dem Laden mit Tüte Stehen schon für die nächste Kollektion an Denn die Sachen vom letzten Jahr Sind seit 11 Monaten zu alt Nur noch etwas neues macht mich heiß Was ich berührt hab, lässt mich kalt Und selbst mit dem süßen Lächeln War am geilsten bevor du sie geknallt hast Früher hab ich mich interessiert Heute redest du Ich schalt' ab! Ja, meins ist ganz cool, aber das hier ist Neu, grade nichts zu tun, also hol ich was Neu, ja meins funktioniert noch, doch ich will das Neu, hör auf zu diskutieren, Digga ich hol einfach Neu, Mann, ich weiß nicht warum, aber ich hol das Neu, Digga, scheiß auf den Grund, man ich hols einfach Neu, sag \"Ist mir egaa-aa-aa-aal\"  Dein Laptop hat kurz gehangn' Hol neu! Deine Freundin meckert dich an Hol neu! Dieser Bezirk ist so dreckig verdammt Mach alles neu! Ich will irgendwas neu holen! Du weißt wie gut sich das anfühlt Einfach phänomenal! Ich bin besessen! Digga Was für Moral? Ich schreib den Song auf meinem neuen Laptop Mit mein neuen Boxen Und meinem neuen Keyboard Frisch bezahlt Digga! Neu Neu, vergiss die alte Hook, ich mach sie einfach Neu, wer will schon eine alte Hook, die hier ist Neu, denn alles, alles ist besser Neu, viel, viel, viel besser! Vergiss diesen Typ, Baby, denn ich bin neu! Dieser Song ist kein Hit, mach mal lieber ein' neuen! Du bist iPhone 5, ich bin iPhone 9 Du bist Lagerfeuer Ich bin 50-tausend-Volt-Taser-Raketen-Sicherheits-Abwehr-System-Atomkraftwerk Dicka Häh? Wieso machst 'n denn Beat aus? Der Beat geht da aus! Ich weiß, ich weiß doch! ",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9937366346518198,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9723528226216634,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Anfang (J’s Intro)",
+            "language": "de",
+            "release_date": "2021-04-23",
+            "artist": "BRKN",
+            "album_name": "Drama",
+            "lyrics": "Ja!  Und jedem Anfang wohnt ein Zauber inne Der uns beschützt und der uns hilft zu leben Ja, Mann, hör zu",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9870971441268921,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9855465888977051,
+                    "label": "neutral"
+                }
+            }
+        },
+        {
+            "title": "Sad in Mérida",
+            "language": "de",
+            "release_date": "2023-01-26",
+            "artist": "BRKN",
+            "album_name": "Rahat (EP)",
+            "lyrics": "Babe, tell me why are we partin'? Head in the sky but I'm fallin' Mm, this is just how it is Beg you pardon Babe, tell me why are we partin'? Head in the sky but I'm fallin' Mm, this is just how it is Beg you pardon  Yeah  Ah, keine Pillen, keine Percocets Ich bin unterwegs, Baby schickt Thirst-Traps Berkan, hast du nix Besseres zu tun? Nah Flick' die Seele, mache Geld, zeig' der Crew Love Geb' mein Herz, geb' mein Blut bis zum letzten Tropfen Parts brechen Herzen, Beats brechen Knochen Kein'n Schritt bereut, keine Rechnung offen Drip, Melodien tropfen aus den Engelslocken Der Mann im Spiegel sagt jeden Tag: „Du bist es“ Kopf gefickt und E-Mails voller Flugtickets Old friends, no limits, new digits Leben Leben, sehen gut aus, Baby, scheißegal, wie du's findest Nehm' die Probleme mit in den Flieger Stadt leuchtet grün, blau und lila, sad in Mérida Doch hält mich das auf? Baby, niemals Ich schwör', die Palmenblätter hier fühl'n sich nicht real an Ah, ich mach's mit Herz oder gar nicht Baby, ich verdien' mehr, nein, ich spar' nicht Zu viele Stimm'n, die was woll'n, werde panisch Erinner' mich kurz, wer ich bin, du bist schön, Baby, sag es (Ah) Schmerz geht über Generation'n und Kontinente Alpträume, meine Eltern hätten umsonst gekämpft hier Doch irgendwie hat's funktioniert Denn wir lassen alle nach dem Essen ein paar Fuffis hier, yeah Schmuck, Nails, Fit, alles on fleek Kein Camo, denn ich ficke nicht mit Krieg Berkani, du brichst mein Herz, ah  Babe, tell me why are we partin'? Head in the sky but I'm fallin' Mm, this is just how it is Beg you pardon (Jake, go 'head and bounce, homie)",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9951173365116119,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9165903031826019,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "California 61",
+            "language": "de",
+            "release_date": "2016-05-20",
+            "artist": "BRKN",
+            "album_name": "Kauft Meine Liebe",
+            "lyrics": "Ich will meinen Job schmeißen, Dicker Draußen ist es kalt, ich bin pleite Wie kommt man raus aus dieser Scheiße? Im Internet nur lachende Reiche Das Gras ist grüner auf der anderen Seite, Dicker Und diese Stadt frisst mich auf, yeah  Ja Wir rennen unserer Stadt alle Straßen nach Ich hab immer zutun den ganzen Tag Jeder hat Probleme, wir sind immer wach Wie soll man auch schlafen bei dem ganzen Krach Abfuck Immer wenn ich denke, ich hab krass Plan Bin ich übernächsten Zug schachmatt (Was) Scheißegal, Dicker Ich kleb' an dieser Stadt, wie ein Parasit Wir alle wollen weg, aber schaffen's nie Ich hab so viel zutun und zu machen hier Ich brauch bisschen Musik, bisschen Fantasie  Vergiss all die Sorgen Komm, wir knall'n die Korken Denn immer, wenn es bergab geht Mach ich aus Kreuzberg California California Dann mach ich aus Kreuzberg California Sag, California  Tagträume von Palmenstränden (Wow) Bis ich rausgerissen werd' von meiner Chefin (Au) Oder von der nächsten Mahnung Schaff ich's über'n Monat, Dicker? Man, keine Ahnung Man, die meisten hier ziehen eine Fresse Doch aus dem Sumpf zieh ich mir das Beste Ist es dreckig, Dicker, kommt drauf an Ich mach den Beton zu Sand und mein Balkon zum Strand Denn diese Stadt macht aus deinem Freund einen Feind Gestern Gruppenselfie, aber heute allein Ist egal Gib mir nur 'ne Pause und 'nen Beat Und sie bringt mich direkt ins Paradies Sag, ist bei dir eher gerade alles grau Ist dein Kopf leer und die Kasse auch Läuft dein Lied, Dicker, mach es laut Genieß die Sonnenstrahlen in deinem Plattenbau  Vergiss all die Sorgen Komm, wir knall'n die Korken Denn immer, wenn es bergab geht Mach ich aus Kreuzberg California Ey, California Sag, California Uh, California Ja Sag, jede Wunde, die noch brennt Jede Narbe, die bleibt Jede Angst, jeder Mensch, der ergeht Alles, was dein Fundament  Ich sag nicht, ich kenn' die Lösung Doch ich weiß, was immer geholfen hat Sie bringt mich ins Paradies Und mit ihr hau'n die Wolken ab Sonnenstrahlen dringen durch die Palmenblätter Bei dem allerletzten Kack-Wetter Im Kopf bei jeder Regenwolke Die mir auf den Meter folgte Denk ich, Leben ist cooler, wenn die Sonne drauf scheint Musik an und lass dich drauf ein Bei jedem Schmerz, jedem Stich ins Herz Cali ist nur einen Schritt entfernt",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9949975967407226,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9553095579147339,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Pleite aber geil",
+            "language": "de",
+            "release_date": "2016-05-20",
+            "artist": "BRKN",
+            "album_name": "Kauft Meine Liebe",
+            "lyrics": "Sie können sagen, was sie wollen! Ihr wollt uns in Ketten Wir kaufen uns welche aus Gold  Und sie sagen Sklaverei ist Besser wenn sie denken, dass sie frei sind Mich kettet hier niemand an den Schreibtisch Lieber bleib ich immer pleite, ist egal Mann! Ich will raus gehn' Durchdrehn' Zuhaus chilln' Eier baumeln Vergiss mal eure Regeln oder Klauseln Digga ich mach was ich will, bis ich grau bin Und dann tot bin Und ist es so weit Feiert mein Leben, statt über den Tod weinen Doch erst mal hoff' ich, dass der Lohn reicht Sie sagen: ''Arbeite doch Vollzeit''  Digga es ist zuuu spääät yeeah Ist egal Digga ich hab  Kein Geld, aber ein Plan Aber ich Beiße mich da rein ja Bis dahin Bleibe ich noch weiter Pleite aber geil, ja! Ich sag ich Beiße mich da rein Und irgendwann Schmeiße ich mit Schein' Bis dahin Bleibe ich noch weiter Pleite aber Geil, ja!  Pleite aber geil Kein Geld aber Style Kohle ist egal Digga du weißt Wir sind schon immer anders gewesen als die meisten! Und wenn sie sagen ''Du taugst nichts'' und lachen Nehm' ich Nichts in die Hand und mache aus Nichts ein' Batzen Und bestell' eine Flashe Whoops ich hab gar kein Geld in der Tasche Doch selbst, wenn ich arm sterbe Sei dir sicher, dass ich meinen Abdruck auf der Welt hinterlasse Und scheiß auf deine Kohle Notfalls regel ich Probleme mit 'nem Griff in die Kasse Lieber ein armer Künstler Als ein reicher Roboter! Und was ich mache kann nicht jeder Berkan Mach mir ein schönen Abend mit dem Fünfer Man das Leben als Sklave macht mir Angst Deswegen bin ich aus der Schule 'rausgerannt Und das Leben der meisten kommt mir wie ein Job vor Mein Vater sagt ''Mach deinen Doktor'' Kein Geld, aber ein Plan Aber ich Beiße mich da rein ja Bis dahin Bleibe ich noch weiter Pleite aber geil, ja! Ich sag ich Beiße mich da rein Und irgendwann Schmeiße ich mit Schein' Bis dahin Bleibe ich noch weiter Pleite aber Geil, ja!",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9938164204359055,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9484829306602478,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Song über irgendwas",
+            "language": "de",
+            "release_date": "2016-05-20",
+            "artist": "BRKN",
+            "album_name": "Kauft Meine Liebe",
+            "lyrics": "Uh Leben ist kurz, also kost' es aus Uh Und die Nacht auch, also komm mit raus Uh Alles Unwichtige aus deinem Hirn Dicker, Leben ist schön  Und alles, was wir wollen, ist Playse zocken mit der Gang Essen gehen in einem Restaurant Party machen oder abhängen, ja Leute legen Steine in den Weg, aber ist normal Ich glaube, die sind geistig verwirrt, also ist egal Ich hab Wichtiges im Kopf, Dicker ich hab andere Ziele Zum Beispiel wie ich meiner Freundin 'ne verdammte Weltreise spendiere So, Frühstück in Berlin Spazieren irgendwo in O.C Und ein Mittagessen in Paris Oder ein kurzer Abstecher nach Tokyo Doch am Ende landen wir in meinem Kiez, denn  Uh Leben ist kurz, also kost' es aus Uh Und die Nacht auch, also komm mit raus Uh Alles Unwichtige aus deinem Hirn Dicker, Leben ist schön, sag  Und es geht Playse zocken mit der Gang Essen gehen in einem Restaurant Party machen oder abhängen, sag Ja, ich spring auf irgendeiner Party rum und bin voll im Rausch In drei Stunden klingelt mein Wecker und dann muss ich raus Ich hoffe, dass, wenn ich irgendwann mal Patte habe Ich mich immer daran erinner', wie sehr ich meinen gottverfickten Nebenjob hasse gerade Denn es geht Frühstück auf dem Weg Zum Spazieren ist hier keine Zeit Sonst komm ich zu spät ins Büro Ist alles nicht so geil Doch ich geb' alles, dass es nicht so bleibt Denn vielleicht bin ich morgen schon tot",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.994593620300293,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.8934610684712728,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Yum Yum",
+            "language": "de",
+            "release_date": "2014-10-31",
+            "artist": "BRKN",
+            "album_name": "Yeah Bitch Yeah",
+            "lyrics": "Ich kipp kochendes Wasser in die Yum Yum Nudeln rein, sag Währenddessen sind alle draußen auf Kokain und High, sag  Denn alles ist so weiß, alles ist so grün Es scheint Farben machen diese Welt wieder schön Denn alle sind so blau und wird's mal wieder grau Füllen wir die Farben einfach auf  Sonntag, dicker kaum Schlaf Durch meine Wohnung dröhnt ein After-Hour-Bar Scheiß Nachbarn! Ich schwöre die sind alle auf MDMA Dicker komm klar Schlaftrunkener Berkan taumelt durch den Gang Ich wette alle die sagen dass sie Frühaufsteher wären Ziehen morgens einfach heimlich 'ne Bahn Kein Frühstück an's Bett, kein \"Wie geht's?\" Ich bau den ersten Beat noch während sie schläft Ja, sie hat so gestrahlt gestern Nacht Doch, jetzt sind ihre Farben verblasst Sie sagt es ist zwar noch weiß, doch 'ne Nase Koks Macht die Welt wieder farbenfroh  In weiß, alles ist so grün Es scheint Farben machen diese Welt wieder schön Denn alle sind so blau und wird's mal wieder grau Füllen wir die Farben einfach auf Sag alles ist so weiß, alles ist so grün Es scheint Farben machen diese Welt wieder schön Denn alle sind so blau und wird's mal wieder grau Füllen wir die Farben einfach auf  Man sagt ein echter Künstler hat das grün auf'm Blatt Zerdrückt das braun in der Hand Und hat er genug Farben zusamm' Malt er den Teufel wunderschön an die Wand Sie rasten aus auf diesen blauen Pillen Guck mal wie gut sie drauf sind Sie rennen rum und sie freuen sich Ich seh's in ihren Augen Und sie erzählen von den Farben und sagen \"Dicker, das musst du sehen!\" Sie nehmen Schwung mit der Liane und springen in den kunterbunten See Sie malen wo sie können, machen Kunst auf dem WC Und ich steh nur daneben, trink ein' Tee und nehme Gift Dicker, egal was, alles is' bunt heißt  Alles ist so weiß, alles ist so grün Es scheint Farben machen diese Welt wieder schön Denn alle sind so blau und wird's mal wieder grau Füllen wir die Farben einfach auf Sag alles ist so weiß, alles ist so grün Es scheint Farben machen diese Welt wieder schön Denn alle sind so blau und wird's mal wieder grau Füllen wir die Farben einfach auf  W-w-weiß - Gr-gr-grün - Bl-bl-bl-blau Und und und W-w-w-w-weiß - Gr-gr-gr-gr-grün - Bl-bl-bl-bl-blau Und und und und",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9951184511184692,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.8341679811477661,
+                    "label": "neutral"
+                }
+            }
+        },
+        {
+            "title": "Zeit (Interlude)",
+            "language": "de",
+            "release_date": "2021-04-23",
+            "artist": "BRKN",
+            "album_name": "Drama",
+            "lyrics": "(Yeah)  Des is' mein zuhause Ich lieb' die Ketten und das Geld und die Fans, doch ich mach' das, weil ich's brauche Alle wollen reden, Frauen wollen geben Des is' alles nebensächlich, juckt mich echt nicht Gibt kein Exit aus mei'm Kopf, jede Note ist 'ne Träne, also frag nicht, ob es echt ist Die Sonne verschwindet jeden Tag, keiner hier bleibt normal Jag' die Kohle, geb' mein Bestes, sage danke, und dann mach es nochmal, yeah  Hol mich, wenn du denkst dass du's schaffst, ah Alle wissen dass ich's hab', yeah Frag nicht, denn die Zeit läuft ab Zöger nicht, denn die Zeit läuft ab",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9954658150672913,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9506403505802155,
+                    "label": "positive"
+                }
+            }
+        },
+        {
+            "title": "Warmup 2 (Interlude)",
+            "language": "de",
+            "release_date": "2016-05-20",
+            "artist": "BRKN",
+            "album_name": "Kauft Meine Liebe",
+            "lyrics": "Yeah, yeah, yeah Alles wird gut Alles wird gut, Digga Selbst wenn draußen die Welt zusammenbricht Werden wir sie schon auf Vordermann bring'n Und mach dir keine Sorgen, Kleines Ich hab alles vorbereitet Die Zukunft sieht gar nicht mal so schlecht aus Denn irgendwann geht alles bergauf Man, ich will gar nicht den Philosophen markier'n oder so Doch ich glaub, gerade an Tagen, die schlecht sind Darf man nicht vergessen zu Lächeln Also, lehn dich zurück Und nimm von allem kurz Abstand, ein Stück Egal was dich auch gerad' immer bedrückt Alles wird gut Alles wird gut Ja, mach dir kein' Kopf Wir alle brauchen mal Zeit, also stopp Lieg auf der Couch eine Weile nur noch Augen geschlossen und sag Alles wird gut Alles wird gut Alles wird gut Und jetzt Yippieh",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9900259077548981,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.8019442856311798,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Rahat Intro",
+            "language": "de",
+            "release_date": "2023-03-10",
+            "artist": "BRKN",
+            "album_name": "Rahat (EP)",
+            "lyrics": "Warte nicht, ich mache Moves Das war twenty-twenty-two Redet viel, doch schlägt nicht zu Junge, kill nicht meine—  Es ist viel passiert Und ich schlag' mich gut Ich schlag' mich echt gut Und das ist auch okay Aber ich will mich gar nicht mehr schlagen Ich will mich nicht mehr durchschlagen müssen Tag für Tag Ich will endlich Ruhe, Frieden Sanft und sicher Aber vielleicht ist das einfach nichts für uns Bu rahatsızlık bizi gebertecek ya",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.996609091758728,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9617528915405273,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Warm Up",
+            "language": "de",
+            "release_date": "2014-10-31",
+            "artist": "BRKN",
+            "album_name": "Yeah Bitch Yeah",
+            "lyrics": "Vielleicht mach ich die ganze Zeit Unsinn Und treffe nur behinderte Entscheidungen Vielleicht merk ich nicht, dass ich unter Zeitdruck bin Immer noch auf dem Level von 'nem kleinen Jungen Kann sein, dass ich nicht in irgendjemandes Konzept reinpass Doch ich hab kein Bock auf eure Verkleidungen Aber der Beat kommt Bombe rein Alles andre geht am Arsch vorbei Dicker das ist meine Superkraft Ich fühl mich wie der Shit, hat alles Zeit Dicker scheiß drauf was sie vor haben Ich muss was reißen, dicker deshalb voran Ich mach mein Shit, dicker lass sie labern Lass sie labern, ey yeeeeaaaaah",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9960144460201263,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9690397083759308,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Krieg (Interlude)",
+            "language": "de",
+            "release_date": "2016-05-20",
+            "artist": "BRKN",
+            "album_name": "Kauft Meine Liebe",
+            "lyrics": "Wenn jemand meinen Bruder tötet, bring ich ihn um Wenn ich den Mörder meines Bruders töte, bringt sein Bruder mich um Wenn sein Bruder mich dann umbringt, dann bringt mein Cousin ihn um Und wenn mein Cousin ihn dann umbringt, bring ihn der andere Bruder um Oder wer weiß, vielleicht bringt auch mein bester Freund ihn um Und aus Rache bringt jemand meinen besten Freund dann um Dann bringt der Vater meines besten Freundes den Typen vielleicht um Oder hat er genug und sagt, Blut ist für Blut kein Grund Denn wenn jemand meinen Bruder tötet, vergießt meine Mutter Tränen Wenn ich den Mörder meines Bruders töte, vergießt seine Mutter Tränen Und vielleicht hat er Kinder und die vergießen Tränen Ich hoffe, unsere Kleinen müssen sowas niemals sehen Aber wenn jemand meinen Bruder tötet, will ich, dass er stirbt Und weiß, dass meine Sehnsucht nach Rache größer wird Und verschwinden wird diese Verwirrung nicht von selbst Vielleicht braucht jeder Krieg einen dritten, der die Hinterbliebenen hält Ich versteh jeden, der Rache will Ich würde Rache wollen Aber ich glaube, man kann Blut nicht mit Blut wegwischen Blut bleibt immer und wird höchstens mehr Oder viel viel mehr Der Krieg beginnt ",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9954589207967123,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9394646485646566,
+                    "label": "neutral"
+                }
+            }
+        },
+        {
+            "title": "Introlude",
+            "language": "de",
+            "release_date": "2014-10-31",
+            "artist": "BRKN",
+            "album_name": "Yeah Bitch Yeah",
+            "lyrics": "Ja, sie sagt ich kann nichts Irgendjemand sagt ich schaff nichts Und vielleicht stimmt es auf mein Leben bezogen Doch ich schwöre Wenn ich im Studio bin Bin ich Topking Denn ich bin am Start Digga Aufm Weg zum Ziel als Gewinner Und ich schaff' es mach ich weiß es ganz sicher Und wenn irgendjemand was anderes sagt, kann er mich ma' Geb' alles was ich hab, ob Tag oder Nacht Davor wie danach Egal ob irgendjemand was anderes sagt Alles was ich mach' is' phänomenal Auf dem Weg zum Ziel Mit dem was ich lieb' Und wenn ich sagen ich tanz' aus der Reihe Dann stimmt's, denn ich tanz' zu mei'm eigenen Beat Ich will nich' mehr warten und warten Digga ich will Taten statt Sagen Ich hab' mich von allem befreit, was mich hindert Du musst sagen das Gefühl is' übertriebener Wahnsinn Ich hab' lang gebraucht Alle Zeit dieser Welt Aber jetzt bin ich im Reinen mir mir selbst Fliegen auf dem Beat Tanzen auf dem Globus Und das alles fing an am PC meiner Wohnung Was los? Sag ohhh yeahh Das is Berkan Yehaw",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9948194026947021,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.98057422041893,
+                    "label": "positive"
+                }
+            }
+        },
+        {
+            "title": "Genieß (Interlude)",
+            "language": "de",
+            "release_date": "2016-05-20",
+            "artist": "BRKN",
+            "album_name": "Kauft Meine Liebe",
+            "lyrics": "Digga, genieß Gutes Essen und Beats Genieß Der Moment verfliegt Genieß Bist du mit denen, die du liebst Digga, genieß Ja, ja Digga, genieß Ja, ja Ja Wir jagen alle unser'n Träumen hinterher Ich gebe alles bis zum Ziel Wir sind immer nur auf Achse Meine Freunde seh ich nie Wir kommen selten zur Ruhe Glück und Geld Merken nicht wie die Zeit verstreicht Ich sollte meine Eltern besuchen Ich sollte meinen Bruder anrufen Ich sollte meine Freundin abhol'n Ich sollte mit den Jungs was essen Oder einfach irgendwo treffen Berlin oder das andere Ende der Welt Ist egal, Digga Hauptsache du vergisst nicht Denn alles verfällt schnell Das Leben macht Spaß oder ein' Strich durch die Rechnung Also, wenn du dich erwischst In ein'm Moment, den man schätzen sollte Denk an diese Worte Denn eh du dich versiehst, wechselt das Szenario Also, genieß Digga, genieß Digga",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9935440421104431,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.7275649905204773,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Laylow Freestyle",
+            "language": "de",
+            "release_date": "2023-03-10",
+            "artist": "BRKN",
+            "album_name": "Rahat (EP)",
+            "lyrics": "(Samoss) Mh-mh Ey, ey  Ich bin ein Star, fühl mich wie Brent Früher gespart, heut krieg' ich's geschenkt Fick', was du sagst, ich bin kein Trend, nein (Nein, nein) Hab' euch im Clinch Hoodie mit Trench, ihr Booty ist fat Ihre Nägel sind french und ich lieb', wie sie denkt, ah (Ah-ah) Weiß nicht, was du denkst (Nah, fick', was ihr denkt) Bang, bang, ihr habt lowkey Angst, ah Hate, weil du nicht kannst Sieh uns zu, aber aus Distanz, ah Du hast kein Gefühl für diesen Tanz, ah, ah Wir sind bereit Egal wie, ich hole mir meins Ich kеnne dein'n Schmerz nicht, abеr ich teil Bist du queer oder black, sind wir auf deiner Side Wir geh'n rein auf dieser Side (One life) Berlin, Hamburg oder Zeil, ah Alle meine Leute haben Herz, ja Alle meine Leute haben Style Leg' 'ne Mille aufn Tisch, wenn du willst, dass wir sign'n, ah (Nur Cash) Ansonsten hol'n wir sie allein (Allein) Ob du wirklich echt bist, zeigt, ja (Yeah, yeah) Nur das Herz und die Zeit Schwarzer Anzug und sie findet mich heiß (Jaa) Doch ich fühle mich so kalt wie Eis (Jaa) Denn ich hatte mehr Lows als Highs Hatte weniger Love als Leid Schütte mein Herz und Blut hier rein Aber lass' es ausseh'n, als wärs leicht, ey (Ja-ja-ja-ja) Glaub mir, es war nicht leicht Glaub mir, es war nicht—  Glaub mir, ich leb' für immer Sterb' nicht, leb' für immer Bin in Kreuzberg für immer Kreuzberg für immer Und teil' mit der Fam für immer Feuer hier brennt für immer Fick' den Rest für immer Dis' Gang für immer Oh-oh-oh",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9936405817667643,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9015796581904093,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Intro",
+            "language": "de",
+            "release_date": "2016-05-20",
+            "artist": "BRKN",
+            "album_name": "Kauft Meine Liebe",
+            "lyrics": "Ouh Auh Was geht ab, Digga Was geht ab Was geht ab, Digga Was geht ab Mach es laut, Digga Mach es laut Mach es laut, Digga Was geht ab  Hallo? Schwör, Digga Digga, was machen wir heute?",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9985284805297852,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.978700578212738,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Never Love You Again",
+            "language": "de",
+            "release_date": "2023-03-10",
+            "artist": "BRKN",
+            "album_name": "Rahat (EP)",
+            "lyrics": "Never love you again I'll never love you again I'll never love you again (JUMPA, make it jump!) Frag nicht, wo ich bin  Ey, wenn du die Antwort nicht willst Frag nicht nach mir oder ob du mir fehlst ​​iPhone explodiert, Baby, bitte bleib weg Wenn wir uns noch einmal seh'n, tut es doppelt so weh Bin immer noch derselbe Habib, den du kennst Heißt, ich lüg' dich nicht an, auch nicht jetzt, wenn es brennt Viel unterwegs, Longdrinks auf Events Und mein Mund und mein Hals und mein Handgelenk glänzt Sie weiß, er weiß, ich weiß, du weißt Wir sind vorbei, vorbei, vorbei, vorbei Sag, du warst so street, du warst so heiß Jetzt so kalt, so kalt, so kalt wie Eis Jetzt steh'n wir wieder am Anfang Aber diesma' ohne einander Oh Gott, hilf mir, ich hab' ein Problem Ich verlieb' mich schnell, doch vergesse langsam  (Never love you again) Yeah, ich ruf' nicht an (I'll never love you again) Geh du nicht ran (I'll never love you again) Nicht noch einmal (Yeah-yeah, yeah-yeah, oh)  Never love you again (Yeah-yeah, oh) I'll never love you again (Yeah-yeah, oh) I'll never love you again (Ooh, ooh-ooh)  Uhh, wir wollten so weit geh'n zu zweit (Zweit) Doch nichts ist für die Ewigkeit (-keit) Ich mache mein Ding, du weißt (Du weißt) Wu wei-ei-ei— I'll never love you again, my love Augen so braun, doch Skin so soft Vergess' dich, denn ich bin im Rausch Doch warum riecht's hier nach dei'm Parfüm? Nie wieder spür' ich deine Haut Nie wieder weinst du wegen mir Nie mehr dein Name auf mein' Screen Denn ich hab' dich schon längst blockiert  (Never love you again) Yeah, ruf mich bloß nicht an (I'll never love you again) Ey, schreib mich bloß nicht an (I'll never love you again) Hey-hey, halt' dich auf Distanz, ah Never love you again (Yeah-yeah, oh) I'll never love you again (Yeah-yeah, oh) I'll never love you again (Ooh, ooh-ooh) Never love you again (Yeah-yeah, oh) I'll never love you again (Yeah-yeah, oh) I'll never love you again (Ooh, ooh-ooh)",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9953826069831848,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9347409754991531,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Kein Plan",
+            "language": "de",
+            "release_date": "2014-10-31",
+            "artist": "BRKN",
+            "album_name": "Yeah Bitch Yeah",
+            "lyrics": "Ein' wunderschön' (ein' wunderschön') Was los und was geht ab? (was geht ab?) Dicker, du weißt (du weißt) Immer das gleiche wie jeden Tag (jeden Tag) Große Action is' nich' (Ah-ah) Ich bin Pleite und so, ja (pleite) Geh ich raus jetzt oder (oder) Dicker, ich bleib auf'm Sofa (Hah) Schule, Uni is' alles aus und vorbei (aus und vorbei) Bin immer noch ein Kind, doch sollte erwachsen sein (erwachsen sein) Verantwortung und Stress, nein Dicker, lass' mal sein (lass' mal sein) Türsteher lass' mal rein (lass' mal rein) Yeay-Yeay-y-y, (Hey)  Dicker, wo geht's lang? Ich hab kein' Plan wo wir sin', aber macht doch Spaß (Hey) Dicker bei mir läuft, hab kein Cent, aber mach die Nacht zum Tag (Hey) Sie sagen is' gut, mach dein Ding und ich tu als hätt' ich n' miesen Plan (Hey) Aber lauf mir nich' hinterher - ich hab auch keine Ahnung was ich mach, Dicker  Ich mache keinerlei Schritte nach Vorne, nein Will nur Mukke machen, feiern, schlafen und hau rein Aber das Ziel in mei'm Kopf muss ich erreichen Sag: \"Aaaaah!\" Sie sagt: \"Mach's! Aber mach es mit Style, mach es mit Herz! G-G-Ganz ehrlich sonst is' die Sache nichts wert.\" Und es klingt gar nich' so verkehrt wie sie's g'rade erklärt Also eier ich 'rum, oder mach ich jetzt ernst? Immer wenn ich auf mei'm Film bin leuchtet alles und mein Kopf und fliegt Wie ein Junkie sticht mir die Sonne in den Arm, setzt an und schießt Für einen kurzen Moment is' dieser Raum und die Welt voller Energie, yeah Bevor ich halb tot in der Ecke lieg', sag  Dicker, wo geht's lang? Ich hab kein' Plan wo wir sin', aber macht doch Spaß Dicker bei mir läuft, hab kein Cent, aber mach die Nacht zum Tag Sie sagen is' gut, mach' dein Ding und ich tu als hätt' ich n' miesen Plan Aber lauf mir nich' hinterher - ich hab auch keine Ahnung was ich mach, Dicker (Hey) Wo geht's lang? Ich hab kein' Plan wo wir sin', aber macht doch Spaß (Hey) Dicker bei mir läuft, hab kein Cent, aber mach die Nacht zum Tag (Hey) Sie sagen is' gut, mach dein Ding und ich tu als hätt' ich n' miesen Plan (Hey) Aber lauf mir nich' hinterher - ich hab auch keine Ahnung was ich mach, Dicker (Hey)  Ein' wunderschön' (ein' wunderschön') Ich bin's schon wieder meine Freunde (Ja) Ihr habt schon gehört, ich hab keinen Plan was ich mach, doch irgendwie läuft es (läuft) Dicker, gestern hat's auch geklappt (Aha) Also schaffen wir das auch heute (Heute) Dicker, keine Angst Einer holt die Mukke und einer holt die Bräute Sie sagen wir ha'm nur Angst um uns're Existenz (Existenz) Und das es nichts bringt ewig davor weg zu renn' (davor weg zu renn') Is egal ich sitz' am Tisch und fress mich voll (fress mich voll) Und hab' 'ne wunderschöne Zeit bis meine Rechnung kommt Bis dahin mach' ich's mit Style und mach' ich's mit Herz Und es gibt Stimmen die sagen es macht, ja es macht schon was her Ja und ich bleibe am Ball und ich acker' noch mehr Und wenn das alles nich' klappt heißt es bye-bye Immerhin war die Zeit geil, bitch Dicker, wo geht's lang? Ich hab kein' Plan wo wir sin', aber macht doch Spaß Dicker bei mir läuft, ich hab kein Cent, aber mach die Nacht zum Tag Sie sagen is' gut, mach dein Ding und ich tu als hätt' ich n' miesen Plan Aber lauf mir nich' hinterher - ich hab auch keine Ahnung was ich mach, Dicker Wo geht's lang? Ich hab kein' Plan wo wir sin', aber macht doch Spaß (Hey) Dicker bei mir läuft, hab kein Cent, aber mach die Nacht zum Tag (Hey) Sie sagen is' gut, mach dein Ding und ich tu als hätt' ich n' miesen Plan (Hey) Aber lauf mir nich' hinterher - ich hab auch keine Ahnung was ich mach, Dicker (Hey)  Hey Hey Hey Hey",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.992312593119485,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.8966426593916756,
+                    "label": "positive"
+                }
+            }
+        },
+        {
+            "title": "Herz oder Zahl",
+            "language": "de",
+            "release_date": "2014-12-31",
+            "artist": "BRKN",
+            "album_name": "Yeah Bitch Yeah",
+            "lyrics": "Scheiß auf Liebe, alles was ich haben will kriegt man für Geld Teure Hotels und Autos so schnell Scheinwerfer so hell, das uns niemand übersieht, yeah Wir fahren rum und lachen über sie, yeah Ihr ist egal wie ich drauf bin (was los?) Hauptsache sie lässt sich was kaufen Konto, sie will wissen wie viel drauf sind  Vielleicht paar Miese und vielleicht paar Hunderttausend  Bis auf eins ist uns alles egal, ja, ja, ja, ja Sag, die Frage ist nimmst du Herz oder Zahl Na, na, na, na  Scheiß auf Liebe, alle wissen was die Weiber wollen Sie nimmt den Benz, fick den Dreier Golf Sie sagt, das is' so lang noch bis zu mein' Erfolg Aber, Baby, mein Talent ist aus reinen Gold Aber vielleicht hat sie recht, denn ich Hab 100 Probleme, 99 davon sind cash Aber ich bin der Shit, alle anderen sind nur lesh Sie hat es nicht verstanden also hab ich's kurz erklärt Kuck mal, jeder hier macht ein' auf  und hofft irgendjemand kriegts mit Baby, glaub mir ich bin der Shit den außer mir labern alle nur Mist Mann, ich bin ein normaler Junge, will nur Cash in meiner Potte Guacamole auf mein' Burger und der Beat der muss zerstören  Den bis auf eins ist uns alles egal, ja, ja, ja, ja Sag, die Frage ist nimmst du Herz oder Zahl Na, na, na, na  Scheiß auf Kohle, ich bin dankbar für alles was ich kriege Doch alleine das Gefühl von Glück bezahlt mir nicht die Miete Der eine hat so vieles und die anderen nicht zufrieden Neid und Auge überall, die meisten schieben Krise Fick Liebe, will ich hoch muss ich die anderen demolieren Den ich hab' nie gesehen dass es anders funktioniert Ich versuche gut zu sein aber niemand' interessiert's Ich hau' ab mit 'nem Sack voll Gold und lasse meine Seele hier, bis dann  Den bis auf eins ist uns alles egal, ja, ja, ja, ja Die Frage ist nimmst du Herz oder Zahl Ja-yeah Woo Yeah, Bitch, Yeah",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9914021342992783,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9811624139547348,
+                    "label": "negative"
+                }
+            }
+        },
+        {
+            "title": "Gold",
+            "language": "de",
+            "release_date": "2014-10-31",
+            "artist": "BRKN",
+            "album_name": "Yeah Bitch Yeah",
+            "lyrics": "Sie wollen es wie den Beat und das Licht und den Bass in der Brust bis der morgen anbricht Sie wollen es wie den Hype und den Fame und den Swag und den Ruhm und den Shit Sie wollen strahlen und gewinnen und alles was ihnen den Himmel verspricht Sie wollen ins Paradies mit den Straßen aus Gold Ja, siehst du diesen  egal wo es ihn gibt Sie hört nicht auf bis siе ihn kriegt Sag, und er will es auch, s'allеs was er braucht So ein Stück von dieser Magie, yeah  Und er sagt, ich suche dieses Gefühl Und ich tue alles dafür Das mein Körper von innen glüht So hart, so zart, so bittersüß Und ich sag hey, ruf mich an wenn du's brauchst Ja, und die anderen auch Den ich hab das was ihr wollt Pistole an' Kopf, gib mir das Gold  Moonwalk durch die Stadt, so als wär sie poliert Wir sind auf der Suche nach Ruhm und Reichtum Auf den Weg dahin haben wir schon alles probiert Aber wir komm' nich' ran und es reicht uns (Woo) Mit der Axt komm' ich nich' rein, nix geknackt mit'n Brecheisen Während ich nachts durch den Mist reit' Sind die anderen stinkreich (ja) Doch ich glaub ich hab' es jetzt geschnallt Heißt ich lass mir nichts gefallen Also besser, ihr macht euch jetzt bereit Den ich komm und wenn du weißt was ich such, renn weg doch ich greif zu, wenn's das letzte ist was ich tu'  Sag, sag, sag, sag, Hey Ich suche dieses Gefühl Und ich tue alles dafür Das mein Körper von innen glüht So hart, so zart, so bittersüß Und ich sag hey, ruf mich an wenn du's brauchst Ja, und die anderen auch Den ich hab das was ihr wollt, ja Dicker, ich hab das Gold  Dicker, ich hab das Gold, Gold, Gold, Gold Dicker, ich hab das Gold Dicker, ich hab das Gold, Gold, Gold, Gold Dicker, ich hab das Gold",
+            "sentiment": {
+                "en_distilbert": null,
+                "en_roberta": null,
+                "de_gbert": {
+                    "score": 0.9915663152933121,
+                    "label": "0"
+                },
+                "de_bert": {
+                    "score": 0.9124899804592133,
+                    "label": "neutral"
+                }
+            }
+        }
+    ]
+}
