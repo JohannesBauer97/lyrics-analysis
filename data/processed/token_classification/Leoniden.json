@@ -1,0 +1,588 @@
+{
+    "artist": "Leoniden",
+    "songs": [
+        {
+            "title": "Nevermind",
+            "language": "en",
+            "release_date": "2016-12-09",
+            "artist": "Leoniden",
+            "album_name": "Leoniden",
+            "lyrics": "You know you got a future You know you gonna get somewhere But if something feels like home You know you don't belong there Do you Hear the people whispering Are you even listening I don't know  I got a situation I'm living in a place that fucks me up A bunch of wrong decisions Can you get up here? I got a situation I'm living in a place that fucks me up A bunch of wrong decisions Can you get up here? Can you get up here? Ah-ah  I was tired there I feel lonely here But I guess it's right The city kinda shines Do you Do you even understand How it is to leave your friends To get somewhere I do now!  I got a situation I'm living in a place that fucks me up A bunch of wrong decisions Can you get up here? Can you get up here? I got a situation I'm living in a place that fucks me up A bunch of wrong decisions Can you get up here? Can you get up here? Yeah yeah yeah  I was tired (I was tired) Nevermind (Nevermind) You know you get used to a lot (you know you get used to a lot) I was tired (I was tired) Nevermind (Nevermind) You know you get used to a lot (you know you get used to a lot) I was tired (I was tired) Nevermind (Nevermind) You know you get used to a lot (you know you get used to a lot) You know I miss my place I miss my home I miss my friends I was tired (I was tired) Nevermind (Nevermind) You know you get used to a lot (you know you get used to a lot) I was tired (I was tired) Nevermind (Nevermind) You know you get used to a lot (you know you get used to a lot) I got a situation (I was tired) I'm living in a place that fucks me up (Nevermind) A bunch of wrong decisions Can you get up here (can you get up here) Can you get up here (can you get up here)",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Kids",
+            "language": "en",
+            "release_date": "2018-06-22",
+            "artist": "Leoniden",
+            "album_name": "Again",
+            "lyrics": "Our tears don't matter Our tears don't matter brother I I love the life I love the life I left behind But you know what I did? I ripped it apart There was something in the basement Chained to my heart Not anymore  My ears are ringing My throat is dry And my hands are trembling  Fuck it all We killed it tonight We killed it tonight We killed it tonight We stay awake Fuck it all We killed it tonight We killed it tonight We killed it tonight We stay awake So Fuck it all We killed it tonight (Yeah) We killed it tonight We stay awake  I never sleep cause sleep is the cousin of death There is no tomorrow brother I'm trapped in a cycle of yesterdays Why do I always forget what I'm about to say?  My ears are ringing My throat is dry And my hands are trembling  Fuck it all We killed it tonight We killed it tonight We stay awake So Fuck it all We killed it tonight (Yeah) We killed it tonight We stay awake We're left behind Broke, deaf and blind The kids will unite And strike up a song We're left behind Broke, deaf and blind The kids will unite And strike up a song  Fuck it all We killed it tonight We killed it tonight We stay awake So Fuck it all We killed it tonight (Yeah) We killed it tonight We stay awake",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "1990",
+            "language": "en",
+            "release_date": "2016-03-08",
+            "artist": "Leoniden",
+            "album_name": "Leoniden",
+            "lyrics": "Lights, lights, turn off the lights! Where no one sees the lies Lies, turn off the lies! It doesn't really matter what is left Left, or what was right Time to get addicted Time to get addicted Shut the lights! And fill out all the space under the sky!  Anyone can see The space beneath the sky-a-ay-a-ays Insomniac alibis Anyone can fill The space beneath the sky-a-ay-a-ays Insomniac alibis  Don't be shy Don't rewind! You are already focused All of your goals are golden No regrets, you need this Your socks have been knit Your shoes have been tied Tied, everything's fine You're dressed to fight Fight, stop being tired! (stop being tired, cut all the wires.) Stop, stop rubbing your eyes Get yourself addicted Get yourself addicted Your shoes are tied So fill up all the space under the sky! (so fill up all the space under the sky)  Anyone can see (Anyone can see) The space beneath the sky-a-ay-a-ays (the space beneath the sky-a-ay-a-ays) Insomniac alibis (Insomniac alibis) Anyone can fill (anyone can fill) The space beneath the sky-a-ay-a-ays (the space beneath the sky-a-ay-a-ays) Insomnia (Insomniac alibis) Anyone can fill The space beneath the Sky, sky pull out the sky (any one can feel, the space beneath ... Lies, lies, turn up those lies ...the sky-a-ay-a-ays) Stop, stop, rubbing your eyes (Insomniac alibis) Anyone can fill The space beneath the Sky, sky pull out the sky (any one can feel, the space beneath ... Lies, lies, turn up those lies ...the sky-a-ay-a-ays) Stop, stop, rubbing your eyes (Insomniac alibis) Get yourself addicted Get yourself addicted-di-di-di-di-di",
+            "token-classification": {
+                "en_bertbase": [
+                    {
+                        "entity": "B-LOC",
+                        "word": "Sky",
+                        "start": 138,
+                        "end": 141
+                    },
+                    {
+                        "entity": "B-MISC",
+                        "word": "so",
+                        "start": 377,
+                        "end": 379
+                    }
+                ],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Sisters",
+            "language": "en",
+            "release_date": "2017-02-24",
+            "artist": "Leoniden",
+            "album_name": "Leoniden",
+            "lyrics": "This is for your sisters Covering the picture You know You cover all the blisters I was starring at the distance  This is for your sisters Covering the picture You know You cover all the blisters Starring at the distance  And time, time, time, time Becomes your heartache I'm fine. fine, fine, fine Become your lungs! And time, time, time, time Becomes your heartache I'm fine. fine, fine, fine Become your lungs! This is for your sisters This is for your sisters  This is for my sisters And now I'm gonna tell you something  I can't take this I can't get this heart under control I can't take this I can't get this far without your heart (Verse 2: Jakob Amr] This is for your sisters Crossing all their fingers You know They look at all the pictures Blaming their existence  And time, time, time, time Becomes your heartache I'm fine. fine, fine, fine Become your lungs! And time, time, time, time Becomes your heartache I'm fine. fine, fine, fine Become your lungs! This is for your sisters This is for your sisters  I can't take this (I can not take this! I can not take this!) I can't get this heart under control (I can not take this! I can not take this!) I can't take this (I can not take this! I can not take this!) I can't get this far without your heart (I can not take this! I can not take this!) I can't take this (I can not take this! I can not take this!) I can't get this heart under control (I can not take this! I can not take this!) I can't take this (I can not take this! I can not take this!) I can't get this far without your heart (I can not take this! I can not take this!)",
+            "token-classification": {
+                "en_bertbase": [
+                    {
+                        "entity": "I-PER",
+                        "word": "Am",
+                        "start": 139,
+                        "end": 141
+                    },
+                    {
+                        "entity": "B-PER",
+                        "word": "Jakob",
+                        "start": 133,
+                        "end": 138
+                    }
+                ],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "L.O.V.E.",
+            "language": "en",
+            "release_date": "2020-07-24",
+            "artist": "Leoniden",
+            "album_name": "Complex Happenings Reduced To A Simple Design",
+            "lyrics": "One, two  Try to tell you, tell you I'm choking on my heartbeat Every time I hear your voice I'm more than shy, I'm paralyzed  I can spit sixteen bars Of tongue twisters without Stutterin', stumblin', droppin' out But I cannot speak When you're around  I wish you'd know I L to the O to the V to the E to the Y to the O to the U But I cannot speak When you're around I wish you'd know I L to the O to the V to the E to the Y to the O to the U But I cannot speak When you're around Yeah  And I love the way I love the way we lose I'm more than shy, I'm paralyzed  I can spit sixteen bars Of tongue twisters without Stutterin', stumblin', droppin' out But I cannot speak When you're around  I wish you'd know I L to the O to the V to the E to the Y to the O to the U But I cannot speak When you're around I wish you'd know I L to the O to the V to the E to the Y to the O to the U But I cannot speak When you're around Yeah  I wish you'd know I L to the O to the V to the E to the Y to the O to the U But I cannot speak (But I cannot speak) When you're around I wish you'd know I L to the O to the V to the E to the Y to the O to the U But I cannot speak When you're around I wish you'd know I L to the O to the V to the E to the Y to the O to the U But I cannot speak (I cannot speak) When you're around (When you're around)  I wish you'd know I L to the O to the V to the E to the Y to the O to the U But I cannot speak When you're around",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "People",
+            "language": "en",
+            "release_date": "2018-10-19",
+            "artist": "Leoniden",
+            "album_name": "Again",
+            "lyrics": "I lose my way, I lose my mind, I lose my—, myself a million times Oh, myself a million times, where am I? And I thought my thoughts, I think a lot Oh gosh! Oh gosh, it's not enough I had a hole in the middle, a storm in my head, where am I?  I really don't where to go now I really don't where to go, oh  I keep staring through the window I don't get you people alright, alright I keep staring through the window I don't get you people alright, alright  Oh! Oh!  And I don't know what I could have I don't know what I could have done And I've seen you through the glasses passing by like all my chances Goodbye to all my chances Goodbye to all my chances, yeah  I doubt my way, I doubt my mind I doubt my—, myself a thousand times But on the other hand, I guess it's all up to you But on the other hand, it's up to you, oh  I keep staring through the window I don't get you people alright, alright I keep staring through the window I don't get you people alright, alright  People! People! Ah, looking at the people!  I don't know what I could have, I don't know what I could have done And I've seen you through the glasses passing by like all my chances Goodbye to all my chances, goodbye to all my chances, goodbye to all my chances I don't know what I could have, I don't know what I could have done And I've seen you through the glasses passing by like all my chances Goodbye to all my chances, goodbye to all my chances, foodbye to all my chances",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "The Tired",
+            "language": "en",
+            "release_date": "2017-03-01",
+            "artist": "Leoniden",
+            "album_name": "Leoniden",
+            "lyrics": "If you're feeling cold It means that doors are opened wide for you To walk through them get up on your feet A better place is near, don't give up If you're feeling down The stairs will get you up and far, almost To the stars, get up on your feet A better place is near, don't give up  Let the tired be ignited Let them hold each other‘s hands and sing along Let the tired be ignited Let them hold each other‘s hands and sing along Aa a aaa a a aa a For your deliverance  If you're feeling down The stairs will get you up and far, almost To the stars, we get up on our feet Together we will leave, don't give up!  Let the tired be ignited Let them hold each other‘s hands and sing along Let the tired be ignited Let them hold each other‘s hands and sing along  And I am there For your deliverance And I am there For your deliverance, deliverance And I am there For your deliverance, deliverance",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Colorless",
+            "language": "en",
+            "release_date": "2018-10-26",
+            "artist": "Leoniden",
+            "album_name": "Again",
+            "lyrics": "We have to stop the fire But you're the one who lights it Again and again and again and again  My lungs are both corrupted, nearly choked And still I'm breathing through the smoke But the box of matches in your backpack won't get emptier  We have to stop the fire But you're the one who lights it Again and again and again and again Until it's over  I'm feeling like your opposite Contrast, colorless and you know It's not easy without you I never thought it goes like that Contrast, colorless and you know It's not easy without you  Your bones are fully bent and nearly broke And I should leave you on your own But the sounds of cracking necks and Backs still keep me coming home  We have to stop the fire But I'm the one who lights it Again and again and again and again Until it's over I'll stay, 'cause  I'm feeling like your opposite Contrast, colorless and you know It's not easy without you I never thought it goes like that Contrast, colorless and you know It's not easy without you  Back up against the wall Down on my knees I screwed it up, but now It's way too late to leave Back up against the wall Down on my knees I screwed it up, but now It's way too late to leave",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Alone",
+            "language": "en",
+            "release_date": "2018-09-14",
+            "artist": "Leoniden",
+            "album_name": "Again",
+            "lyrics": "Something makes me leave again I’ve been locked up in a way that I don’t understand I’ve been chasing numbers, no mercy now Feeling the best when I’m alone Feeling the best when I’m alone  Something’s wrong with that look in your eyes Wasn’t sure that’s why I had to look twice I’m still not cool with you Feeling the best when I’m alone  Give me something, ah, ah Give me something to rely on Oh, Give me something to rely my feelings on Mhmhm Feeling quite alone, but I love the loneliness Something makes me leave again I’ve been locked up in a way that I don’t understand I’ve been chasing numbers, no mercy now Feeling the best when I’m alone Feeling the best when I’m alone  Something’s wrong with that look in your eyes Wasn’t sure that’s why I had to look twice I’m still not cool with you Feeling the best when I’m alone Something’s wrong with that look in your eyes Wasn’t sure that’s why I had to look twice I’m still not cool with you Feeling the best when I’m alone  I am so close to breaking down I need to get it all together Get it together in my mind And so you know I am so close to breaking down for sure I need to get it all together, in my mind, get it together in my mind Feeling the best when I’m alone  Something’s wrong with that look in your eyes Wasn’t sure that’s why I had to look twice I’m still not cool with you Feeling the best when I’m alone Something’s wrong with that look in your eyes Wasn’t sure that’s why I had to look twi-ice I’m still not cool with you",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "River",
+            "language": "en",
+            "release_date": "2018-08-10",
+            "artist": "Leoniden",
+            "album_name": "Again",
+            "lyrics": "Ooh-ooh-ooh, ooh-ooh-ooh, ooh-ooh  I got lost in a river Floating with my back up to the sky And it was all along a river With another side, I've been chasin' something in my mind, oh yeah And it was all along a river  With another side, I am sure I have been here before But you were by my side, boy Something's in the water or in the air that I inhale that makes me sick And it was, it was all along a river with another side  Something's in the water or in the air that I inhale that makes me sick And it was And it was all along a river with another side Ooh, ooh-ooh-ooh-ooh  I was so lost and I was alone and I was so lost But I deserved it anyway, yeah And it was all along a river with another side I was a fool and I'm a fool and I'm a fool for you And it was all along a river  With another side, I have no control I'm floating to no coast and I'll be drowning soon Something's in the water or in the airthat I inhale that makes me sick And it was, it was all along a river with another side  Something's in the water or in the air that I inhale that makes me sick And it was and it was  I got lost in a river I got lost in a river Yeah, yeah, yeah, yeah",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Storm",
+            "language": "en",
+            "release_date": "2017-02-24",
+            "artist": "Leoniden",
+            "album_name": "Leoniden",
+            "lyrics": "Dizzy wine-heads running in circles and no shape No face is clear, I think I'm in the middle of a storm My eyes filled with fear (Like a rebel) I think I'm in the middle of a storm  And the dance goes on until my face suddenly melts Lights are flashing and it's raining bullet shells Must be a dream with taste of truth I hit the ground And the dance goes on until my face suddenly melts Lights are flashing and it's raining bullet shells Must be a dream with taste of truth I hit the ground  Those guys are frantic Blow the finalist out of the way! Got to say something But the words rise to a higher gain level Thinking like a rebel Frantic Blow the finalist out of the way! Got to say something But the words rise and the words rise!  And the dance goes on until my face suddenly melts Lights are flashing and it's raining bullet shells Must be a dream with taste of truth I hit the ground And the dance goes on until my face suddenly melts Lights are flashing and it's raining bullet shells Must be a dream with taste of truth I hit the ground  (Dizzy wine-heads running in circles.) My eyes filled with fear I think I'm in the middle of a storm (Dizzy wine-heads running in circles.) (Dizzy wine-heads running in circles.) (Dizzy wine-heads running in circles.) (Dizzy wine-heads running in circles.)  And the dance goes on until my face suddenly melts Lights are flashing and it's raining bullet shells Must be a dream with taste of truth I hit the ground And the dance goes on until my face suddenly melts Lights are flashing and it's raining bullet shells Must be a dream oh must be a dream",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Blue Hour",
+            "language": "en",
+            "release_date": "2021-04-09",
+            "artist": "Leoniden",
+            "album_name": "Complex Happenings Reduced To A Simple Design",
+            "lyrics": "Remember the darkness Remember the dark and how it hurt Every blue hour we’re weak in the knees again Remember the darkness Remember the dark and how it hurt Every blue hour we’re weak in the knees again  Staring at the sun Bright eyes fill up with tears Black dots, all that I can see Please help me cope with my fear  And all I want you to see  Remembеr the darkness Remеmber the dark and how it hurt Every blue hour we’re weak in the knees again  We gotta see it’s not a cycle, no Even if it feels like that sometimes All the colors fade to blue Once the moon hangs over you And It gets hard, it gets hard Staring at the sun Bright eyes fill up with tears Black dots, all that I can see Please help me cope with my fear  And all I want you to see And all I want you to see That we’ll bring it back (bring it back)  Remember the darkness Remember the dark and how it hurt Every blue hour we’re weak in the knees again Remember the darkness Remember the dark and how it hurt Every blue hour we’re weak in the knees again",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Not Enough",
+            "language": "en",
+            "release_date": "2018-10-26",
+            "artist": "Leoniden",
+            "album_name": "Again",
+            "lyrics": "Growing up Saw a lot Some shift lifts me up But not enough Getting much and giving up It's not enough It's not enough We still don't have enough  I'm on my way And I'm thinking that We are not enough And we don't have enough Guess it's okay to admit that We are not enough And we don't have enough  Get scared away from where I stay I refuse cause they are not enough And we don't have enough  We tip toe all our way back home We tip toe all our way back home We're grinning in your face from ear to ear We're grinning in your face from ear to ear And we don't have enough And we don't have enough And we don't know what's enough  Growing up Saw a lot Some shift lifts me up But not enough Getting much and giving up It's not enough It's not enough We still don't have enough  We are just a riddle And no one works us out We are stuck in the middle And no one pulls us out I'm on my way And I'm thinking that We are not enough And we don't have enough  Get scared away from where I stay I refuse cause they are not enough And we don't have enough  We tip toe all our way back home We tip toe all our way back home We're grinning in your face from ear to ear We're grinning in your face from ear to ear And we don't have enough And we don't have enough And we don't know what's enough",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Why",
+            "language": "en",
+            "release_date": "2018-10-26",
+            "artist": "Leoniden",
+            "album_name": "Again",
+            "lyrics": "Mmh-mmh  And something's up in the cloud to let go I was wondering why you heard so Why don't you get along? Why don't you get along with me? Why don't you get along? Oh, oh, oh, why?  Why, why you're gonna fucking hold me back All I want to know is why you're gonna fucking hold me back? Why, why, why, why I wonder why you even try  I wonder why, why you waste your time I wonder why I wonder why, why you waste your time I wonder why  (One, two, one, two, three, four) Something is pushing me down to the floor I don't need you and I want you to know Why don't you get along? Why don't you get along with me? Why don't you get along? Oh, oh, oh, why, why, why?  Wh-why ou're gonna fucking hold me back All I want to know is why you're gonna fucking hold me back Why, why, why, why I wonder why you even try  I wonder why, why you waste your time I wonder why I wonder why, why you waste your time I wonder why  I wonder why, why you waste your time I wonder why I wonder why, why you waste your time I wonder why",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Iron Tusk",
+            "language": "en",
+            "release_date": "2017-01-31",
+            "artist": "Leoniden",
+            "album_name": "Leoniden",
+            "lyrics": "Lines are drawn Your body hits the light Before the day could ever rise Iron Tusks are empty, are empty Eyes are closed The pictures in your mind are false You'll never see the night Iron Tusks are empty, are empty  Iron tusks are swollen knives and guns But their wounds are notional Iron tusks are swollen knives and guns But their wounds are notional Knives and guns subsided iron tusks But their wounds are rational No graves by metaphors, no graves No graves by metaphors All books by folded hands, all books by All graves by folded hands Taste the sun (Living as i wanted to) Burn your tongue! (Living as i wanted to) Iron Tusk are empty (Living as i wanted to) You said that all is an illusion, an illusion, an illusion You said that all is an illusion, an illusion, an illusion You criticise an uncountable set There are more elements than arguments yet Lines will always intertwine If dots are crossed twice Five dots, eight lines build a house indeed But not mine It's not real It's not real And can't you see the…  Lines are drawn Your body hits the light Before the day could ever rise Iron tusks are empty, are empty Eyes are closed The pictures in your mind are false You'll never see the night Iron tusks are empty, are empty ",
+            "token-classification": {
+                "en_bertbase": [
+                    {
+                        "entity": "B-ORG",
+                        "word": "Iron",
+                        "start": 116,
+                        "end": 120
+                    },
+                    {
+                        "entity": "I-MISC",
+                        "word": "Tusk",
+                        "start": 121,
+                        "end": 125
+                    },
+                    {
+                        "entity": "I-MISC",
+                        "word": "Tu",
+                        "start": 189,
+                        "end": 191
+                    }
+                ],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Freaks",
+            "language": "en",
+            "release_date": "2021-06-25",
+            "artist": "Leoniden",
+            "album_name": "Complex Happenings Reduced To A Simple Design",
+            "lyrics": "I’m not worth it just a useless piece of trash It’s pathetic how I miss you I’m not worth it just a stupid piece of shit It’s pathetic how I miss you, yeah I do feel confused at least this proves I’m alive  I’d rather die tonight Than admit we messed it up We are the freaks we stay together I’d rather die tonight We are the freaks we stay together  Tied forever by our love and our lies Tied forever by our lovе and our lies Soft drugs to back up our alibis Cracked lips, red еyes I’m not worth it just a useless piece of trash It’s pathetic how I miss you I’m not worth it just a stupid piece of shit It’s pathetic how I miss you But I’ll keep spinning Sometimes mothered, sometimes pushed aside But i can’t deny that I feel dead but alright Yeah I’m still confused at least this proves I’m alive  I’d rather die tonight Than admit we messed it up We are the freaks we stay together I’d rather die tonight We are the freaks we stay together  Fellow sufferers Yeah You freaks, you freaks You freaks, you freaks  I’d rather die tonight Than admit we messed it up We are the freaks we stay together I’d rather die tonight We are the freaks we stay together",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Down The Line",
+            "language": "en",
+            "release_date": "2018-10-26",
+            "artist": "Leoniden",
+            "album_name": "Again",
+            "lyrics": "Do you hear the mute men calling? We're waiting in the line I feel the cold wind blowing Sending shivers down my spine  And all I need to know is how we got here We're waiting in the line  Come on talk to me Words are meant to drown And hush that noise, hush that noise of sounds  I see the sunset glowing And I remember how it shines You need to tell me, mister Why are we running out of time?  And all I need to know is how we got here We're waiting in the line Waiting in the line  Come on talk to me Words are meant to drown And hush that noise, hush that noise of sounds So answer me Words are meant to drown I am shaking I am falling down  Why should we give up And follow them down the line? Why should we give up And follow them down the line? Why should we give up And follow them down the line?  Talk to me Words are meant to drown And hush that noise, hush that noise of sounds So answer me Words are meant to drown I am shaking I am falling down",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Slow",
+            "language": "en",
+            "release_date": "2018-10-26",
+            "artist": "Leoniden",
+            "album_name": "Again",
+            "lyrics": "I will always need to be exclusive Like a silly spoiled child Like a silly spoiled child And I keep being busy saying no Just talk to the hand Like a silly spoiled child  But you can see right through me  Slow You hit the right spot You hit the right spot, you know Slow and low Don't do it again Don't do it again Don't do it again Slow You hit the right spot You hit the right spot, you know Slow and low Don't do it again Don't do it again Don't do it again  I am not the one that makes excuses Like a silly spoiled child Like a silly spoiled child Can't come along I come undone I'll hide in here forever Can't come along I come undone I'll hide in here forever  I lose another one, another one I'm losing my connection I'm on my own but still fine  But you can see right through me  Slow You hit the right spot You hit the right spot, you know Slow and low Don't do it again Don't do it again Don't do it again Slow You hit the right spot You hit the right spot, you know Slow and low Don't do it again Don't do it again Don't do it again I lose another one, another one I'm losing my connection I lose another one, another one I'm losing my connection I'm on my own but still fine ",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "City",
+            "language": "en",
+            "release_date": "2017-02-24",
+            "artist": "Leoniden",
+            "album_name": "Leoniden",
+            "lyrics": "I saw the dim light dancing on your neck, your neck Your body breaking out in - sweat Try to ge near! You will get into a magnetic field Of self-destructive flair I saw the dim light dancing on your neck, your neck Try to ge near! You will get into a magnetic field Of self-destructive flair  The things I hate (The things I hate.) They will never turn (They will never turn.) They just move (They just move.) Into another (Into another) The things I hate (The things I hate.) They will never turn (They will never turn.) They just move (They just move.) Into another (Into another) The things I hate (The things I hate.)  (Invert India!) Invert India! (Induct itself, electric spiral.) Induct itself, electric spiral (Fear rules the whole map.) Fear rules the whole map (Magic staff blues, magic staff blues.) Magic staff blues, magic staff blues (For you to dance yourself out of your shoes.) For you to dance yourself out of your shoes (On purpose. On purpose) On purpose. On purpose  Watch out! Avoid the stingrays, they will continue attacking With their limbs moving too fast for themselves to understand Watch out! Avoid the stingrays, they will continue attacking With their limbs moving too fast for themselves to understand Try to get near! Aha yeah Try to get near! You will get into a magnetic field of self-destructive flair  The things I hate (The things I hate.) They will never turn (They will never turn.) They just move (They just move.) Into another (Into another) The things I hate (The things I hate.)  (Invert India!) Invert India! (Induct itself, electric spiral.) Induct itself, electric spiral (Fear rules the whole map.) Fear rules the whole map (Magic staff blues, magic staff blues.) Magic staff blues, magic staff blues (For you to dance yourself out of your shoes.) For you to dance yourself out of your shoes (On purpose. On purpose) On purpose. On purpose  Our glow is enough to enlighten Countries for centuries Plus, plus and plus and plus and plus Please follow the end into it's end! Into it's end!  (Invert India!) Invert India! (Induct itself, electric spiral.) Induct itself, electric spiral (Fear rules the whole map.) Fear rules the whole map (Magic staff blues, magic staff blues.) Magic staff blues, magic staff blues (For you to dance yourself out of your shoes.) For you to dance yourself out of your shoes (On purpose. On purpose) On purpose. On purpose (Invert India!) Invert India! (Induct itself, electric spiral.) Induct itself, electric spiral (Fear rules the whole map.) Fear rules the whole map (Magic staff blues, magic staff blues.) Magic staff blues, magic staff blues (For you to dance yourself out of your shoes.) For you to dance yourself out of your shoes (On purpose. On purpose) On purpose. On purpose",
+            "token-classification": {
+                "en_bertbase": [
+                    {
+                        "entity": "B-LOC",
+                        "word": "India",
+                        "start": 136,
+                        "end": 141
+                    }
+                ],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Two Peace Signs",
+            "language": "en",
+            "release_date": "2017-02-24",
+            "artist": "Leoniden",
+            "album_name": "Leoniden",
+            "lyrics": "Folded all your papers Shifted all your shapes The surface looks so tidy now All those filtered illusions, oh  I know, I know your house is full of the jars To be gallery of what you've seen, no place for anyone I know, I know your house is empty because There's nothing happening right now, now  Fixed the hole funnels Used your riddle screen Take off the lid, fill up the cup, screw down the top, put it back where glasses never break! So that's taking care of yourself  Tear it down! We're slowly ending Your system ist not safe We cannot keep it in those jars Don't we see the paradox? We're losing, we're losing time We're losing, we're losing time  Take off the lid, fill up the cup, screw down the top, put it back where glasses never break! So that's taking care of yourself I know, I know your house is full of the jars To be gallery of what you've seen, no place for anyone I know your house is full of the jars There's nothing happening right now, now  Tear it down! We're slowly ending Your system ist not safe We cannot keep it in those jars Don't we see the paradox? We're losing, we're losing time We're losing, we're losing time  Now you see We're slowly ending Your system ist not safe We cannot keep it in those jars",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Remote",
+            "language": "en",
+            "release_date": "2017-02-24",
+            "artist": "Leoniden",
+            "album_name": "Leoniden",
+            "lyrics": "Ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah Ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-a-ah Ah-ah-ah-ah-ah-ah-ah-ah-ah  Embrace the artificial lungs in your chest! Don't forget the artificial tongue in your head! You breath and speak for someone else That was made by us all but was never planend Face, your father would believe that we are wrong! Do you feel this artificial weights on your tongue? He pressures us as long as we try to talk  Seize the silence! Feel those shivering islands! Close your trembling eyelids! Keep those words beneath your hurting pride! And never tell anyone anything!  Your brother would believe that we are right But he has an artificial chain on his eyes He sees and reads for someone else That was made by us all, but he was never planned  Seize the silence! Feel those shivering islands! Close your trembling eyelids! Keep those words beneath your hurting pride! And never tell anyone anything! Seize the silence! Feel those shivering islands! Close your trembling eyelids! Keep those words beneath your hurting pride!  Hunted by remote and twisted lips Are things that we experience Embrace it for the sake of faces That may share your silent words So we are hunted by remote and twisted lips Are things that we experience Hunted by remote and twisted lips Are things that we experience Hunted by remote and twisted lips Are things that we, things that we Ohohohoh-all wanted Ohohohoh, things that we, things that we experience",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Dice",
+            "language": "en",
+            "release_date": "2021-05-28",
+            "artist": "Leoniden",
+            "album_name": "Complex Happenings Reduced To A Simple Design",
+            "lyrics": "I'm sorry that I threw the dice right in the trash Too scared of being out of luck again I’m sorry now I know I've bending all the truth a bit too far I'm scared that I deserve your love  After all, you must know it’s neither A or B Rather a letter in between, I lost my head It's impossible to crack Can't you see there is nothing left to try Oh why the hell can't I decide what's wrong or right I'm helpless  I'm sorry that I threw the dice right in the trash Too scared of being out of luck again I'm sorry now I know I’ve bending all the truth a bit too far I’m scared that I deserve your love  I'm scared I don’t deserve your love I'm scared I don't deserve your love I'm scared I don’t deserve your love I'm scared I don't deserve your love  After all, you must know it's neither A or B Rather a letter in between, I lost my head It's impossible to crack Ey! (Ey!) Oh! (Oh!) Uh! (Uh!) And I don't wanna be lonely Really hoping We're love -less  I'm sorry that I threw the dice right in the trash Too scared of being out of luck again I'm sorry now I know I've bending all the truth a bit too far I'm scared that I deserve your love I'm sorry that I threw the dice right in the trash Too scared of being out of luck again I'm sorry now I know I've bending all the truth a bit too far I'm scared that I deserve your love",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "North",
+            "language": "en",
+            "release_date": "2017-02-24",
+            "artist": "Leoniden",
+            "album_name": "Leoniden",
+            "lyrics": "I would not bother about the other side of town But you're so far away your brothers feelin' down Did you know that I kept calling Did you know that I kept calling all along? And you can see what you're going to be Yeah you can see what you're going to be And you can't get my attention, 'cause I'm sure you know the ending And can take the world apart  All the things we had together And all the things we've lost has been found for sure And I'd be waiting here forever And this is all, this is all, this is all for good  My friends are not coming home tonight And I can't sleep, I am Only waiting for the morning This is why I'm calling all along And you can see what you're going to be Yeah you can see what you're going to be And you can't get my attention cause I'm sure you know the ending And could take the world apart  All the things we had together And all the things we've lost has been found for sure for sure And I'd be waiting here forever And this is all, this is all, this is all for good All the things we had together And all the things we've lost has been found for sure for sure And I'd be waiting here forever And this is all, this is all, this is all for",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "One Hundred Twenty-Three",
+            "language": "en",
+            "release_date": "2018-10-26",
+            "artist": "Leoniden",
+            "album_name": "Again",
+            "lyrics": "Take an old, take a young face And see how they click And see how they fit and make pairs It's like a time wrap, like puzzle pieces of Doppelgangers that fit and make pairs We'll make pairs again Everyone is special like a silent pug Waiting for the loudest bark And I don't know how it sounds And everyone has felt or will feel all your pain Take an old, take a young face And see how they click And see how they fit and make pairs It's like a time wrap, like puzzle pieces of Doppelgangers that fit and make pairs We'll make pairs again Everyone is special like a silent pug Waiting for the loudest bark Waiting for the loudest bark Waiting for the loudest bark",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Funeral",
+            "language": "en",
+            "release_date": "2020-12-04",
+            "artist": "Leoniden",
+            "album_name": "Complex Happenings Reduced To A Simple Design",
+            "lyrics": "A shaking house On shaking ground Is still a house And it’s ours You found me in the trash We fell in love with dirty hands Our friend is dead And it all comes down to this:  You matter to me, I matter to you We met at the funeral of the world You matter to me, I matter to you We met at the funeral of the world  Although we carry our coffins To bury our hope We fell in love at the funeral Of the world Although we carry our coffins To bury our hope We fell in love at the funeral Of the world  I just wanna say Thank you For what you do You’rе just being you When this weight on my shouldеrs Gets a hold of me I get scared That you don’t feel the same That you don’t feel the same That you don’t feel the same That you don’t feel the same That you don’t feel the same But you do feel the same  Although we carry our coffins To bury our hope We fell in love at the funeral Of the world Although we carry our coffins To bury our hope We fell in love at the funeral Of the world  You matter to me, I matter to you We met at the funeral of the world You matter to me, I matter to you We met at the funeral of the world",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Eleven Hands",
+            "language": "en",
+            "release_date": "2017-02-24",
+            "artist": "Leoniden",
+            "album_name": "Leoniden",
+            "lyrics": "Fingertips are slit by the sisters Who listed your decisions of whiskers? Fingertips are slit by sinistral Fingertips are slit by the sisters Who listed your decisions of whiskers? Fingertips are slit by sinistral  We try and fail our eyes are grey We're oversleeping everything Ten hands handle things that we don't get  Ten hands are crawling through your bedroom Through your sheets and pillows And sixteen of them leave When will the six hands Come back to your chamber To make it empty again  Fingertips are slit by the sisters Who listed your decisions of whiskers? Fingertips are slit by sinistral Fingertips are slit by the sisters Who listed your decisions of whiskers? Fingertips are slit by sinistral Fingertips are slit by sinistral  We try and fail our eyes are grey We're oversleeping everything Ten hands handle things that we don't get We try and fail our eyes are grey We're oversleeping everything Ten hands handle things that we don't get We're oversleeping everything",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Doves",
+            "language": "en",
+            "release_date": "2017-02-24",
+            "artist": "Leoniden",
+            "album_name": "Leoniden",
+            "lyrics": "Ignore the hangman's call Guillotine is cleaned indeed But book-binders will never sleep Nor for you nor for me Hope is a concrete-dove, but hope is a dove Ignore the hourglass Your sand is running out But putting it back is not allowed Nor for you nor for me Hope is a concrete-dove, but hope is a dove Hope is a concrete-dove, but hope is a dove Hope are the tracks for a train that never comes Hope is a concrete-dove, but hope is a dove Hope is houses for two if a coffin's for one  Interlude  Beware the writer's words When their meaning will be gone We tried to tame them with our cages and names If they are not said they are not heard Hope is a concrete-dove, but hope is just a word Hope is a concrete-dove, but hope is a dove Hope is houses for two if a coffin's for one  Interlude  Hope is a concrete-dove, but hope is a dove Hope is a concrete-dove, but hope is a dove Hope is a dove, hope is a dove Hope is a dove, hope is a dove Hope is a dove, hope is a dove Hope is a dove, hope is a dove Interlude Hope Hope is a Hope is a dove Hope is a Hope is a dove Hope is a dove Hope is a, hope is a dove",
+            "token-classification": {
+                "en_bertbase": [
+                    {
+                        "entity": "B-PER",
+                        "word": "Hope",
+                        "start": 113,
+                        "end": 117
+                    },
+                    {
+                        "entity": "B-PER",
+                        "word": "Guil",
+                        "start": 27,
+                        "end": 31
+                    },
+                    {
+                        "entity": "I-PER",
+                        "word": "lot",
+                        "start": 31,
+                        "end": 34
+                    }
+                ],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "New 68",
+            "language": "en",
+            "release_date": "2021-07-23",
+            "artist": "Leoniden",
+            "album_name": "Complex Happenings Reduced To A Simple Design",
+            "lyrics": "Every single night I tried Not to see the latest lies All these days they went to waste Waiting for something to change Now we go Here we go  Yeah, we need all our friends A gathering of people who'll reclaim the streets now But hey, we don't need nothing 'Cause it's a long way, sure thing it's a long way And I always knew you'd wake me up I always knew who had foreseen this paradox Good to know there's something in our hearts  All these days they went to wastе Waiting for something to change  Now we go Hеre we go We're late yeah, we're late yeah, we're late It's the new 68 Now we go Here we go We're late yeah, we're late yeah, we're late It's the new 68  The bottom line The bottom line is blurred Speak the language of Speak the language of the unheard A dead majority A dead majority at its worst Break with traditions and reset the world And reset the world  Now we are here to make a vow No more back to silence, a matter of awareness Resistance can't be in vogue And It's a long way, sure thing it's a long way And I always knew you'd wake me up And I always knew who had foreseen this paradox Good to know there's something in our hearts  Now we go Here we go We're late yeah, we're late yeah, we're late It's the new 68 Now we go Here we go We're late yeah, we're late yeah, we're late It's the new 6",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Disappointing Life",
+            "language": "en",
+            "release_date": "2021-03-05",
+            "artist": "Leoniden",
+            "album_name": "Complex Happenings Reduced To A Simple Design",
+            "lyrics": "I’m going down again I am stuck in a dead end Like always Oh, what a shame  The expectations of the audience were just too high What a disappointing life  I hope they'll wash their hands, from now on (Oh) (Oh, oh, oh, oh) I took one step back, now I’m stumbling Please pardon me, while I trip over the words I said I’m trapped in a loop  What a disappointing life The expectations of the audience were just too high What a disappointing life  I hate my reflection I took one step back, now I’m stumbling Please pardon mе While I trip over the words I said I’m trappеd in a loop I’m not gonna say it’s been said before Oh, I wanna know I wanna know if I wanna know if I can make it But I don’t think I can make it (Oh, oh, oh, oh) (Oh)  The expectations of the audience were just too high What a disappointing life",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Paranoid",
+            "language": "en",
+            "release_date": "2021-08-20",
+            "artist": "Leoniden",
+            "album_name": "Complex Happenings Reduced To A Simple Design",
+            "lyrics": "Uh-- Uh-- Uh--  Oh, just need this feeling that you know Or give me two minutes of your hope, ey 'Cause I lost my trust ’Cause I lost my trust in you Oh  Please tell me that I'm paranoid I'm scared that we’re still stuck on repeat Am I just paranoid? Tell me there is more to believe in  Uh-- Uh-- Uh--  Oh, just need this feeling that I used to know Or give me two minutes of your hope, ey You will get used to You will get used to You will get used to To every feeling you have known You will get used to You will get usеd to You will get used to To evеry feeling you have known  Please tell me that I'm paranoid I'm scared that we're still stuck on repeat Am I just paranoid? Tell me there is more to believe in  Oh Gimme a sign Can't you see that I'm waiting? Been waiting for months Go on and break my heart, break my heart Gimme a sign Can't you see that I'm waiting? Been waiting for months Go on and break my heart Just tell me there is something to believe in, oh (Uh--) (Uh--) (Uh--)",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Smile",
+            "language": "en",
+            "release_date": "2022-05-20",
+            "artist": "Leoniden",
+            "album_name": "",
+            "lyrics": "(Alright) So you build for walls to get you a house But you forgot the doors so now you can not get out It's a prison in disguise And I hate you all to be more precise The strange comfort of being blind It's a prison in disguise  You kiss the ground You're heading home It's the first chance You take a   A silent smile To praise the imperfection I was blinded but I chased after the sun A silent smile To praise the imperfection Like a cold wind that could  by fear (Ey) (Ooh)  So you close your eyes and burn your hands When you're getting as far as it possibly gets It's a prison in disguise There was a cozy mess hidden in this trap Which felt like a happy accident Just a palace in the sky  And you kiss the ground You're heading home It's the first chance You take a   A silent smile To praise the imperfection I was blinded but I chased after the sun A silent smile To praise the imperfection Like a cold wind that could  by fear  Ooh, Ooh Ooh, Ooh Ooh, Ooh  A silent smile To praise the imperfection I was blinded but I chased after the sun A silent smile To praise the imperfection Like a cold wind that could  by fear (Ooh) (Ooh) (Ooh)",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Home",
+            "language": "en",
+            "release_date": "2021-08-20",
+            "artist": "Leoniden",
+            "album_name": "Complex Happenings Reduced To A Simple Design",
+            "lyrics": "Well I'm back I was sorta somewhere else but now I'm back But did you expect Did you expect it I was kinda misdirected got lost on the wrong track Let's not talk about it Let's not talk about it Let's not talk about it  How are you doing? It's good to see you My home is when I'm next to you My home is when I'm next to you Tell me, I just wanna listen My home is when I'm next to you My home is when I'm next to you  Oh wait a minute Where am I? Hold my hand I hold my breath We fall Oh It goes right over my head into what's called Straight into what we call lovе We were sorta somеwhere else but now I'm back That's right were back Come one were back We where kinda misdirected got lost on the wrong track Let's not talk about it Let's not talk about it Let's not talk about it  (One, two) How are you doing? It's good to see you My home is when I'm next to you My home is when I'm next to you Tell me I just wanna listen My home is when I'm next to you My home is when I'm next to you  Do you remember I'm sure you remember, oh You know I miss my home I miss my place I miss my friends Yeah That's where we go Straight into what we call love Oh, love, love  My home is when I'm next to you My home is when I'm next to you Tell me I just wanna listen My home is when I'm next to you My home is How are you doing? It's good to see you My home is when I'm next to you My home is when I'm next to you Tell me I just wanna listen My home is when I'm next to you My home is when I'm next to you",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Where Are You",
+            "language": "en",
+            "release_date": "2021-08-20",
+            "artist": "Leoniden",
+            "album_name": "Complex Happenings Reduced To A Simple Design",
+            "lyrics": "Was it something you said Or was it something we did Now the damage is done again And it cannot be fixed  Let me tell you now I can't understand How the affection in your eyes can feel so dead No, I can't understand But I guess it doesn't matter in the end  Where are you When I, when I try to erase what's left? Where are you? Where are you now?  I just need to see something bloom again Yeah, something bloom again Or something true again  Lеt me tell you now I can understand Onе can not revive what should be dead? Yeah, I can understand That nothing but our end has come too late  Where are you When I, when I try to erase what's left? Where are you? Where are you When I, when I try to erase what's left? Where are you? Where are you now?  You started this mess I'll rip it to shreds I'll rip it to shreds I'll rip it to shreds And erase what is left You started this mess I'll rip it to shreds I'll rip it to shreds I'll rip it to shreds And erase what is left  Where are you When I, when I try to erase what's left? Where are you? Where are you When I, when I try to erase what's left? Where are you? (Where are you now?) Where are you When I, when I try to erase what's left? (I'll rip it to shreds, I'll rip it to shreds) Where are you? (And erase what is left) Where are you now?",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Boring Ideas",
+            "language": "en",
+            "release_date": "2021-08-20",
+            "artist": "Leoniden",
+            "album_name": "Complex Happenings Reduced To A Simple Design",
+            "lyrics": "I warned you it might be quite hard to find the Metaphor I warned you, now your title's turned to \"Pretentious fucking show\"  Turn around your tenet Yeah, turn around your tenet It all stays the same and Superficial statements Your ideas are getting boring now  Oh, I can see too many feathers on your dresses You're pretending it's your time to shine And you can't quit, you just keep coming and coming You gotta get it right, get it right, oh I dare you, I double dare you to find a Metaphor Some treat opinions more like snеakers and jackets As if they'rе seasonal, fucking seasonal  Turn around your tenet Yeah, turn around your tenet It all stays the same and Superficial statements Your ideas are getting boring now  Go ahead change your mind You can do it all the time Go ahead and change your mind But please be kind Go ahead change your mind You can do it all the time Go ahead and change your mind But please be kind Go ahead change your mind You can do it all the time Go ahead and change your mind But please be kind  Turn around your tenet Yeah, turn around your tenet It all stays the same and Superficial statements Your ideas are getting boring now Turn around your tenet Yeah, turn around your tenet It all stays the same and Superficial statements Your ideas are getting boring now Boring now",
+            "token-classification": {
+                "en_bertbase": [
+                    {
+                        "entity": "I-MISC",
+                        "word": "aph",
+                        "start": 52,
+                        "end": 55
+                    },
+                    {
+                        "entity": "B-MISC",
+                        "word": "Met",
+                        "start": 484,
+                        "end": 487
+                    }
+                ],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Applause",
+            "language": "en",
+            "release_date": "2021-08-20",
+            "artist": "Leoniden",
+            "album_name": "Complex Happenings Reduced To A Simple Design",
+            "lyrics": "I took a hard fall on the ground After stumbling for a couple of months Listening to thousand voices Giving ten thousand advices And a lot of fingers in the wound  No matter where we go, we go too fast Driven by ambitions In opposite directions  Applause for the things we lost Paying our respects by breaking into Applause for the things we lost Paying our respects by letting secrets rest  Applause, applause, applause, a warm applause Applause, applause, applause, a warm applause  Stop, not every singlе thing has its box And some of our things will be lost Let thе strands be cut Ah, you can do whatever you want but you can't call me anymore Sleeping solo in a bed never kept me up before Devotion leaves in waves they say  Applause for the things we lost Paying our respects by breaking into Applause for the things we lost Paying our respects by letting secrets rest Applause for the things we lost Paying our respects by breaking into Applause for the things we lost Paying our respects by letting secrets rest  And I seem to see No matter where we go, we go too fast Driven by ambitions (Driven by ambitions) In opposite directions (In opposite directions) No matter where we go, we go too fast Driven by ambitions (Driven by ambitions) In opposite directions (In opposite directions)  No matter where we go, we go too fast Driven by ambitions In opposite directions No matter where we go, we go too fast Driven by ambitions In opposite directions",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Medicine",
+            "language": "en",
+            "release_date": "2021-08-20",
+            "artist": "Leoniden",
+            "album_name": "Complex Happenings Reduced To A Simple Design",
+            "lyrics": "Your sympathy is suffocating me That's why I'm not looking for sympathy Petting healing injuries Opens them up again, that's it No monologues or monocles or monologues Praising loss of insecurities Brings them back around, around and around to us  It's hard to tell the differences Between an insult and a compliment It's hard to tell the differences Between medicine and poison 'Cause it hides in the dose 'Cause it hides in the dose  Your company is suffocating me That's why I don't like society Those tiny, petty compliments They crank up thе spotlight straight on me No monologues or monocles or monologuеs Praising loss of insecurities Brings them back around, around and around to us  It's hard to tell the differences Between an insult and a compliment It's hard to tell the differences Between medicine and poison 'Cause it hides in the dose  No vaccine against disbelief No vaccine for disbelievers No pills, no cure Symptoms of isolation No vaccine against disbelief No vaccine for disbelievers No pills, no cure Symptoms of isolation No vaccine against disbelief No vaccine for disbelievers No pills, no cure Symptoms of isolation  It's hard to tell the differences Between an insult and a compliment It's hard to tell the differences Between medicine and poison 'Cause it hides in the dose",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Deny",
+            "language": "en",
+            "release_date": "2021-08-20",
+            "artist": "Leoniden",
+            "album_name": "Complex Happenings Reduced To A Simple Design",
+            "lyrics": "And if I told you that denial Could bring us together for a while Slowly turning into liars And if I told you that denial Rings like a bell for hard goodbyes We turn each other into liars  We had our reasons Now we only get by on the lesions of our lies You can run but you can't escape the price  It lingers on forever In this endless echo chamber It lingers on forever In this endless echo, echo , echo  And if I told you that denial Could bring us together for a while Slowly turning into liars And if I told you that denial Rings like a bell for hard goodbyes We turn each other into liars  We were defeated It's even harder to fail when you're self-conceited It's hard to win when you can't believe it It's hard to fight when you're not worth the prize  It lingers on forever In this endless echo chamber It lingers on forever In this endless echo, echo , echo  Pretty frames, ugly pictures Imaginary gloves for your blisters Distant noise of hard goodbyes Detached from it all with a plastic smile Pretty frames, ugly pictures Imaginary gloves for your blisters Distant noise of hard goodbyes Detached from it all with a plastic smile  It lingers on forever In this endless echo chamber It lingers on forever In this endless echo, echo , echo And if I told you that denial Could bring us together for a while Slowly turning into liars And if I told you that denial Rings like a bell for hard goodbyes We turn each other into liars",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Intro (Stuck On Repeat)",
+            "language": "en",
+            "release_date": "2021-08-20",
+            "artist": "Leoniden",
+            "album_name": "Complex Happenings Reduced To A Simple Design",
+            "lyrics": "I know it's kinda hard to be under the sea But I just need this sweet relief Please spit it out Gimme a sign Can't you see that I'm waiting? Been waiting for months Go on and break my heart, break my heart Gimme a sign Can't you see that I'm waiting? Been waiting for months Go on and break my heart, break my heart Seems like your silence is killing me We're stuck on repeat",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Broken Pieces",
+            "language": "en",
+            "release_date": "2021-08-20",
+            "artist": "Leoniden",
+            "album_name": "Complex Happenings Reduced To A Simple Design",
+            "lyrics": "There was a time There was a better time Where people seemed alright And all the broken pieces would align But it's over 'cause now I'm sober There's nothing left to fix And nothing left to learn from you  Oh, I've been to places To wait for a sign And I changed my mind I changed my mind  Don't know when it struck me And I don't know if I tried But I changed it, I changed it Because I drew a closer line  Oh, I've been to places To wait for a sign And I changed my mind I changеd my mind",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Constant",
+            "language": "en",
+            "release_date": "2014-06-11",
+            "artist": "Leoniden",
+            "album_name": "Invert India EP",
+            "lyrics": "Listed all the things to gather all tidiness that's left Has someone noticed my tired face? I guess it's just a matter of time Yes I'm offensive And I won't listen to anyone right now… A glimpse of a moment I thought you would lift your back From the throne of the ego-castle my friend I am taking the big bow once again And from now on i'm another whole year in the same position Yes, i'm going to freak out and i still won't listen to you Is there something relevant for you? A glimpse of a moment I thought you would lift your back From the throne of ego-castle, my friend I'm taking the big bow once again I called your mom She said your name for the first time If you get in my way I'll get in your way And we block each other forever When rolling stones collide… Is there something relevant for you? Is there something important That glues on the back of your head right now?",
+            "token-classification": {
+                "en_bertbase": [],
+                "de_roberta": null
+            }
+        },
+        {
+            "title": "Complex Happenings Pt. 5",
+            "language": "en",
+            "release_date": "2021-08-20",
+            "artist": "Leoniden",
+            "album_name": "Complex Happenings Reduced To A Simple Design",
+            "lyrics": "Oh You cannot judge this system through a win- Dow You've gotta face it in the mirror",
+            "token-classification": {
+                "en_bertbase": [
+                    {
+                        "entity": "B-PER",
+                        "word": "Dow",
+                        "start": 48,
+                        "end": 51
+                    }
+                ],
+                "de_roberta": null
+            }
+        }
+    ]
+}
