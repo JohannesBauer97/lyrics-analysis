@@ -1,6 +1,5 @@
 # Lyrics Analysis
 ![](data/output/average_length_of_lyrics_per_song_per_artist.png)
-![](data/output/kraftklub.png)
 ![](data/output/length_lyrics_per_artist.png)
 ![](data/output/number_albums_per_artist.png)
 ![](data/output/number_of_songs_per_artist.png)
