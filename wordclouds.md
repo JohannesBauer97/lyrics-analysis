@@ -1,0 +1,17 @@
+# Wordclouds
+
+![](data/output/wordcloud_All.png)
+![](data/output/wordcloud_Alligatoah.png)
+![](data/output/wordcloud_BRKN.png)
+![](data/output/wordcloud_Drake.png)
+![](data/output/wordcloud_EdSheeran.png)
+![](data/output/wordcloud_Greenday.png)
+![](data/output/wordcloud_JohnLennon.png)
+![](data/output/wordcloud_Kraftklub.png)
+![](data/output/wordcloud_Leoniden.png)
+![](data/output/wordcloud_LinkinPark.png)
+![](data/output/wordcloud_Nena.png)
+![](data/output/wordcloud_RIN.png)
+![](data/output/wordcloud_UdoLindenberg.png)
+![](data/output/wordcloud_VonWegenListbeth.png)
+![](data/output/wordcloud_WolfgangPetry.png)
