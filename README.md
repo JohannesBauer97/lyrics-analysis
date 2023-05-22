@@ -1,38 +1,37 @@
 # Lyrics Analysis
-## Output
-### Number of songs per artist
-![](data/output/number_of_songs_per_artist.png)
-### Length of lyrics per artist
+![](data/output/average_length_of_lyrics_per_song_per_artist.png)
+![](data/output/kraftklub.png)
 ![](data/output/length_lyrics_per_artist.png)
-### Number of songs and length of lyrics per artist
+![](data/output/number_albums_per_artist.png)
+![](data/output/number_of_songs_per_artist.png)
 ![](data/output/number_songs_and_length_lyrics_per_artist.png)
-### Wordcloud across all artists
+![](data/output/release_dates_all_songs.png)
+![](data/output/release_dates_alligatoah.png)
+![](data/output/release_dates_brkn.png)
+![](data/output/release_dates_drake.png)
+![](data/output/release_dates_edsheeran.png)
+![](data/output/release_dates_greenday.png)
+![](data/output/release_dates_johnlennon.png)
+![](data/output/release_dates_leoniden.png)
+![](data/output/release_dates_linkinpark.png)
+![](data/output/release_dates_nena.png)
+![](data/output/release_dates_rin.png)
+![](data/output/release_dates_udolindenberg.png)
+![](data/output/release_dates_vonwegenlisbeth.png)
+![](data/output/release_dates_wolfgangpetry.png)
 ![](data/output/wordcloud_All.png)
-### Wordcloud Alligatoah
 ![](data/output/wordcloud_Alligatoah.png)
-### Wordcloud BRKN
 ![](data/output/wordcloud_BRKN.png)
-### Wordcloud Drake
 ![](data/output/wordcloud_Drake.png)
-### Wordcloud Ed Sheeran
 ![](data/output/wordcloud_EdSheeran.png)
-### Wordcloud Greenday
 ![](data/output/wordcloud_Greenday.png)
-### Wordcloud John Lennon
 ![](data/output/wordcloud_JohnLennon.png)
-### Wordcloud Kraftklub
 ![](data/output/wordcloud_Kraftklub.png)
-### Wordcloud Leoniden
 ![](data/output/wordcloud_Leoniden.png)
-### Wordcloud Linkin Park
 ![](data/output/wordcloud_LinkinPark.png)
-### Wordcloud Nena
 ![](data/output/wordcloud_Nena.png)
-### Wordcloud RIN
 ![](data/output/wordcloud_RIN.png)
-### Wordcloud Udo Lindenberg
 ![](data/output/wordcloud_UdoLindenberg.png)
-### Wordcloud Von Wegen Lisbeth
 ![](data/output/wordcloud_VonWegenListbeth.png)
-### Wordcloud Wolfgang Petry
 ![](data/output/wordcloud_WolfgangPetry.png)
+
